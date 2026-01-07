@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="港股卖空名单监控系统 - 实时追踪港交所可进行卖空的指定证券名单变化">
+    <title>港股卖空名单监控</title>
+    
+    <!-- 样式 -->
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- 字体 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-container">
+                <a href="index.html" class="navbar-brand">
+                    <span class="icon">📊</span>
+                    <span>港股卖空监控</span>
+                </a>
+                <ul class="navbar-nav">
+                    <li><a href="index.html" class="nav-link">首页</a></li>
+                    <li><a href="list.html" class="nav-link">完整名单</a></li>
+                    <li><a href="history.html" class="nav-link">历史记录</a></li>
+                    <li><a href="stats.html" class="nav-link">统计分析</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主内容 -->
+    <main>
+        <div class="container">
+            <!-- 页面标题 -->
+            <div class="page-header">
+                <h1 class="page-title">最新变化</h1>
+                <p class="page-subtitle">实时追踪港交所卖空名单更新</p>
+            </div>
+
+            <!-- 核心指标卡片 -->
+            <div class="stats-grid" id="statsGrid">
+                <div class="stat-card">
+                    <div class="stat-icon">📋</div>
+                    <div class="stat-value primary" id="currentTotal">-</div>
+                    <div class="stat-label">当前总数</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">🕐</div>
+                    <div class="stat-label">最后更新</div>
+                    <div class="stat-value" style="font-size: 1.2rem;" id="lastUpdate">-</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">📈</div>
+                    <div class="stat-value success" id="recentAdded">-</div>
+                    <div class="stat-label">最近新增</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">📉</div>
+                    <div class="stat-value danger" id="recentRemoved">-</div>
+                    <div class="stat-label">最近移除</div>
+                </div>
+            </div>
+
+            <!-- 最新变化时间线 -->
+            <div class="card">
+                <div class="card-header">
+                    <h2 class="card-title">📜 最新变化记录</h2>
+                </div>
+                <div class="card-body">
+                    <div id="changeTimeline" class="timeline">
+                        <!-- 动态加载 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer style="text-align: center; padding: 3rem 0; color: var(--text-muted);">
+        <p>数据来源：<a href="https://www.hkex.com.hk" target="_blank" style="color: var(--accent-primary);">香港交易所</a></p>
+        <p style="margin-top: 0.5rem; font-size: 0.9rem;">每天北京时间 9:00 和 18:00 自动更新</p>
+    </footer>
+
+    <!-- 脚本 -->
+    <script src="js/utils.js"></script>
+    <script>
+        // 加载数据
+        async function loadData() {
+            try {
+                showLoading('changeTimeline');
+                
+                // 并行加载当前数据和历史数据
+                const [currentData, historyData] = await Promise.all([
+                    loadJSON('data/current.json'),
+                    loadJSON('data/history.json')
+                ]);
+                
+                // 更新核心指标
+                updateStats(currentData, historyData);
+                
+                // 渲染最新变化
+                renderTimeline(historyData);
+                
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                showError('changeTimeline', '数据加载失败，请稍后重试');
+            }
+        }
+
+        // 更新统计数据
+        function updateStats(currentData, historyData) {
+            // 当前总数
+            document.getElementById('currentTotal').textContent = formatNumber(currentData.total);
+            
+            // 最后更新时间
+            document.getElementById('lastUpdate').textContent = formatDate(currentData.date);
+            
+            // 最近一次变化的新增和移除数
+            if (historyData && historyData.length > 0) {
+                const latestChange = historyData[0];
+                document.getElementById('recentAdded').textContent = latestChange.added.length;
+                document.getElementById('recentRemoved').textContent = latestChange.removed.length;
+            } else {
+                document.getElementById('recentAdded').textContent = '0';
+                document.getElementById('recentRemoved').textContent = '0';
+            }
+        }
+
+        // 渲染时间线
+        function renderTimeline(historyData) {
+            const timeline = document.getElementById('changeTimeline');
+            
+            if (!historyData || historyData.length === 0) {
+                showEmpty('changeTimeline', '暂无变化记录');
+                return;
+            }
+            
+            // 只显示最近10条
+            const recentChanges = historyData.slice(0, 10);
+            
+            let html = '';
+            recentChanges.forEach(change => {
+                const netChange = change.net_change;
+                const netChangeClass = netChange > 0 ? 'text-success' : netChange < 0 ? 'text-danger' : '';
+                const netChangeIcon = netChange > 0 ? '📈' : netChange < 0 ? '📉' : '➖';
+                
+                html += `
+                    <div class="timeline-item">
+                        <div class="timeline-date">${formatDate(change.date)}</div>
+                        <div class="card">
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                                <div>
+                                    <span class="badge badge-success">新增 ${change.added.length}</span>
+                                    <span class="badge badge-danger" style="margin-left: 0.5rem;">移除 ${change.removed.length}</span>
+                                </div>
+                                <div class="${netChangeClass}" style="font-weight: 600;">
+                                    ${netChangeIcon} ${netChange > 0 ? '+' : ''}${netChange}
+                                </div>
+                            </div>
+                `;
+                
+                // 新增股票
+                if (change.added.length > 0) {
+                    html += '<div style="margin-bottom: 1rem;">';
+                    html += '<div style="font-weight: 600; margin-bottom: 0.5rem; color: var(--accent-green);">📈 新增:</div>';
+                    html += '<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">';
+                    change.added.forEach(stock => {
+                        html += `
+                            <span style="background: rgba(0, 255, 136, 0.1); padding: 0.25rem 0.75rem; border-radius: 6px; font-size: 0.9rem;">
+                                <span class="stock-code">${stock.code}</span> ${stock.name}
+                            </span>
+                        `;
+                    });
+                    html += '</div></div>';
+                }
+                
+                // 移除股票
+                if (change.removed.length > 0) {
+                    html += '<div>';
+                    html += '<div style="font-weight: 600; margin-bottom: 0.5rem; color: var(--accent-red);">📉 移除:</div>';
+                    html += '<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">';
+                    change.removed.forEach(stock => {
+                        html += `
+                            <span style="background: rgba(255, 107, 107, 0.1); padding: 0.25rem 0.75rem; border-radius: 6px; font-size: 0.9rem;">
+                                <span class="stock-code">${stock.code}</span> ${stock.name}
+                            </span>
+                        `;
+                    });
+                    html += '</div></div>';
+                }
+                
+                html += '</div></div>';
+            });
+            
+            timeline.innerHTML = html;
+        }
+
+        // 页面加载时执行
+        loadData();
+    </script>
+</body>
+</html>

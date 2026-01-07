@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="港股卖空名单历史记录 - 查看所有变化历史">
+    <title>历史记录 - 港股卖空监控</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-container">
+                <a href="index.html" class="navbar-brand">
+                    <span class="icon">📊</span>
+                    <span>港股卖空监控</span>
+                </a>
+                <ul class="navbar-nav">
+                    <li><a href="index.html" class="nav-link">首页</a></li>
+                    <li><a href="list.html" class="nav-link">完整名单</a></li>
+                    <li><a href="history.html" class="nav-link">历史记录</a></li>
+                    <li><a href="stats.html" class="nav-link">统计分析</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container-narrow">
+            <div class="page-header">
+                <h1 class="page-title">历史记录</h1>
+                <p class="page-subtitle" id="subtitle">加载中...</p>
+            </div>
+
+            <!-- 统计摘要 -->
+            <div class="stats-grid" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+                <div class="stat-card">
+                    <div class="stat-value primary" id="totalChanges">-</div>
+                    <div class="stat-label">总变化次数</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value success" id="totalAdded">-</div>
+                    <div class="stat-label">累计新增</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value danger" id="totalRemoved">-</div>
+                    <div class="stat-label">累计移除</div>
+                </div>
+            </div>
+
+            <!-- 历史记录时间线 -->
+            <div id="historyTimeline" class="timeline">
+                <!-- 动态加载 -->
+            </div>
+        </div>
+    </main>
+
+    <footer style="text-align: center; padding: 3rem 0; color: var(--text-muted);">
+        <p>数据来源：<a href="https://www.hkex.com.hk" target="_blank" style="color: var(--accent-primary);">香港交易所</a></p>
+    </footer>
+
+    <script src="js/utils.js"></script>
+    <script>
+        async function loadData() {
+            try {
+                showLoading('historyTimeline');
+
+                const historyData = await loadJSON('data/history.json');
+
+                if (!historyData || historyData.length === 0) {
+                    showEmpty('historyTimeline', '暂无历史记录');
+                    document.getElementById('subtitle').textContent = '等待第一次更新';
+                    return;
+                }
+
+                // 更新统计
+                updateStats(historyData);
+
+                // 渲染时间线
+                renderTimeline(historyData);
+
+                document.getElementById('subtitle').textContent = `共记录 ${historyData.length} 次变化`;
+
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                showError('historyTimeline', '数据加载失败，请稍后重试');
+            }
+        }
+
+        function updateStats(historyData) {
+            let totalAdded = 0;
+            let totalRemoved = 0;
+
+            historyData.forEach(change => {
+                totalAdded += change.added.length;
+                totalRemoved += change.removed.length;
+            });
+
+            document.getElementById('totalChanges').textContent = historyData.length;
+            document.getElementById('totalAdded').textContent = totalAdded;
+            document.getElementById('totalRemoved').textContent = totalRemoved;
+        }
+
+        function renderTimeline(historyData) {
+            const timeline = document.getElementById('historyTimeline');
+
+            let html = '';
+            historyData.forEach((change, index) => {
+                const netChange = change.net_change;
+                const netChangeClass = netChange > 0 ? 'text-success' : netChange < 0 ? 'text-danger' : '';
+                const netChangeIcon = netChange > 0 ? '📈' : netChange < 0 ? '📉' : '➖';
+
+                html += `
+                    <div class="timeline-item">
+                        <div class="timeline-date">${formatDate(change.date)}</div>
+                        <div class="card">
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                                <div>
+                                    <span class="badge badge-success">新增 ${change.added.length}</span>
+                                    <span class="badge badge-danger" style="margin-left: 0.5rem;">移除 ${change.removed.length}</span>
+                                </div>
+                                <div class="${netChangeClass}" style="font-weight: 600; font-size: 1.1rem;">
+                                    ${netChangeIcon} ${netChange > 0 ? '+' : ''}${netChange}
+                                </div>
+                            </div>
+                            
+                            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
+                                <div>总数: ${change.old_total} → ${change.new_total}</div>
+                                <div style="text-align: right;">时间: ${formatDateTime(change.timestamp)}</div>
+                            </div>
+                `;
+
+                // 默认折叠，可点击展开
+                const detailId = `detail-${index}`;
+                html += `
+                    <button 
+                        class="btn btn-outline" 
+                        style="width: 100%; margin-bottom: 1rem;"
+                        onclick="toggleDetail('${detailId}')"
+                    >
+                        查看详情 ▼
+                    </button>
+                    <div id="${detailId}" class="hidden">
+                `;
+
+                // 新增股票
+                if (change.added.length > 0) {
+                    html += '<div style="margin-bottom: 1rem;">';
+                    html += '<div style="font-weight: 600; margin-bottom: 0.5rem; color: var(--accent-green);">📈 新增:</div>';
+                    html += '<div style="display: flex; flex-direction: column; gap: 0.5rem;">';
+                    change.added.forEach(stock => {
+                        html += `
+                            <div style="background: rgba(0, 255, 136, 0.1); padding: 0.5rem; border-radius: 6px;">
+                                <span class="stock-code">${stock.code}</span>
+                                <span style="margin-left: 0.5rem;">${stock.name}</span>
+                                <span class="badge badge-primary" style="margin-left: 0.5rem; font-size: 0.8rem;">${stock.currency}</span>
+                            </div>
+                        `;
+                    });
+                    html += '</div></div>';
+                }
+
+                // 移除股票
+                if (change.removed.length > 0) {
+                    html += '<div>';
+                    html += '<div style="font-weight: 600; margin-bottom: 0.5rem; color: var(--accent-red);">📉 移除:</div>';
+                    html += '<div style="display: flex; flex-direction: column; gap: 0.5rem;">';
+                    change.removed.forEach(stock => {
+                        html += `
+                            <div style="background: rgba(255, 107, 107, 0.1); padding: 0.5rem; border-radius: 6px;">
+                                <span class="stock-code">${stock.code}</span>
+                                <span style="margin-left: 0.5rem;">${stock.name}</span>
+                            </div>
+                        `;
+                    });
+                    html += '</div></div>';
+                }
+
+                html += '</div></div></div>';
+            });
+
+            timeline.innerHTML = html;
+        }
+
+        function toggleDetail(id) {
+            const detail = document.getElementById(id);
+            detail.classList.toggle('hidden');
+
+            const button = detail.previousElementSibling;
+            button.textContent = detail.classList.contains('hidden') ? '查看详情 ▼' : '收起详情 ▲';
+        }
+
+        loadData();
+    </script>
+</body>
+
+</html>

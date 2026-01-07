@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="港股卖空完整名单 - 查看所有可卖空证券">
+    <title>完整名单 - 港股卖空监控</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-container">
+                <a href="index.html" class="navbar-brand">
+                    <span class="icon">📊</span>
+                    <span>港股卖空监控</span>
+                </a>
+                <ul class="navbar-nav">
+                    <li><a href="index.html" class="nav-link">首页</a></li>
+                    <li><a href="list.html" class="nav-link">完整名单</a></li>
+                    <li><a href="history.html" class="nav-link">历史记录</a></li>
+                    <li><a href="stats.html" class="nav-link">统计分析</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <div class="page-header">
+                <h1 class="page-title">完整名单</h1>
+                <p class="page-subtitle" id="subtitle">正在加载...</p>
+            </div>
+
+            <!-- 搜索和操作栏 -->
+            <div class="card mb-3">
+                <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
+                    <input type="text" id="searchInput" class="input" placeholder="🔍 搜索股票代号或名称..."
+                        style="flex: 1; min-width: 250px;">
+                    <select id="currencyFilter" class="input" style="width: 150px;">
+                        <option value="">全部货币</option>
+                        <option value="HKD">HKD</option>
+                        <option value="CNY">CNY</option>
+                        <option value="USD">USD</option>
+                    </select>
+                    <button class="btn btn-primary" onclick="exportData()">
+                        📥 导出CSV
+                    </button>
+                </div>
+            </div>
+
+            <!-- 表格 -->
+            <div class="table-container" id="tableContainer">
+                <!-- 动态加载 -->
+            </div>
+
+            <!-- 分页 -->
+            <div style="text-align: center; margin-top: 2rem;" id="pagination">
+                <!-- 动态加载 -->
+            </div>
+        </div>
+    </main>
+
+    <footer style="text-align: center; padding: 3rem 0; color: var(--text-muted);">
+        <p>数据来源：<a href="https://www.hkex.com.hk" target="_blank" style="color: var(--accent-primary);">香港交易所</a></p>
+    </footer>
+
+    <script src="js/utils.js"></script>
+    <script>
+        let allStocks = [];
+        let filteredStocks = [];
+        let currentPage = 1;
+        const itemsPerPage = 50;
+        let sortColumn = 0;
+        let sortAscending = true;
+
+        // 加载数据
+        async function loadData() {
+            try {
+                showLoading('tableContainer');
+
+                const data = await loadJSON('data/current.json');
+                allStocks = data.stocks;
+                filteredStocks = [...allStocks];
+
+                // 更新副标题
+                document.getElementById('subtitle').textContent =
+                    `生效日期：${formatDate(data.date)} | 共 ${formatNumber(data.total)} 只股票`;
+
+                renderTable();
+                renderPagination();
+
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                showError('tableContainer', '数据加载失败，请稍后重试');
+            }
+        }
+
+        // 渲染表格
+        function renderTable() {
+            const start = (currentPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const pageStocks = filteredStocks.slice(start, end);
+
+            let html = `
+                <table id="stockTable">
+                    <thead>
+                        <tr>
+                            <th onclick="sort(0)">数目 ${getSortIcon(0)}</th>
+                            <th onclick="sort(1)">股份代号 ${getSortIcon(1)}</th>
+                            <th onclick="sort(2)">股份简称 ${getSortIcon(2)}</th>
+                            <th onclick="sort(3)">交易货币 ${getSortIcon(3)}</th>
+                            <th onclick="sort(4)">种类 ${getSortIcon(4)}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            pageStocks.forEach(stock => {
+                html += `
+                    <tr>
+                        <td>${stock.number}</td>
+                        <td><span class="stock-code">${stock.code}</span></td>
+                        <td>${stock.name}</td>
+                        <td><span class="badge badge-primary">${stock.currency}</span></td>
+                        <td style="color: var(--text-muted); font-size: 0.9rem;">${stock.type}</td>
+                    </tr>
+                `;
+            });
+
+            html += '</tbody></table>';
+
+            document.getElementById('tableContainer').innerHTML = html;
+        }
+
+        // 渲染分页
+        function renderPagination() {
+            const totalPages = Math.ceil(filteredStocks.length / itemsPerPage);
+
+            if (totalPages <= 1) {
+                document.getElementById('pagination').innerHTML = '';
+                return;
+            }
+
+            let html = '<div style="display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;">';
+
+            // 上一页
+            if (currentPage > 1) {
+                html += `<button class="btn btn-outline" onclick="changePage(${currentPage - 1})">← 上一页</button>`;
+            }
+
+            // 页码
+            const maxButtons = 7;
+            let startPage = Math.max(1, currentPage - Math.floor(maxButtons / 2));
+            let endPage = Math.min(totalPages, startPage + maxButtons - 1);
+
+            if (endPage - startPage < maxButtons - 1) {
+                startPage = Math.max(1, endPage - maxButtons + 1);
+            }
+
+            if (startPage > 1) {
+                html += `<button class="btn btn-outline" onclick="changePage(1)">1</button>`;
+                if (startPage > 2) html += '<span style="padding: 0.5rem;">...</span>';
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                const active = i === currentPage ? 'btn-primary' : 'btn-outline';
+                html += `<button class="btn ${active}" onclick="changePage(${i})">${i}</button>`;
+            }
+
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) html += '<span style="padding: 0.5rem;">...</span>';
+                html += `<button class="btn btn-outline" onclick="changePage(${totalPages})">${totalPages}</button>`;
+            }
+
+            // 下一页
+            if (currentPage < totalPages) {
+                html += `<button class="btn btn-outline" onclick="changePage(${currentPage + 1})">下一页 →</button>`;
+            }
+
+            html += '</div>';
+            html += `<p style="margin-top: 1rem; color: var(--text-muted);">第 ${currentPage} 页，共 ${totalPages} 页 | 显示 ${filteredStocks.length} 条结果</p>`;
+
+            document.getElementById('pagination').innerHTML = html;
+        }
+
+        // 切换页码
+        function changePage(page) {
+            currentPage = page;
+            renderTable();
+            renderPagination();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // 排序
+        function sort(column) {
+            if (sortColumn === column) {
+                sortAscending = !sortAscending;
+            } else {
+                sortColumn = column;
+                sortAscending = true;
+            }
+
+            filteredStocks.sort((a, b) => {
+                let aValue, bValue;
+
+                switch (column) {
+                    case 0: aValue = parseInt(a.number); bValue = parseInt(b.number); break;
+                    case 1: aValue = a.code; bValue = b.code; break;
+                    case 2: aValue = a.name; bValue = b.name; break;
+                    case 3: aValue = a.currency; bValue = b.currency; break;
+                    case 4: aValue = a.type; bValue = b.type; break;
+                }
+
+                if (typeof aValue === 'number') {
+                    return sortAscending ? aValue - bValue : bValue - aValue;
+                }
+
+                return sortAscending
+                    ? aValue.localeCompare(bValue, 'zh-CN')
+                    : bValue.localeCompare(aValue, 'zh-CN');
+            });
+
+            currentPage = 1;
+            renderTable();
+            renderPagination();
+        }
+
+        // 获取排序图标
+        function getSortIcon(column) {
+            if (sortColumn !== column) return '↕️';
+            return sortAscending ? '↑' : '↓';
+        }
+
+        // 搜索
+        document.addEventListener('DOMContentLoaded', () => {
+            const searchInput = document.getElementById('searchInput');
+            const currencyFilter = document.getElementById('currencyFilter');
+
+            const applyFilters = debounce(() => {
+                const searchText = searchInput.value.toLowerCase();
+                const currency = currencyFilter.value;
+
+                filteredStocks = allStocks.filter(stock => {
+                    const matchSearch = !searchText ||
+                        stock.code.toLowerCase().includes(searchText) ||
+                        stock.name.toLowerCase().includes(searchText);
+
+                    const matchCurrency = !currency || stock.currency === currency;
+
+                    return matchSearch && matchCurrency;
+                });
+
+                currentPage = 1;
+                renderTable();
+                renderPagination();
+            }, 300);
+
+            searchInput.addEventListener('input', applyFilters);
+            currencyFilter.addEventListener('change', applyFilters);
+        });
+
+        // 导出CSV
+        function exportData() {
+            const table = document.getElementById('stockTable');
+            exportTableToCSV(table, `港股卖空名单_${new Date().toISOString().split('T')[0]}.csv`);
+        }
+
+        // 加载数据
+        loadData();
+    </script>
+</body>
+
+</html>

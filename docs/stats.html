@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="港股卖空名单统计分析 - 数据可视化">
+    <title>统计分析 - 港股卖空监控</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-container">
+                <a href="index.html" class="navbar-brand">
+                    <span class="icon">📊</span>
+                    <span>港股卖空监控</span>
+                </a>
+                <ul class="navbar-nav">
+                    <li><a href="index.html" class="nav-link">首页</a></li>
+                    <li><a href="list.html" class="nav-link">完整名单</a></li>
+                    <li><a href="history.html" class="nav-link">历史记录</a></li>
+                    <li><a href="stats.html" class="nav-link">统计分析</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <div class="page-header">
+                <h1 class="page-title">统计分析</h1>
+                <p class="page-subtitle">数据可视化与趋势分析</p>
+            </div>
+
+            <!-- 图表网格 -->
+            <div style="display: grid; gap: 2rem;">
+                <!-- 名单数量趋势 -->
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="card-title">📈 名单数量趋势</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="trendChart" style="max-height: 300px;"></canvas>
+                    </div>
+                </div>
+
+                <!-- 两列布局 -->
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 2rem;">
+                    <!-- 变化频率 -->
+                    <div class="card">
+                        <div class="card-header">
+                            <h2 class="card-title">📊 月度变化频率</h2>
+                        </div>
+                        <div class="card-body">
+                            <canvas id="frequencyChart" style="max-height: 300px;"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- 货币分布 -->
+                    <div class="card">
+                        <div class="card-header">
+                            <h2 class="card-title">🥧 交易货币分布</h2>
+                        </div>
+                        <div class="card-body">
+                            <canvas id="currencyChart" style="max-height: 300px;"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 关键指标 -->
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="card-title">📋 关键指标</h2>
+                    </div>
+                    <div class="card-body">
+                        <div id="keyMetrics"
+                            style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+                            <!--动态加载 -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer style="text-align: center; padding: 3rem 0; color: var(--text-muted);">
+        <p>数据来源：<a href="https://www.hkex.com.hk" target="_blank" style="color: var(--accent-primary);">香港交易所</a></p>
+    </footer>
+
+    <script src="js/utils.js"></script>
+    <script>
+        let trendChart, frequencyChart, currencyChart;
+
+        async function loadData() {
+            try {
+                const [statsData, historyData, currentData] = await Promise.all([
+                    loadJSON('data/stats.json'),
+                    loadJSON('data/history.json'),
+                    loadJSON('data/current.json')
+                ]);
+
+                renderCharts(statsData, historyData, currentData);
+                renderKeyMetrics(statsData, historyData);
+
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                showToast('数据加载失败', 'error');
+            }
+        }
+
+        function renderCharts(statsData, historyData, currentData) {
+            // Chart.js 全局配置
+            Chart.defaults.color = '#cbd5e1';
+            Chart.defaults.borderColor = 'rgba(255, 255, 255, 0.1)';
+
+            // 1. 名单数量趋势图
+            const trendData = prepareTrendData(historyData, currentData);
+            const ctx1 = document.getElementById('trendChart').getContext('2d');
+            trendChart = new Chart(ctx1, {
+                type: 'line',
+                data: {
+                    labels: trendData.labels,
+                    datasets: [{
+                        label: '名单总数',
+                        data: trendData.values,
+                        borderColor: '#3b82f6',
+                        backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                        tension: 0.4,
+                        fill: true
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            backgroundColor: 'rgba(30, 41, 59, 0.95)',
+                            titleColor: '#f1f5f9',
+                            bodyColor: '#cbd5e1',
+                            borderColor: 'rgba(59, 130, 246, 0.5)',
+                            borderWidth: 1
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: false,
+                            grid: { color: 'rgba(255, 255, 255, 0.05)' }
+                        },
+                        x: {
+                            grid: { color: 'rgba(255, 255, 255, 0.05)' }
+                        }
+                    }
+                }
+            });
+
+            // 2. 月度变化频率
+            const frequencyData = prepareFrequencyData(statsData.update_frequency);
+            const ctx2 = document.getElementById('frequencyChart').getContext('2d');
+            frequencyChart = new Chart(ctx2, {
+                type: 'bar',
+                data: {
+                    labels: frequencyData.labels,
+                    datasets: [{
+                        label: '更新次数',
+                        data: frequencyData.values,
+                        backgroundColor: 'rgba(0, 255, 136, 0.6)',
+                        borderColor: '#00ff88',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: { stepSize: 1 },
+                            grid: { color: 'rgba(255,255, 255, 0.05)' }
+                        },
+                        x: {
+                            grid: { display: false }
+                        }
+                    }
+                }
+            });
+
+            // 3. 货币分布饼图
+            const currencyData = prepareCurrencyData(statsData.currency_distribution);
+            const ctx3 = document.getElementById('currencyChart').getContext('2d');
+            currencyChart = new Chart(ctx3, {
+                type: 'doughnut',
+                data: {
+                    labels: currencyData.labels,
+                    datasets: [{
+                        data: currencyData.values,
+                        backgroundColor: [
+                            'rgba(59, 130, 246, 0.8)',
+                            'rgba(0, 255, 136, 0.8)',
+                            'rgba(251, 191, 36, 0.8)',
+                            'rgba(255, 107, 107, 0.8)'
+                        ],
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { padding: 15 }
+                        }
+                    }
+                }
+            });
+        }
+
+        function prepareTrendData(historyData, currentData) {
+            const labels = [];
+            const values = [];
+
+            // 如果没有历史数据，只显示当前数据点
+            if (!historyData || historyData.length === 0) {
+                return {
+                    labels: [formatDate(currentData.date)],
+                    values: [currentData.total]
+                };
+            }
+
+            // 从历史数据构建（倒序）
+            const sorted = [...historyData].reverse();
+            sorted.forEach(change => {
+                labels.push(formatDate(change.date));
+                values.push(change.new_total);
+            });
+
+            return { labels, values };
+        }
+
+        function prepareFrequencyData(updateFrequency) {
+            const sorted = Object.entries(updateFrequency).sort();
+            return {
+                labels: sorted.map(([month]) => month),
+                values: sorted.map(([, count]) => count)
+            };
+        }
+
+        function prepareCurrencyData(currencyDist) {
+            return {
+                labels: Object.keys(currencyDist),
+                values: Object.values(currencyDist)
+            };
+        }
+
+        function renderKeyMetrics(statsData, historyData) {
+            const container = document.getElementById('keyMetrics');
+
+            // 计算指标
+            let totalAdded = 0;
+            let totalRemoved = 0;
+            historyData.forEach(change => {
+                totalAdded += change.added.length;
+                totalRemoved += change.removed.length;
+            });
+
+            const avgChangePerUpdate = historyData.length > 0
+                ? ((totalAdded + totalRemoved) / historyData.length).toFixed(1)
+                : 0;
+
+            const metrics = [
+                { label: '当前总数', value: formatNumber(statsData.current_total), color: 'primary' },
+                { label: '历史更新次数', value: statsData.total_changes, color: 'primary' },
+                { label: '累计新增', value: totalAdded, color: 'success' },
+                { label: '累计移除', value: totalRemoved, color: 'danger' },
+                { label: '平均每次变化', value: avgChangePerUpdate, color: 'warning' },
+                { label: '最后更新', value: formatDate(statsData.last_update), color: 'primary' }
+            ];
+
+            let html = '';
+            metrics.forEach(metric => {
+                html += `
+                    <div style="text-align: center; padding: 1rem; background: rgba(255, 255, 255, 0.02); border-radius: 8px;">
+                        <div style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.5rem;">${metric.label}</div>
+                        <div class="text-${metric.color}" style="font-size: 1.5rem; font-weight: 700; font-family: var(--font-mono);">${metric.value}</div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        loadData();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+name: 港股卖空名单监控
+
+on:
+  # 定时任务：每天北京时间 9:00 和 18:00
+  schedule:
+    - cron: '0 1 * * *'   # UTC 1:00 = 北京时间 9:00
+    - cron: '0 10 * * *'  # UTC 10:00 = 北京时间 18:00
+  
+  # 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # 需要写权限来提交数据文件
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史，用于提交
+      
+      - name: 设置Python环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: 安装依赖
+        run: |
+          pip install -r scripts/requirements.txt
+      
+      - name: 运行监控脚本
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
+        run: |
+          cd scripts
+          python main.py
+      
+      - name: 提交数据变化
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 添加数据文件
+          git add docs/data/*.json
+          
+          # 检查是否有变化
+          if git diff --staged --quiet; then
+            echo "无数据变化，跳过提交"
+          else
+            git commit -m "🤖 更新卖空名单数据 - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "✓ 数据已提交并推送"
+          fi
