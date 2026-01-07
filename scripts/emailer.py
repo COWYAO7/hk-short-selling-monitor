@@ -276,7 +276,8 @@ def send_email(change_record, gmail_address, gmail_password, website_url=None):
         msg = MIMEMultipart('alternative')
         msg['Subject'] = f"🚨 港股卖空名单更新 - {change_record['date']} (新增{len(change_record['added'])} 移除{len(change_record['removed'])})"
         msg['From'] = gmail_address
-        msg['To'] = gmail_address
+        # 发送到两个邮箱：原配置的邮箱 + iwshgo@gmail.com
+        msg['To'] = f"{gmail_address}, iwshgo@gmail.com"
         
         # 生成HTML内容
         html_content = generate_html_email(change_record, website_url)
