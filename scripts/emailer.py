@@ -272,12 +272,14 @@ def send_email(change_record, gmail_address, gmail_password, website_url=None):
         bool: 是否发送成功
     """
     try:
+        # 从环境变量读取收件人邮箱，如果未配置则默认发送到发件人自己
+        recipient_email = os.environ.get('RECIPIENT_EMAIL', gmail_address)
+        
         # 创建邮件
         msg = MIMEMultipart('alternative')
         msg['Subject'] = f"🚨 港股卖空名单更新 - {change_record['date']} (新增{len(change_record['added'])} 移除{len(change_record['removed'])})"
         msg['From'] = gmail_address
-        # 发送到两个邮箱：原配置的邮箱 + iwshgo@gmail.com
-        msg['To'] = f"{gmail_address}, iwshgo@gmail.com"
+        msg['To'] = recipient_email  # 使用环境变量配置的收件人
         
         # 生成HTML内容
         html_content = generate_html_email(change_record, website_url)
@@ -292,7 +294,7 @@ def send_email(change_record, gmail_address, gmail_password, website_url=None):
         server.send_message(msg)
         server.quit()
         
-        print(f"✓ 邮件发送成功到 {gmail_address}")
+        print(f"✓ 邮件发送成功到 {recipient_email}")
         return True
         
     except Exception as e:
