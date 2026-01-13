@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-09",
+  "date": "2026-01-14",
   "total": 1152,
   "stocks": [
     {
@@ -3699,7 +3699,7 @@
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "412",
@@ -4505,11 +4505,11 @@
     {
       "number": "501",
       "code": "2489",
-      "name": "集海資源",
+      "name": "集海黃金",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "502",
@@ -10371,5 +10371,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-01-13T02:57:42.615552"
+  "fetched_at": "2026-01-13T09:36:04.931290"
 }
