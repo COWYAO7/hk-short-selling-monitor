@@ -6,9 +6,35 @@
 import requests
 import re
 import csv
+import time
 from io import StringIO
 from datetime import datetime
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+
+def create_session_with_retry():
+    """
+    创建带有重试机制的 requests session
+    
+    Returns:
+        requests.Session: 配置好重试策略的 session
+    """
+    session = requests.Session()
+    
+    # 配置重试策略：最多重试3次，每次间隔1秒
+    retry_strategy = Retry(
+        total=3,  # 最多重试3次
+        backoff_factor=1,  # 重试间隔：1秒、2秒、4秒
+        status_forcelist=[429, 500, 502, 503, 504],  # 这些状态码会触发重试
+    )
+    
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    
+    return session
 
 
 def fetch_latest_csv_url():
@@ -20,14 +46,18 @@ def fetch_latest_csv_url():
     """
     base_url = "https://www.hkex.com.hk/Services/Trading/Securities/Securities-Lists/Designated-Securities-Eligible-for-Short-Selling?sc_lang=zh-HK"
     
-    # 添加User-Agent，避免被拒绝访问
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     
     try:
-        response = requests.get(base_url, headers=headers, timeout=30)
+        # 使用带重试机制的 session
+        session = create_session_with_retry()
+        
+        print("正在连接港交所网站...")
+        response = session.get(base_url, headers=headers, timeout=60)  # 增加超时时间到60秒
         response.raise_for_status()
+        
         soup = BeautifulSoup(response.text, 'html.parser')
         
         # 查找第一个CSV下载链接（即最新的）
@@ -79,7 +109,11 @@ def parse_csv_data(csv_url):
     }
     
     try:
-        response = requests.get(csv_url, headers=headers, timeout=30)
+        # 使用带重试机制的 session
+        session = create_session_with_retry()
+        
+        print("正在下载CSV文件...")
+        response = session.get(csv_url, headers=headers, timeout=60)  # 增加超时时间到60秒
         response.encoding = 'utf-8-sig'  # 处理BOM
         
         # 使用csv模块正确解析（避免字段中的逗号导致错误）
