@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-01-15",
+    "timestamp": "2026-01-14T09:36:40.233942",
+    "old_total": 1152,
+    "new_total": 1154,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "1120",
+        "code": "83110",
+        "name": "ＧＸ恒生股息－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1141",
+        "code": "83416",
+        "name": "ＡＧＸ國指兌－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "975",
+        "code": "9416",
+        "name": "ＡＧＸ國指兌－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": [
+      {
+        "number": "272",
+        "code": "1263",
+        "name": "栢能集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-01-09",
     "timestamp": "2026-01-07T06:26:00.135477",
     "old_total": 0,
