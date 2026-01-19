@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-15",
+  "date": "2026-01-20",
   "total": 1154,
   "stocks": [
     {
@@ -5913,7 +5913,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
       "number": "658",
@@ -6633,7 +6633,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
       "number": "738",
@@ -7754,11 +7754,11 @@
     {
       "number": "862",
       "code": "6682",
-      "name": "第四範式",
+      "name": "範式智能",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "863",
@@ -8775,7 +8775,7 @@
       "currency": "USD",
       "type": "基金",
       "exempt": "",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "976",
@@ -10080,7 +10080,7 @@
       "currency": "CNY",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "1121",
@@ -10269,7 +10269,7 @@
       "currency": "CNY",
       "type": "基金",
       "exempt": "",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "1142",
@@ -10389,5 +10389,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-01-19T03:07:39.839662"
+  "fetched_at": "2026-01-19T09:43:33.354039"
 }
