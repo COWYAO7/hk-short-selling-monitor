@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-01-28",
+    "timestamp": "2026-01-27T09:41:46.190497",
+    "old_total": 1154,
+    "new_total": 1156,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "559",
+        "code": "2805",
+        "name": "銀河博時東盟",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "653",
+        "code": "3101",
+        "name": "南方Ａ５００",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1096",
+        "code": "82805",
+        "name": "銀河博時東盟－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1021",
+        "code": "9805",
+        "name": "銀河博時東盟－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": [
+      {
+        "number": "9",
+        "code": "11",
+        "name": "恒生銀行",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "1075",
+        "code": "80011",
+        "name": "恒生銀行－Ｒ",
+        "currency": "CNY",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-01-15",
     "timestamp": "2026-01-14T09:36:40.233942",
     "old_total": 1152,
