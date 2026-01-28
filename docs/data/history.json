@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-01-29",
+    "timestamp": "2026-01-28T09:42:03.562875",
+    "old_total": 1156,
+    "new_total": 1160,
+    "net_change": 4,
+    "added": [
+      {
+        "number": "690",
+        "code": "3170",
+        "name": "恒生黃金ＥＴＦ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "696",
+        "code": "3176",
+        "name": "Ａ泰康美元",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "769",
+        "code": "3457",
+        "name": "Ａ泰康港元",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "961",
+        "code": "9176",
+        "name": "Ａ泰康美元－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-01-28",
     "timestamp": "2026-01-27T09:41:46.190497",
     "old_total": 1154,
