@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-01-30",
+    "timestamp": "2026-01-29T09:53:50.627189",
+    "old_total": 1160,
+    "new_total": 1163,
+    "net_change": 3,
+    "added": [
+      {
+        "number": "574",
+        "code": "2824",
+        "name": "易方達黃金礦",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1106",
+        "code": "82824",
+        "name": "易方達黃金礦－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1035",
+        "code": "9824",
+        "name": "易方達黃金礦－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-01-29",
     "timestamp": "2026-01-28T09:42:03.562875",
     "old_total": 1156,
