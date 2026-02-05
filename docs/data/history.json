@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-02-06",
+    "timestamp": "2026-02-05T09:55:45.371982",
+    "old_total": 1163,
+    "new_total": 1166,
+    "net_change": 3,
+    "added": [
+      {
+        "number": "755",
+        "code": "3434",
+        "name": "易方達數科",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1154",
+        "code": "83434",
+        "name": "易方達數科－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "985",
+        "code": "9434",
+        "name": "易方達數科－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-01-30",
     "timestamp": "2026-01-29T09:53:50.627189",
     "old_total": 1160,
