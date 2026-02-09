@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-02-10",
+    "timestamp": "2026-02-09T10:10:15.783794",
+    "old_total": 1166,
+    "new_total": 1165,
+    "net_change": -1,
+    "added": [],
+    "removed": [
+      {
+        "number": "1069",
+        "code": "9956",
+        "name": "安能物流",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-02-06",
     "timestamp": "2026-02-05T09:55:45.371982",
     "old_total": 1163,
