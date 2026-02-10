@@ -1,6 +1,6 @@
 {
-  "date": "2026-02-10",
-  "total": 1165,
+  "date": "2026-02-13",
+  "total": 1185,
   "stocks": [
     {
       "number": "1",
@@ -193,15 +193,6 @@
     },
     {
       "number": "22",
-      "code": "35",
-      "name": "遠東發展",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "23",
       "code": "38",
       "name": "第一拖拉機股份",
       "currency": "HKD",
@@ -210,7 +201,7 @@
       "remarks": ""
     },
     {
-      "number": "24",
+      "number": "23",
       "code": "41",
       "name": "鷹君",
       "currency": "HKD",
@@ -219,7 +210,7 @@
       "remarks": ""
     },
     {
-      "number": "25",
+      "number": "24",
       "code": "45",
       "name": "大酒店",
       "currency": "HKD",
@@ -228,7 +219,7 @@
       "remarks": ""
     },
     {
-      "number": "26",
+      "number": "25",
       "code": "50",
       "name": "香港小輪（集團）",
       "currency": "HKD",
@@ -237,7 +228,7 @@
       "remarks": ""
     },
     {
-      "number": "27",
+      "number": "26",
       "code": "53",
       "name": "國浩集團",
       "currency": "HKD",
@@ -246,7 +237,7 @@
       "remarks": ""
     },
     {
-      "number": "28",
+      "number": "27",
       "code": "62",
       "name": "載通",
       "currency": "HKD",
@@ -255,7 +246,7 @@
       "remarks": ""
     },
     {
-      "number": "29",
+      "number": "28",
       "code": "64",
       "name": "結好控股",
       "currency": "HKD",
@@ -264,7 +255,7 @@
       "remarks": ""
     },
     {
-      "number": "30",
+      "number": "29",
       "code": "66",
       "name": "港鐵公司",
       "currency": "HKD",
@@ -273,7 +264,7 @@
       "remarks": ""
     },
     {
-      "number": "31",
+      "number": "30",
       "code": "69",
       "name": "香格里拉（亞洲）",
       "currency": "HKD",
@@ -282,7 +273,7 @@
       "remarks": ""
     },
     {
-      "number": "32",
+      "number": "31",
       "code": "71",
       "name": "美麗華酒店",
       "currency": "HKD",
@@ -291,7 +282,7 @@
       "remarks": ""
     },
     {
-      "number": "33",
+      "number": "32",
       "code": "81",
       "name": "中國海外宏洋集團",
       "currency": "HKD",
@@ -300,7 +291,7 @@
       "remarks": ""
     },
     {
-      "number": "34",
+      "number": "33",
       "code": "83",
       "name": "信和置業",
       "currency": "HKD",
@@ -309,7 +300,7 @@
       "remarks": ""
     },
     {
-      "number": "35",
+      "number": "34",
       "code": "85",
       "name": "中電華大科技",
       "currency": "HKD",
@@ -318,7 +309,7 @@
       "remarks": ""
     },
     {
-      "number": "36",
+      "number": "35",
       "code": "86",
       "name": "新鴻基公司",
       "currency": "HKD",
@@ -327,7 +318,7 @@
       "remarks": ""
     },
     {
-      "number": "37",
+      "number": "36",
       "code": "88",
       "name": "TAI CHEUNG HOLD",
       "currency": "HKD",
@@ -336,7 +327,7 @@
       "remarks": ""
     },
     {
-      "number": "38",
+      "number": "37",
       "code": "101",
       "name": "恒隆地產",
       "currency": "HKD",
@@ -345,7 +336,7 @@
       "remarks": ""
     },
     {
-      "number": "39",
+      "number": "38",
       "code": "107",
       "name": "四川成渝高速公路",
       "currency": "HKD",
@@ -354,7 +345,7 @@
       "remarks": ""
     },
     {
-      "number": "40",
+      "number": "39",
       "code": "116",
       "name": "周生生",
       "currency": "HKD",
@@ -363,7 +354,7 @@
       "remarks": ""
     },
     {
-      "number": "41",
+      "number": "40",
       "code": "119",
       "name": "保利置業集團",
       "currency": "HKD",
@@ -372,7 +363,7 @@
       "remarks": ""
     },
     {
-      "number": "42",
+      "number": "41",
       "code": "123",
       "name": "越秀地產",
       "currency": "HKD",
@@ -381,7 +372,7 @@
       "remarks": ""
     },
     {
-      "number": "43",
+      "number": "42",
       "code": "133",
       "name": "招商局中國基金",
       "currency": "HKD",
@@ -390,7 +381,7 @@
       "remarks": ""
     },
     {
-      "number": "44",
+      "number": "43",
       "code": "135",
       "name": "昆侖能源",
       "currency": "HKD",
@@ -399,7 +390,7 @@
       "remarks": ""
     },
     {
-      "number": "45",
+      "number": "44",
       "code": "136",
       "name": "中國儒意",
       "currency": "HKD",
@@ -408,7 +399,7 @@
       "remarks": ""
     },
     {
-      "number": "46",
+      "number": "45",
       "code": "142",
       "name": "第一太平",
       "currency": "HKD",
@@ -417,13 +408,22 @@
       "remarks": ""
     },
     {
-      "number": "47",
+      "number": "46",
       "code": "144",
       "name": "招商局港口",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
       "remarks": ""
+    },
+    {
+      "number": "47",
+      "code": "147",
+      "name": "國際商業結算",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
     },
     {
       "number": "48",
@@ -706,15 +706,6 @@
     },
     {
       "number": "79",
-      "code": "314",
-      "name": "思派健康",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "80",
       "code": "315",
       "name": "數碼通電訊",
       "currency": "HKD",
@@ -723,7 +714,7 @@
       "remarks": ""
     },
     {
-      "number": "81",
+      "number": "80",
       "code": "316",
       "name": "東方海外國際",
       "currency": "HKD",
@@ -732,7 +723,7 @@
       "remarks": ""
     },
     {
-      "number": "82",
+      "number": "81",
       "code": "317",
       "name": "中船防務",
       "currency": "HKD",
@@ -741,7 +732,7 @@
       "remarks": ""
     },
     {
-      "number": "83",
+      "number": "82",
       "code": "322",
       "name": "康師傅控股",
       "currency": "HKD",
@@ -750,7 +741,7 @@
       "remarks": ""
     },
     {
-      "number": "84",
+      "number": "83",
       "code": "323",
       "name": "馬鞍山鋼鐵股份",
       "currency": "HKD",
@@ -759,7 +750,7 @@
       "remarks": ""
     },
     {
-      "number": "85",
+      "number": "84",
       "code": "325",
       "name": "布魯可",
       "currency": "HKD",
@@ -768,7 +759,7 @@
       "remarks": ""
     },
     {
-      "number": "86",
+      "number": "85",
       "code": "326",
       "name": "中國星集團",
       "currency": "HKD",
@@ -777,7 +768,7 @@
       "remarks": ""
     },
     {
-      "number": "87",
+      "number": "86",
       "code": "327",
       "name": "百富環球",
       "currency": "HKD",
@@ -786,7 +777,7 @@
       "remarks": ""
     },
     {
-      "number": "88",
+      "number": "87",
       "code": "336",
       "name": "華寶國際",
       "currency": "HKD",
@@ -795,7 +786,7 @@
       "remarks": ""
     },
     {
-      "number": "89",
+      "number": "88",
       "code": "338",
       "name": "上海石油化工股份",
       "currency": "HKD",
@@ -804,7 +795,7 @@
       "remarks": ""
     },
     {
-      "number": "90",
+      "number": "89",
       "code": "340",
       "name": "潼關黃金",
       "currency": "HKD",
@@ -813,7 +804,7 @@
       "remarks": ""
     },
     {
-      "number": "91",
+      "number": "90",
       "code": "341",
       "name": "大家樂集團",
       "currency": "HKD",
@@ -822,7 +813,7 @@
       "remarks": ""
     },
     {
-      "number": "92",
+      "number": "91",
       "code": "345",
       "name": "VITASOY INT'L",
       "currency": "HKD",
@@ -831,7 +822,7 @@
       "remarks": ""
     },
     {
-      "number": "93",
+      "number": "92",
       "code": "347",
       "name": "鞍鋼股份",
       "currency": "HKD",
@@ -840,7 +831,7 @@
       "remarks": ""
     },
     {
-      "number": "94",
+      "number": "93",
       "code": "354",
       "name": "中國軟件國際",
       "currency": "HKD",
@@ -849,7 +840,7 @@
       "remarks": ""
     },
     {
-      "number": "95",
+      "number": "94",
       "code": "357",
       "name": "美蘭空港",
       "currency": "HKD",
@@ -858,7 +849,7 @@
       "remarks": ""
     },
     {
-      "number": "96",
+      "number": "95",
       "code": "358",
       "name": "江西銅業股份",
       "currency": "HKD",
@@ -867,7 +858,7 @@
       "remarks": ""
     },
     {
-      "number": "97",
+      "number": "96",
       "code": "363",
       "name": "上海實業控股",
       "currency": "HKD",
@@ -876,13 +867,22 @@
       "remarks": ""
     },
     {
-      "number": "98",
+      "number": "97",
       "code": "371",
       "name": "北控水務集團",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
       "remarks": ""
+    },
+    {
+      "number": "98",
+      "code": "373",
+      "name": "聯合集團",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
     },
     {
       "number": "99",
@@ -940,6 +940,15 @@
     },
     {
       "number": "105",
+      "code": "400",
+      "name": "硬蛋創新",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "106",
       "code": "405",
       "name": "越秀房產信託基金",
       "currency": "HKD",
@@ -948,7 +957,7 @@
       "remarks": ""
     },
     {
-      "number": "106",
+      "number": "107",
       "code": "412",
       "name": "山高控股",
       "currency": "HKD",
@@ -957,7 +966,7 @@
       "remarks": ""
     },
     {
-      "number": "107",
+      "number": "108",
       "code": "425",
       "name": "敏實集團",
       "currency": "HKD",
@@ -966,7 +975,7 @@
       "remarks": ""
     },
     {
-      "number": "108",
+      "number": "109",
       "code": "434",
       "name": "博雅互動",
       "currency": "HKD",
@@ -975,7 +984,7 @@
       "remarks": ""
     },
     {
-      "number": "109",
+      "number": "110",
       "code": "435",
       "name": "陽光房地產基金",
       "currency": "HKD",
@@ -984,7 +993,7 @@
       "remarks": ""
     },
     {
-      "number": "110",
+      "number": "111",
       "code": "440",
       "name": "大新金融",
       "currency": "HKD",
@@ -993,7 +1002,7 @@
       "remarks": ""
     },
     {
-      "number": "111",
+      "number": "112",
       "code": "460",
       "name": "四環醫藥",
       "currency": "HKD",
@@ -1002,7 +1011,7 @@
       "remarks": ""
     },
     {
-      "number": "112",
+      "number": "113",
       "code": "467",
       "name": "聯合能源集團",
       "currency": "HKD",
@@ -1011,7 +1020,7 @@
       "remarks": ""
     },
     {
-      "number": "113",
+      "number": "114",
       "code": "486",
       "name": "俄鋁",
       "currency": "HKD",
@@ -1020,7 +1029,7 @@
       "remarks": ""
     },
     {
-      "number": "114",
+      "number": "115",
       "code": "489",
       "name": "東風集團股份",
       "currency": "HKD",
@@ -1029,7 +1038,7 @@
       "remarks": ""
     },
     {
-      "number": "115",
+      "number": "116",
       "code": "506",
       "name": "中國食品",
       "currency": "HKD",
@@ -1038,7 +1047,7 @@
       "remarks": ""
     },
     {
-      "number": "116",
+      "number": "117",
       "code": "511",
       "name": "電視廣播",
       "currency": "HKD",
@@ -1047,7 +1056,7 @@
       "remarks": ""
     },
     {
-      "number": "117",
+      "number": "118",
       "code": "512",
       "name": "遠大醫藥",
       "currency": "HKD",
@@ -1056,7 +1065,7 @@
       "remarks": ""
     },
     {
-      "number": "118",
+      "number": "119",
       "code": "517",
       "name": "中遠海運國際",
       "currency": "HKD",
@@ -1065,7 +1074,16 @@
       "remarks": ""
     },
     {
-      "number": "119",
+      "number": "120",
+      "code": "521",
+      "name": "CWT INT'L",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "121",
       "code": "522",
       "name": "ASMPT",
       "currency": "HKD",
@@ -1074,7 +1092,7 @@
       "remarks": ""
     },
     {
-      "number": "120",
+      "number": "122",
       "code": "525",
       "name": "廣深鐵路股份",
       "currency": "HKD",
@@ -1083,27 +1101,9 @@
       "remarks": ""
     },
     {
-      "number": "121",
-      "code": "535",
-      "name": "金地商置",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "122",
+      "number": "123",
       "code": "546",
       "name": "阜豐集團",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "123",
-      "code": "547",
-      "name": "數字王國",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
@@ -1309,6 +1309,15 @@
     },
     {
       "number": "146",
+      "code": "662",
+      "name": "亞洲金融",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "147",
       "code": "666",
       "name": "瑞浦蘭鈞",
       "currency": "HKD",
@@ -1317,7 +1326,7 @@
       "remarks": ""
     },
     {
-      "number": "147",
+      "number": "148",
       "code": "667",
       "name": "中國東方教育",
       "currency": "HKD",
@@ -1326,7 +1335,7 @@
       "remarks": ""
     },
     {
-      "number": "148",
+      "number": "149",
       "code": "669",
       "name": "創科實業",
       "currency": "HKD",
@@ -1335,7 +1344,7 @@
       "remarks": ""
     },
     {
-      "number": "149",
+      "number": "150",
       "code": "670",
       "name": "中國東方航空股份",
       "currency": "HKD",
@@ -1344,7 +1353,7 @@
       "remarks": ""
     },
     {
-      "number": "150",
+      "number": "151",
       "code": "683",
       "name": "嘉里建設",
       "currency": "HKD",
@@ -1353,7 +1362,7 @@
       "remarks": ""
     },
     {
-      "number": "151",
+      "number": "152",
       "code": "688",
       "name": "中國海外發展",
       "currency": "HKD",
@@ -1362,7 +1371,7 @@
       "remarks": ""
     },
     {
-      "number": "152",
+      "number": "153",
       "code": "694",
       "name": "北京首都機場股份",
       "currency": "HKD",
@@ -1371,7 +1380,7 @@
       "remarks": ""
     },
     {
-      "number": "153",
+      "number": "154",
       "code": "696",
       "name": "中國民航信息網絡",
       "currency": "HKD",
@@ -1380,7 +1389,7 @@
       "remarks": ""
     },
     {
-      "number": "154",
+      "number": "155",
       "code": "697",
       "name": "首程控股",
       "currency": "HKD",
@@ -1389,7 +1398,7 @@
       "remarks": ""
     },
     {
-      "number": "155",
+      "number": "156",
       "code": "700",
       "name": "騰訊控股",
       "currency": "HKD",
@@ -1398,7 +1407,7 @@
       "remarks": ""
     },
     {
-      "number": "156",
+      "number": "157",
       "code": "709",
       "name": "佐丹奴國際",
       "currency": "HKD",
@@ -1407,7 +1416,7 @@
       "remarks": ""
     },
     {
-      "number": "157",
+      "number": "158",
       "code": "710",
       "name": "京東方精電",
       "currency": "HKD",
@@ -1416,7 +1425,7 @@
       "remarks": ""
     },
     {
-      "number": "158",
+      "number": "159",
       "code": "719",
       "name": "山東新華製藥股份",
       "currency": "HKD",
@@ -1425,7 +1434,7 @@
       "remarks": ""
     },
     {
-      "number": "159",
+      "number": "160",
       "code": "728",
       "name": "中國電信",
       "currency": "HKD",
@@ -1434,7 +1443,7 @@
       "remarks": ""
     },
     {
-      "number": "160",
+      "number": "161",
       "code": "732",
       "name": "信利國際",
       "currency": "HKD",
@@ -1443,7 +1452,7 @@
       "remarks": ""
     },
     {
-      "number": "161",
+      "number": "162",
       "code": "751",
       "name": "創維集團",
       "currency": "HKD",
@@ -1452,7 +1461,7 @@
       "remarks": ""
     },
     {
-      "number": "162",
+      "number": "163",
       "code": "752",
       "name": "PICO FAR EAST",
       "currency": "HKD",
@@ -1461,7 +1470,7 @@
       "remarks": ""
     },
     {
-      "number": "163",
+      "number": "164",
       "code": "753",
       "name": "中國國航",
       "currency": "HKD",
@@ -1470,7 +1479,7 @@
       "remarks": ""
     },
     {
-      "number": "164",
+      "number": "165",
       "code": "754",
       "name": "合生創展集團",
       "currency": "HKD",
@@ -1479,7 +1488,7 @@
       "remarks": ""
     },
     {
-      "number": "165",
+      "number": "166",
       "code": "762",
       "name": "中國聯通",
       "currency": "HKD",
@@ -1488,7 +1497,7 @@
       "remarks": ""
     },
     {
-      "number": "166",
+      "number": "167",
       "code": "763",
       "name": "中興通訊",
       "currency": "HKD",
@@ -1497,7 +1506,7 @@
       "remarks": ""
     },
     {
-      "number": "167",
+      "number": "168",
       "code": "772",
       "name": "閱文集團",
       "currency": "HKD",
@@ -1506,7 +1515,7 @@
       "remarks": ""
     },
     {
-      "number": "168",
+      "number": "169",
       "code": "775",
       "name": "長江生命科技",
       "currency": "HKD",
@@ -1515,7 +1524,7 @@
       "remarks": ""
     },
     {
-      "number": "169",
+      "number": "170",
       "code": "777",
       "name": "網龍",
       "currency": "HKD",
@@ -1524,7 +1533,7 @@
       "remarks": ""
     },
     {
-      "number": "170",
+      "number": "171",
       "code": "778",
       "name": "置富產業信託",
       "currency": "HKD",
@@ -1533,7 +1542,7 @@
       "remarks": ""
     },
     {
-      "number": "171",
+      "number": "172",
       "code": "780",
       "name": "同程旅行",
       "currency": "HKD",
@@ -1542,7 +1551,7 @@
       "remarks": ""
     },
     {
-      "number": "172",
+      "number": "173",
       "code": "788",
       "name": "中國鐵塔",
       "currency": "HKD",
@@ -1551,7 +1560,7 @@
       "remarks": ""
     },
     {
-      "number": "173",
+      "number": "174",
       "code": "799",
       "name": "IGG",
       "currency": "HKD",
@@ -1560,7 +1569,16 @@
       "remarks": ""
     },
     {
-      "number": "174",
+      "number": "175",
+      "code": "800",
+      "name": "文遠知行－Ｗ",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "176",
       "code": "806",
       "name": "惠理集團",
       "currency": "HKD",
@@ -1569,7 +1587,7 @@
       "remarks": ""
     },
     {
-      "number": "175",
+      "number": "177",
       "code": "807",
       "name": "上海實業環境",
       "currency": "HKD",
@@ -1578,7 +1596,7 @@
       "remarks": ""
     },
     {
-      "number": "176",
+      "number": "178",
       "code": "808",
       "name": "泓富產業信託",
       "currency": "HKD",
@@ -1587,7 +1605,7 @@
       "remarks": ""
     },
     {
-      "number": "177",
+      "number": "179",
       "code": "811",
       "name": "新華文軒",
       "currency": "HKD",
@@ -1596,7 +1614,7 @@
       "remarks": ""
     },
     {
-      "number": "178",
+      "number": "180",
       "code": "817",
       "name": "中國金茂",
       "currency": "HKD",
@@ -1605,7 +1623,7 @@
       "remarks": ""
     },
     {
-      "number": "179",
+      "number": "181",
       "code": "819",
       "name": "天能動力",
       "currency": "HKD",
@@ -1614,7 +1632,7 @@
       "remarks": ""
     },
     {
-      "number": "180",
+      "number": "182",
       "code": "823",
       "name": "領展房產基金",
       "currency": "HKD",
@@ -1623,7 +1641,7 @@
       "remarks": ""
     },
     {
-      "number": "181",
+      "number": "183",
       "code": "826",
       "name": "天工國際",
       "currency": "HKD",
@@ -1632,7 +1650,7 @@
       "remarks": ""
     },
     {
-      "number": "182",
+      "number": "184",
       "code": "836",
       "name": "華潤電力",
       "currency": "HKD",
@@ -1641,7 +1659,7 @@
       "remarks": ""
     },
     {
-      "number": "183",
+      "number": "185",
       "code": "839",
       "name": "中教控股",
       "currency": "HKD",
@@ -1650,7 +1668,7 @@
       "remarks": ""
     },
     {
-      "number": "184",
+      "number": "186",
       "code": "853",
       "name": "微創醫療",
       "currency": "HKD",
@@ -1659,7 +1677,7 @@
       "remarks": ""
     },
     {
-      "number": "185",
+      "number": "187",
       "code": "855",
       "name": "中國水務",
       "currency": "HKD",
@@ -1668,7 +1686,7 @@
       "remarks": ""
     },
     {
-      "number": "186",
+      "number": "188",
       "code": "856",
       "name": "偉仕佳杰",
       "currency": "HKD",
@@ -1677,7 +1695,7 @@
       "remarks": ""
     },
     {
-      "number": "187",
+      "number": "189",
       "code": "857",
       "name": "中國石油股份",
       "currency": "HKD",
@@ -1686,7 +1704,7 @@
       "remarks": ""
     },
     {
-      "number": "188",
+      "number": "190",
       "code": "861",
       "name": "神州控股",
       "currency": "HKD",
@@ -1695,7 +1713,7 @@
       "remarks": ""
     },
     {
-      "number": "189",
+      "number": "191",
       "code": "863",
       "name": "ＯＳＬ集團",
       "currency": "HKD",
@@ -1704,7 +1722,7 @@
       "remarks": ""
     },
     {
-      "number": "190",
+      "number": "192",
       "code": "866",
       "name": "中國秦發",
       "currency": "HKD",
@@ -1713,7 +1731,7 @@
       "remarks": ""
     },
     {
-      "number": "191",
+      "number": "193",
       "code": "867",
       "name": "康哲藥業",
       "currency": "HKD",
@@ -1722,7 +1740,7 @@
       "remarks": ""
     },
     {
-      "number": "192",
+      "number": "194",
       "code": "868",
       "name": "信義玻璃",
       "currency": "HKD",
@@ -1731,7 +1749,7 @@
       "remarks": ""
     },
     {
-      "number": "193",
+      "number": "195",
       "code": "874",
       "name": "白雲山",
       "currency": "HKD",
@@ -1740,7 +1758,7 @@
       "remarks": ""
     },
     {
-      "number": "194",
+      "number": "196",
       "code": "880",
       "name": "澳博控股",
       "currency": "HKD",
@@ -1749,7 +1767,7 @@
       "remarks": ""
     },
     {
-      "number": "195",
+      "number": "197",
       "code": "881",
       "name": "中升控股",
       "currency": "HKD",
@@ -1758,7 +1776,7 @@
       "remarks": ""
     },
     {
-      "number": "196",
+      "number": "198",
       "code": "883",
       "name": "中國海洋石油",
       "currency": "HKD",
@@ -1767,16 +1785,7 @@
       "remarks": ""
     },
     {
-      "number": "197",
-      "code": "884",
-      "name": "旭輝控股集團",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "198",
+      "number": "199",
       "code": "902",
       "name": "華能國際電力股份",
       "currency": "HKD",
@@ -1785,7 +1794,7 @@
       "remarks": ""
     },
     {
-      "number": "199",
+      "number": "200",
       "code": "909",
       "name": "明源雲",
       "currency": "HKD",
@@ -1794,7 +1803,7 @@
       "remarks": ""
     },
     {
-      "number": "200",
+      "number": "201",
       "code": "914",
       "name": "海螺水泥",
       "currency": "HKD",
@@ -1803,7 +1812,7 @@
       "remarks": ""
     },
     {
-      "number": "201",
+      "number": "202",
       "code": "916",
       "name": "龍源電力",
       "currency": "HKD",
@@ -1812,7 +1821,7 @@
       "remarks": ""
     },
     {
-      "number": "202",
+      "number": "203",
       "code": "917",
       "name": "趣致集團",
       "currency": "HKD",
@@ -1821,7 +1830,7 @@
       "remarks": ""
     },
     {
-      "number": "203",
+      "number": "204",
       "code": "921",
       "name": "海信家電",
       "currency": "HKD",
@@ -1830,7 +1839,25 @@
       "remarks": ""
     },
     {
-      "number": "204",
+      "number": "205",
+      "code": "931",
+      "name": "中國港能",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "206",
+      "code": "933",
+      "name": "非凡領越",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "207",
       "code": "934",
       "name": "中石化冠德",
       "currency": "HKD",
@@ -1839,7 +1866,7 @@
       "remarks": ""
     },
     {
-      "number": "205",
+      "number": "208",
       "code": "939",
       "name": "建設銀行",
       "currency": "HKD",
@@ -1848,7 +1875,7 @@
       "remarks": ""
     },
     {
-      "number": "206",
+      "number": "209",
       "code": "941",
       "name": "中國移動",
       "currency": "HKD",
@@ -1857,7 +1884,7 @@
       "remarks": ""
     },
     {
-      "number": "207",
+      "number": "210",
       "code": "945",
       "name": "宏利金融－Ｓ",
       "currency": "HKD",
@@ -1866,7 +1893,7 @@
       "remarks": ""
     },
     {
-      "number": "208",
+      "number": "211",
       "code": "956",
       "name": "新天綠色能源",
       "currency": "HKD",
@@ -1875,7 +1902,7 @@
       "remarks": ""
     },
     {
-      "number": "209",
+      "number": "212",
       "code": "960",
       "name": "龍湖集團",
       "currency": "HKD",
@@ -1884,7 +1911,7 @@
       "remarks": ""
     },
     {
-      "number": "210",
+      "number": "213",
       "code": "966",
       "name": "中國太平",
       "currency": "HKD",
@@ -1893,7 +1920,7 @@
       "remarks": ""
     },
     {
-      "number": "211",
+      "number": "214",
       "code": "968",
       "name": "信義光能",
       "currency": "HKD",
@@ -1902,7 +1929,7 @@
       "remarks": ""
     },
     {
-      "number": "212",
+      "number": "215",
       "code": "975",
       "name": "MONGOL MINING",
       "currency": "HKD",
@@ -1911,7 +1938,7 @@
       "remarks": ""
     },
     {
-      "number": "213",
+      "number": "216",
       "code": "981",
       "name": "中芯國際",
       "currency": "HKD",
@@ -1920,7 +1947,7 @@
       "remarks": ""
     },
     {
-      "number": "214",
+      "number": "217",
       "code": "990",
       "name": "至源控股",
       "currency": "HKD",
@@ -1929,7 +1956,7 @@
       "remarks": ""
     },
     {
-      "number": "215",
+      "number": "218",
       "code": "991",
       "name": "大唐發電",
       "currency": "HKD",
@@ -1938,7 +1965,7 @@
       "remarks": ""
     },
     {
-      "number": "216",
+      "number": "219",
       "code": "992",
       "name": "聯想集團",
       "currency": "HKD",
@@ -1947,7 +1974,7 @@
       "remarks": ""
     },
     {
-      "number": "217",
+      "number": "220",
       "code": "995",
       "name": "安徽皖通高速公路",
       "currency": "HKD",
@@ -1956,7 +1983,7 @@
       "remarks": ""
     },
     {
-      "number": "218",
+      "number": "221",
       "code": "998",
       "name": "中信銀行",
       "currency": "HKD",
@@ -1965,7 +1992,7 @@
       "remarks": ""
     },
     {
-      "number": "219",
+      "number": "222",
       "code": "999",
       "name": "小菜園",
       "currency": "HKD",
@@ -1974,7 +2001,7 @@
       "remarks": ""
     },
     {
-      "number": "220",
+      "number": "223",
       "code": "1009",
       "name": "國際娛樂",
       "currency": "HKD",
@@ -1983,7 +2010,7 @@
       "remarks": ""
     },
     {
-      "number": "221",
+      "number": "224",
       "code": "1024",
       "name": "快手－Ｗ",
       "currency": "HKD",
@@ -1992,7 +2019,7 @@
       "remarks": ""
     },
     {
-      "number": "222",
+      "number": "225",
       "code": "1030",
       "name": "新城發展",
       "currency": "HKD",
@@ -2001,7 +2028,7 @@
       "remarks": ""
     },
     {
-      "number": "223",
+      "number": "226",
       "code": "1033",
       "name": "中石化油服",
       "currency": "HKD",
@@ -2010,7 +2037,7 @@
       "remarks": ""
     },
     {
-      "number": "224",
+      "number": "227",
       "code": "1038",
       "name": "長江基建集團",
       "currency": "HKD",
@@ -2019,7 +2046,7 @@
       "remarks": ""
     },
     {
-      "number": "225",
+      "number": "228",
       "code": "1044",
       "name": "恒安國際",
       "currency": "HKD",
@@ -2028,7 +2055,25 @@
       "remarks": ""
     },
     {
-      "number": "226",
+      "number": "229",
+      "code": "1050",
+      "name": "嘉利國際",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "230",
+      "code": "1051",
+      "name": "國際資源",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "231",
       "code": "1052",
       "name": "越秀交通基建",
       "currency": "HKD",
@@ -2037,7 +2082,7 @@
       "remarks": ""
     },
     {
-      "number": "227",
+      "number": "232",
       "code": "1055",
       "name": "中國南方航空股份",
       "currency": "HKD",
@@ -2046,16 +2091,7 @@
       "remarks": ""
     },
     {
-      "number": "228",
-      "code": "1057",
-      "name": "浙江世寶",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "229",
+      "number": "233",
       "code": "1060",
       "name": "大麥娛樂",
       "currency": "HKD",
@@ -2064,16 +2100,7 @@
       "remarks": ""
     },
     {
-      "number": "230",
-      "code": "1061",
-      "name": "億勝生物科技",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "231",
+      "number": "234",
       "code": "1066",
       "name": "威高股份",
       "currency": "HKD",
@@ -2082,7 +2109,7 @@
       "remarks": ""
     },
     {
-      "number": "232",
+      "number": "235",
       "code": "1070",
       "name": "ＴＣＬ電子",
       "currency": "HKD",
@@ -2091,7 +2118,7 @@
       "remarks": ""
     },
     {
-      "number": "233",
+      "number": "236",
       "code": "1071",
       "name": "華電國際電力股份",
       "currency": "HKD",
@@ -2100,7 +2127,7 @@
       "remarks": ""
     },
     {
-      "number": "234",
+      "number": "237",
       "code": "1072",
       "name": "東方電氣",
       "currency": "HKD",
@@ -2109,7 +2136,7 @@
       "remarks": ""
     },
     {
-      "number": "235",
+      "number": "238",
       "code": "1083",
       "name": "港華智慧能源",
       "currency": "HKD",
@@ -2118,7 +2145,7 @@
       "remarks": ""
     },
     {
-      "number": "236",
+      "number": "239",
       "code": "1088",
       "name": "中國神華",
       "currency": "HKD",
@@ -2127,7 +2154,7 @@
       "remarks": ""
     },
     {
-      "number": "237",
+      "number": "240",
       "code": "1093",
       "name": "石藥集團",
       "currency": "HKD",
@@ -2136,7 +2163,7 @@
       "remarks": ""
     },
     {
-      "number": "238",
+      "number": "241",
       "code": "1099",
       "name": "國藥控股",
       "currency": "HKD",
@@ -2145,16 +2172,16 @@
       "remarks": ""
     },
     {
-      "number": "239",
-      "code": "1108",
-      "name": "凱盛新能",
+      "number": "242",
+      "code": "1104",
+      "name": "亞太資源",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "加入"
     },
     {
-      "number": "240",
+      "number": "243",
       "code": "1109",
       "name": "華潤置地",
       "currency": "HKD",
@@ -2163,7 +2190,7 @@
       "remarks": ""
     },
     {
-      "number": "241",
+      "number": "244",
       "code": "1112",
       "name": "Ｈ＆Ｈ國際控股",
       "currency": "HKD",
@@ -2172,7 +2199,7 @@
       "remarks": ""
     },
     {
-      "number": "242",
+      "number": "245",
       "code": "1113",
       "name": "長實集團",
       "currency": "HKD",
@@ -2181,7 +2208,7 @@
       "remarks": ""
     },
     {
-      "number": "243",
+      "number": "246",
       "code": "1114",
       "name": "BRILLIANCE CHI",
       "currency": "HKD",
@@ -2190,7 +2217,7 @@
       "remarks": ""
     },
     {
-      "number": "244",
+      "number": "247",
       "code": "1115",
       "name": "５１００藏冰川",
       "currency": "HKD",
@@ -2199,7 +2226,7 @@
       "remarks": ""
     },
     {
-      "number": "245",
+      "number": "248",
       "code": "1117",
       "name": "現代牧業",
       "currency": "HKD",
@@ -2208,16 +2235,7 @@
       "remarks": ""
     },
     {
-      "number": "246",
-      "code": "1119",
-      "name": "創夢天地",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "247",
+      "number": "249",
       "code": "1121",
       "name": "金陽新能源",
       "currency": "HKD",
@@ -2226,7 +2244,7 @@
       "remarks": ""
     },
     {
-      "number": "248",
+      "number": "250",
       "code": "1126",
       "name": "德林國際",
       "currency": "HKD",
@@ -2235,7 +2253,7 @@
       "remarks": ""
     },
     {
-      "number": "249",
+      "number": "251",
       "code": "1128",
       "name": "永利澳門",
       "currency": "HKD",
@@ -2244,7 +2262,7 @@
       "remarks": ""
     },
     {
-      "number": "250",
+      "number": "252",
       "code": "1133",
       "name": "哈爾濱電氣",
       "currency": "HKD",
@@ -2253,7 +2271,7 @@
       "remarks": ""
     },
     {
-      "number": "251",
+      "number": "253",
       "code": "1138",
       "name": "中遠海能",
       "currency": "HKD",
@@ -2262,7 +2280,7 @@
       "remarks": ""
     },
     {
-      "number": "252",
+      "number": "254",
       "code": "1142",
       "name": "能源及能量環球",
       "currency": "HKD",
@@ -2271,7 +2289,7 @@
       "remarks": ""
     },
     {
-      "number": "253",
+      "number": "255",
       "code": "1157",
       "name": "中聯重科",
       "currency": "HKD",
@@ -2280,7 +2298,7 @@
       "remarks": ""
     },
     {
-      "number": "254",
+      "number": "256",
       "code": "1164",
       "name": "中廣核礦業",
       "currency": "HKD",
@@ -2289,7 +2307,7 @@
       "remarks": ""
     },
     {
-      "number": "255",
+      "number": "257",
       "code": "1167",
       "name": "加科思－Ｂ",
       "currency": "HKD",
@@ -2298,16 +2316,7 @@
       "remarks": ""
     },
     {
-      "number": "256",
-      "code": "1168",
-      "name": "Z FIN",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "257",
+      "number": "258",
       "code": "1171",
       "name": "兗礦能源",
       "currency": "HKD",
@@ -2316,7 +2325,7 @@
       "remarks": ""
     },
     {
-      "number": "258",
+      "number": "259",
       "code": "1177",
       "name": "中國生物製藥",
       "currency": "HKD",
@@ -2325,7 +2334,7 @@
       "remarks": ""
     },
     {
-      "number": "259",
+      "number": "260",
       "code": "1179",
       "name": "華住集團－Ｓ",
       "currency": "HKD",
@@ -2334,7 +2343,7 @@
       "remarks": ""
     },
     {
-      "number": "260",
+      "number": "261",
       "code": "1186",
       "name": "中國鐵建",
       "currency": "HKD",
@@ -2343,7 +2352,7 @@
       "remarks": ""
     },
     {
-      "number": "261",
+      "number": "262",
       "code": "1193",
       "name": "華潤燃氣",
       "currency": "HKD",
@@ -2352,7 +2361,7 @@
       "remarks": ""
     },
     {
-      "number": "262",
+      "number": "263",
       "code": "1196",
       "name": "偉祿集團",
       "currency": "HKD",
@@ -2361,7 +2370,7 @@
       "remarks": ""
     },
     {
-      "number": "263",
+      "number": "264",
       "code": "1199",
       "name": "中遠海運港口",
       "currency": "HKD",
@@ -2370,7 +2379,7 @@
       "remarks": ""
     },
     {
-      "number": "264",
+      "number": "265",
       "code": "1208",
       "name": "五礦資源",
       "currency": "HKD",
@@ -2379,7 +2388,7 @@
       "remarks": ""
     },
     {
-      "number": "265",
+      "number": "266",
       "code": "1209",
       "name": "華潤萬象生活",
       "currency": "HKD",
@@ -2388,7 +2397,7 @@
       "remarks": ""
     },
     {
-      "number": "266",
+      "number": "267",
       "code": "1211",
       "name": "比亞迪股份",
       "currency": "HKD",
@@ -2397,7 +2406,7 @@
       "remarks": ""
     },
     {
-      "number": "267",
+      "number": "268",
       "code": "1216",
       "name": "中原銀行",
       "currency": "HKD",
@@ -2406,7 +2415,7 @@
       "remarks": ""
     },
     {
-      "number": "268",
+      "number": "269",
       "code": "1221",
       "name": "SINO HOTELS",
       "currency": "HKD",
@@ -2415,7 +2424,16 @@
       "remarks": ""
     },
     {
-      "number": "269",
+      "number": "270",
+      "code": "1223",
+      "name": "新灃集團",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "271",
       "code": "1234",
       "name": "中國利郎",
       "currency": "HKD",
@@ -2424,7 +2442,7 @@
       "remarks": ""
     },
     {
-      "number": "270",
+      "number": "272",
       "code": "1258",
       "name": "中國有色礦業",
       "currency": "HKD",
@@ -2433,16 +2451,7 @@
       "remarks": ""
     },
     {
-      "number": "271",
-      "code": "1268",
-      "name": "美東汽車",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "272",
+      "number": "273",
       "code": "1276",
       "name": "恒瑞醫藥",
       "currency": "HKD",
@@ -2451,7 +2460,7 @@
       "remarks": ""
     },
     {
-      "number": "273",
+      "number": "274",
       "code": "1277",
       "name": "力量發展",
       "currency": "HKD",
@@ -2460,7 +2469,7 @@
       "remarks": ""
     },
     {
-      "number": "274",
+      "number": "275",
       "code": "1280",
       "name": "奇點國峰",
       "currency": "HKD",
@@ -2469,7 +2478,16 @@
       "remarks": ""
     },
     {
-      "number": "275",
+      "number": "276",
+      "code": "1286",
+      "name": "鷹普精密",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "277",
       "code": "1288",
       "name": "農業銀行",
       "currency": "HKD",
@@ -2478,7 +2496,7 @@
       "remarks": ""
     },
     {
-      "number": "276",
+      "number": "278",
       "code": "1299",
       "name": "友邦保險",
       "currency": "HKD",
@@ -2487,7 +2505,7 @@
       "remarks": ""
     },
     {
-      "number": "277",
+      "number": "279",
       "code": "1302",
       "name": "先健科技",
       "currency": "HKD",
@@ -2496,7 +2514,7 @@
       "remarks": ""
     },
     {
-      "number": "278",
+      "number": "280",
       "code": "1304",
       "name": "FORTIOR",
       "currency": "HKD",
@@ -2505,7 +2523,7 @@
       "remarks": ""
     },
     {
-      "number": "279",
+      "number": "281",
       "code": "1308",
       "name": "海豐國際",
       "currency": "HKD",
@@ -2514,7 +2532,7 @@
       "remarks": ""
     },
     {
-      "number": "280",
+      "number": "282",
       "code": "1310",
       "name": "香港寬頻",
       "currency": "HKD",
@@ -2523,7 +2541,7 @@
       "remarks": ""
     },
     {
-      "number": "281",
+      "number": "283",
       "code": "1313",
       "name": "華潤建材科技",
       "currency": "HKD",
@@ -2532,7 +2550,7 @@
       "remarks": ""
     },
     {
-      "number": "282",
+      "number": "284",
       "code": "1316",
       "name": "耐世特",
       "currency": "HKD",
@@ -2541,7 +2559,7 @@
       "remarks": ""
     },
     {
-      "number": "283",
+      "number": "285",
       "code": "1318",
       "name": "毛戈平",
       "currency": "HKD",
@@ -2550,7 +2568,7 @@
       "remarks": ""
     },
     {
-      "number": "284",
+      "number": "286",
       "code": "1330",
       "name": "綠色動力環保",
       "currency": "HKD",
@@ -2559,7 +2577,7 @@
       "remarks": ""
     },
     {
-      "number": "285",
+      "number": "287",
       "code": "1333",
       "name": "博雷頓",
       "currency": "HKD",
@@ -2568,7 +2586,7 @@
       "remarks": ""
     },
     {
-      "number": "286",
+      "number": "288",
       "code": "1336",
       "name": "新華保險",
       "currency": "HKD",
@@ -2577,7 +2595,7 @@
       "remarks": ""
     },
     {
-      "number": "287",
+      "number": "289",
       "code": "1339",
       "name": "中國人民保險集團",
       "currency": "HKD",
@@ -2586,16 +2604,7 @@
       "remarks": ""
     },
     {
-      "number": "288",
-      "code": "1341",
-      "name": "昊天國際建投",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "289",
+      "number": "290",
       "code": "1347",
       "name": "華虹半導體",
       "currency": "HKD",
@@ -2604,7 +2613,7 @@
       "remarks": ""
     },
     {
-      "number": "290",
+      "number": "291",
       "code": "1357",
       "name": "美圖公司",
       "currency": "HKD",
@@ -2613,7 +2622,7 @@
       "remarks": ""
     },
     {
-      "number": "291",
+      "number": "292",
       "code": "1359",
       "name": "中國信達",
       "currency": "HKD",
@@ -2622,7 +2631,7 @@
       "remarks": ""
     },
     {
-      "number": "292",
+      "number": "293",
       "code": "1361",
       "name": "３６１度",
       "currency": "HKD",
@@ -2631,7 +2640,7 @@
       "remarks": ""
     },
     {
-      "number": "293",
+      "number": "294",
       "code": "1364",
       "name": "古茗",
       "currency": "HKD",
@@ -2640,7 +2649,7 @@
       "remarks": ""
     },
     {
-      "number": "294",
+      "number": "295",
       "code": "1368",
       "name": "特步國際",
       "currency": "HKD",
@@ -2649,7 +2658,7 @@
       "remarks": ""
     },
     {
-      "number": "295",
+      "number": "296",
       "code": "1375",
       "name": "中州證券",
       "currency": "HKD",
@@ -2658,7 +2667,7 @@
       "remarks": ""
     },
     {
-      "number": "296",
+      "number": "297",
       "code": "1378",
       "name": "中國宏橋",
       "currency": "HKD",
@@ -2667,7 +2676,7 @@
       "remarks": ""
     },
     {
-      "number": "297",
+      "number": "298",
       "code": "1382",
       "name": "互太紡織",
       "currency": "HKD",
@@ -2676,7 +2685,7 @@
       "remarks": ""
     },
     {
-      "number": "298",
+      "number": "299",
       "code": "1385",
       "name": "上海復旦",
       "currency": "HKD",
@@ -2685,7 +2694,7 @@
       "remarks": ""
     },
     {
-      "number": "299",
+      "number": "300",
       "code": "1398",
       "name": "工商銀行",
       "currency": "HKD",
@@ -2694,7 +2703,7 @@
       "remarks": ""
     },
     {
-      "number": "300",
+      "number": "301",
       "code": "1405",
       "name": "達勢股份",
       "currency": "HKD",
@@ -2703,7 +2712,7 @@
       "remarks": ""
     },
     {
-      "number": "301",
+      "number": "302",
       "code": "1415",
       "name": "高偉電子",
       "currency": "HKD",
@@ -2712,7 +2721,7 @@
       "remarks": ""
     },
     {
-      "number": "302",
+      "number": "303",
       "code": "1426",
       "name": "春泉產業信託",
       "currency": "HKD",
@@ -2721,7 +2730,7 @@
       "remarks": ""
     },
     {
-      "number": "303",
+      "number": "304",
       "code": "1428",
       "name": "耀才證券金融",
       "currency": "HKD",
@@ -2730,7 +2739,7 @@
       "remarks": ""
     },
     {
-      "number": "304",
+      "number": "305",
       "code": "1440",
       "name": "應星控股",
       "currency": "HKD",
@@ -2739,7 +2748,7 @@
       "remarks": ""
     },
     {
-      "number": "305",
+      "number": "306",
       "code": "1448",
       "name": "福壽園",
       "currency": "HKD",
@@ -2748,7 +2757,7 @@
       "remarks": ""
     },
     {
-      "number": "306",
+      "number": "307",
       "code": "1456",
       "name": "國聯民生",
       "currency": "HKD",
@@ -2757,7 +2766,7 @@
       "remarks": ""
     },
     {
-      "number": "307",
+      "number": "308",
       "code": "1458",
       "name": "周黑鴨",
       "currency": "HKD",
@@ -2766,7 +2775,7 @@
       "remarks": ""
     },
     {
-      "number": "308",
+      "number": "309",
       "code": "1475",
       "name": "日清食品",
       "currency": "HKD",
@@ -2775,7 +2784,7 @@
       "remarks": ""
     },
     {
-      "number": "309",
+      "number": "310",
       "code": "1477",
       "name": "歐康維視生物－Ｂ",
       "currency": "HKD",
@@ -2784,7 +2793,7 @@
       "remarks": ""
     },
     {
-      "number": "310",
+      "number": "311",
       "code": "1478",
       "name": "丘鈦科技",
       "currency": "HKD",
@@ -2793,7 +2802,7 @@
       "remarks": ""
     },
     {
-      "number": "311",
+      "number": "312",
       "code": "1501",
       "name": "瑛泰醫療",
       "currency": "HKD",
@@ -2802,7 +2811,7 @@
       "remarks": ""
     },
     {
-      "number": "312",
+      "number": "313",
       "code": "1508",
       "name": "中國再保險",
       "currency": "HKD",
@@ -2811,7 +2820,7 @@
       "remarks": ""
     },
     {
-      "number": "313",
+      "number": "314",
       "code": "1513",
       "name": "麗珠醫藥",
       "currency": "HKD",
@@ -2820,7 +2829,7 @@
       "remarks": ""
     },
     {
-      "number": "314",
+      "number": "315",
       "code": "1515",
       "name": "華潤醫療",
       "currency": "HKD",
@@ -2829,7 +2838,7 @@
       "remarks": ""
     },
     {
-      "number": "315",
+      "number": "316",
       "code": "1516",
       "name": "融創服務",
       "currency": "HKD",
@@ -2838,7 +2847,7 @@
       "remarks": ""
     },
     {
-      "number": "316",
+      "number": "317",
       "code": "1519",
       "name": "極兔速遞－Ｗ",
       "currency": "HKD",
@@ -2847,7 +2856,7 @@
       "remarks": ""
     },
     {
-      "number": "317",
+      "number": "318",
       "code": "1523",
       "name": "珩灣科技",
       "currency": "HKD",
@@ -2856,7 +2865,7 @@
       "remarks": ""
     },
     {
-      "number": "318",
+      "number": "319",
       "code": "1530",
       "name": "三生製藥",
       "currency": "HKD",
@@ -2865,7 +2874,7 @@
       "remarks": ""
     },
     {
-      "number": "319",
+      "number": "320",
       "code": "1541",
       "name": "宜明昂科－Ｂ",
       "currency": "HKD",
@@ -2874,7 +2883,7 @@
       "remarks": ""
     },
     {
-      "number": "320",
+      "number": "321",
       "code": "1548",
       "name": "金斯瑞生物科技",
       "currency": "HKD",
@@ -2883,7 +2892,7 @@
       "remarks": ""
     },
     {
-      "number": "321",
+      "number": "322",
       "code": "1551",
       "name": "廣州農商銀行",
       "currency": "HKD",
@@ -2892,7 +2901,7 @@
       "remarks": ""
     },
     {
-      "number": "322",
+      "number": "323",
       "code": "1578",
       "name": "天津銀行",
       "currency": "HKD",
@@ -2901,7 +2910,7 @@
       "remarks": ""
     },
     {
-      "number": "323",
+      "number": "324",
       "code": "1579",
       "name": "頤海國際",
       "currency": "HKD",
@@ -2910,7 +2919,7 @@
       "remarks": ""
     },
     {
-      "number": "324",
+      "number": "325",
       "code": "1585",
       "name": "雅迪控股",
       "currency": "HKD",
@@ -2919,7 +2928,7 @@
       "remarks": ""
     },
     {
-      "number": "325",
+      "number": "326",
       "code": "1606",
       "name": "國銀金租",
       "currency": "HKD",
@@ -2928,18 +2937,9 @@
       "remarks": ""
     },
     {
-      "number": "326",
+      "number": "327",
       "code": "1610",
       "name": "中糧家佳康",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "327",
-      "code": "1611",
-      "name": "新火科技控股",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
@@ -3109,6 +3109,15 @@
     },
     {
       "number": "346",
+      "code": "1782",
+      "name": "國際商業數字技術",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "347",
       "code": "1783",
       "name": "晉景新能",
       "currency": "HKD",
@@ -3117,7 +3126,7 @@
       "remarks": ""
     },
     {
-      "number": "347",
+      "number": "348",
       "code": "1787",
       "name": "山東黃金",
       "currency": "HKD",
@@ -3126,7 +3135,7 @@
       "remarks": ""
     },
     {
-      "number": "348",
+      "number": "349",
       "code": "1788",
       "name": "國泰君安國際",
       "currency": "HKD",
@@ -3135,7 +3144,7 @@
       "remarks": ""
     },
     {
-      "number": "349",
+      "number": "350",
       "code": "1789",
       "name": "愛康醫療",
       "currency": "HKD",
@@ -3144,7 +3153,7 @@
       "remarks": ""
     },
     {
-      "number": "350",
+      "number": "351",
       "code": "1797",
       "name": "東方甄選",
       "currency": "HKD",
@@ -3153,7 +3162,7 @@
       "remarks": ""
     },
     {
-      "number": "351",
+      "number": "352",
       "code": "1798",
       "name": "大唐新能源",
       "currency": "HKD",
@@ -3162,7 +3171,7 @@
       "remarks": ""
     },
     {
-      "number": "352",
+      "number": "353",
       "code": "1799",
       "name": "新特能源",
       "currency": "HKD",
@@ -3171,7 +3180,7 @@
       "remarks": ""
     },
     {
-      "number": "353",
+      "number": "354",
       "code": "1800",
       "name": "中國交通建設",
       "currency": "HKD",
@@ -3180,7 +3189,7 @@
       "remarks": ""
     },
     {
-      "number": "354",
+      "number": "355",
       "code": "1801",
       "name": "信達生物",
       "currency": "HKD",
@@ -3189,7 +3198,7 @@
       "remarks": ""
     },
     {
-      "number": "355",
+      "number": "356",
       "code": "1810",
       "name": "小米集團－Ｗ",
       "currency": "HKD",
@@ -3198,7 +3207,7 @@
       "remarks": ""
     },
     {
-      "number": "356",
+      "number": "357",
       "code": "1811",
       "name": "中廣核新能源",
       "currency": "HKD",
@@ -3207,7 +3216,7 @@
       "remarks": ""
     },
     {
-      "number": "357",
+      "number": "358",
       "code": "1816",
       "name": "中廣核電力",
       "currency": "HKD",
@@ -3216,7 +3225,7 @@
       "remarks": ""
     },
     {
-      "number": "358",
+      "number": "359",
       "code": "1818",
       "name": "招金礦業",
       "currency": "HKD",
@@ -3225,7 +3234,7 @@
       "remarks": ""
     },
     {
-      "number": "359",
+      "number": "360",
       "code": "1828",
       "name": "富衛集團",
       "currency": "HKD",
@@ -3234,7 +3243,7 @@
       "remarks": ""
     },
     {
-      "number": "360",
+      "number": "361",
       "code": "1833",
       "name": "平安好醫生",
       "currency": "HKD",
@@ -3243,7 +3252,7 @@
       "remarks": ""
     },
     {
-      "number": "361",
+      "number": "362",
       "code": "1836",
       "name": "九興控股",
       "currency": "HKD",
@@ -3252,18 +3261,9 @@
       "remarks": ""
     },
     {
-      "number": "362",
+      "number": "363",
       "code": "1848",
       "name": "中國飛機租賃",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "363",
-      "code": "1855",
-      "name": "中慶股份",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
@@ -3388,24 +3388,6 @@
     },
     {
       "number": "377",
-      "code": "1899",
-      "name": "興達國際",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "378",
-      "code": "1905",
-      "name": "海通恆信",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "379",
       "code": "1907",
       "name": "中國旭陽集團",
       "currency": "HKD",
@@ -3414,7 +3396,7 @@
       "remarks": ""
     },
     {
-      "number": "380",
+      "number": "378",
       "code": "1908",
       "name": "建發國際集團",
       "currency": "HKD",
@@ -3423,7 +3405,7 @@
       "remarks": ""
     },
     {
-      "number": "381",
+      "number": "379",
       "code": "1910",
       "name": "新秀麗",
       "currency": "HKD",
@@ -3432,7 +3414,7 @@
       "remarks": ""
     },
     {
-      "number": "382",
+      "number": "380",
       "code": "1911",
       "name": "華興資本控股",
       "currency": "HKD",
@@ -3441,7 +3423,7 @@
       "remarks": ""
     },
     {
-      "number": "383",
+      "number": "381",
       "code": "1913",
       "name": "普拉達",
       "currency": "HKD",
@@ -3450,7 +3432,7 @@
       "remarks": ""
     },
     {
-      "number": "384",
+      "number": "382",
       "code": "1918",
       "name": "融創中國",
       "currency": "HKD",
@@ -3459,7 +3441,7 @@
       "remarks": ""
     },
     {
-      "number": "385",
+      "number": "383",
       "code": "1919",
       "name": "中遠海控",
       "currency": "HKD",
@@ -3468,7 +3450,7 @@
       "remarks": ""
     },
     {
-      "number": "386",
+      "number": "384",
       "code": "1921",
       "name": "達力普控股",
       "currency": "HKD",
@@ -3477,7 +3459,7 @@
       "remarks": ""
     },
     {
-      "number": "387",
+      "number": "385",
       "code": "1928",
       "name": "金沙中國有限公司",
       "currency": "HKD",
@@ -3486,7 +3468,7 @@
       "remarks": ""
     },
     {
-      "number": "388",
+      "number": "386",
       "code": "1929",
       "name": "周大福",
       "currency": "HKD",
@@ -3495,7 +3477,7 @@
       "remarks": ""
     },
     {
-      "number": "389",
+      "number": "387",
       "code": "1948",
       "name": "優矩控股",
       "currency": "HKD",
@@ -3504,7 +3486,7 @@
       "remarks": ""
     },
     {
-      "number": "390",
+      "number": "388",
       "code": "1951",
       "name": "錦欣生殖",
       "currency": "HKD",
@@ -3513,7 +3495,7 @@
       "remarks": ""
     },
     {
-      "number": "391",
+      "number": "389",
       "code": "1952",
       "name": "雲頂新耀",
       "currency": "HKD",
@@ -3522,7 +3504,7 @@
       "remarks": ""
     },
     {
-      "number": "392",
+      "number": "390",
       "code": "1958",
       "name": "北京汽車",
       "currency": "HKD",
@@ -3531,7 +3513,7 @@
       "remarks": ""
     },
     {
-      "number": "393",
+      "number": "391",
       "code": "1963",
       "name": "重慶銀行",
       "currency": "HKD",
@@ -3540,7 +3522,7 @@
       "remarks": ""
     },
     {
-      "number": "394",
+      "number": "392",
       "code": "1969",
       "name": "中國春來",
       "currency": "HKD",
@@ -3549,7 +3531,7 @@
       "remarks": ""
     },
     {
-      "number": "395",
+      "number": "393",
       "code": "1972",
       "name": "太古地產",
       "currency": "HKD",
@@ -3558,7 +3540,7 @@
       "remarks": ""
     },
     {
-      "number": "396",
+      "number": "394",
       "code": "1988",
       "name": "民生銀行",
       "currency": "HKD",
@@ -3567,7 +3549,7 @@
       "remarks": ""
     },
     {
-      "number": "397",
+      "number": "395",
       "code": "1995",
       "name": "永升服務",
       "currency": "HKD",
@@ -3576,7 +3558,7 @@
       "remarks": ""
     },
     {
-      "number": "398",
+      "number": "396",
       "code": "1997",
       "name": "九龍倉置業",
       "currency": "HKD",
@@ -3585,7 +3567,7 @@
       "remarks": ""
     },
     {
-      "number": "399",
+      "number": "397",
       "code": "1999",
       "name": "敏華控股",
       "currency": "HKD",
@@ -3594,7 +3576,7 @@
       "remarks": ""
     },
     {
-      "number": "400",
+      "number": "398",
       "code": "2001",
       "name": "新高教集團",
       "currency": "HKD",
@@ -3603,7 +3585,7 @@
       "remarks": ""
     },
     {
-      "number": "401",
+      "number": "399",
       "code": "2005",
       "name": "石四藥集團",
       "currency": "HKD",
@@ -3612,7 +3594,7 @@
       "remarks": ""
     },
     {
-      "number": "402",
+      "number": "400",
       "code": "2007",
       "name": "碧桂園",
       "currency": "HKD",
@@ -3621,7 +3603,7 @@
       "remarks": ""
     },
     {
-      "number": "403",
+      "number": "401",
       "code": "2009",
       "name": "金隅集團",
       "currency": "HKD",
@@ -3630,7 +3612,7 @@
       "remarks": ""
     },
     {
-      "number": "404",
+      "number": "402",
       "code": "2013",
       "name": "微盟集團",
       "currency": "HKD",
@@ -3639,7 +3621,7 @@
       "remarks": ""
     },
     {
-      "number": "405",
+      "number": "403",
       "code": "2015",
       "name": "理想汽車－Ｗ",
       "currency": "HKD",
@@ -3648,7 +3630,7 @@
       "remarks": ""
     },
     {
-      "number": "406",
+      "number": "404",
       "code": "2016",
       "name": "浙商銀行",
       "currency": "HKD",
@@ -3657,7 +3639,7 @@
       "remarks": ""
     },
     {
-      "number": "407",
+      "number": "405",
       "code": "2018",
       "name": "瑞聲科技",
       "currency": "HKD",
@@ -3666,7 +3648,7 @@
       "remarks": ""
     },
     {
-      "number": "408",
+      "number": "406",
       "code": "2020",
       "name": "安踏體育",
       "currency": "HKD",
@@ -3675,7 +3657,16 @@
       "remarks": ""
     },
     {
-      "number": "409",
+      "number": "407",
+      "code": "2025",
+      "name": "瑞豐動力",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "408",
       "code": "2026",
       "name": "小馬智行－Ｗ",
       "currency": "HKD",
@@ -3684,7 +3675,7 @@
       "remarks": ""
     },
     {
-      "number": "410",
+      "number": "409",
       "code": "2038",
       "name": "富智康集團",
       "currency": "HKD",
@@ -3693,7 +3684,7 @@
       "remarks": ""
     },
     {
-      "number": "411",
+      "number": "410",
       "code": "2039",
       "name": "中集集團",
       "currency": "HKD",
@@ -3702,7 +3693,7 @@
       "remarks": ""
     },
     {
-      "number": "412",
+      "number": "411",
       "code": "2050",
       "name": "三花智控",
       "currency": "HKD",
@@ -3711,7 +3702,7 @@
       "remarks": ""
     },
     {
-      "number": "413",
+      "number": "412",
       "code": "2057",
       "name": "中通快遞－Ｗ",
       "currency": "HKD",
@@ -3720,7 +3711,7 @@
       "remarks": ""
     },
     {
-      "number": "414",
+      "number": "413",
       "code": "2076",
       "name": "ＢＯＳＳ直聘－Ｗ",
       "currency": "HKD",
@@ -3729,7 +3720,7 @@
       "remarks": ""
     },
     {
-      "number": "415",
+      "number": "414",
       "code": "2096",
       "name": "先聲藥業",
       "currency": "HKD",
@@ -3738,7 +3729,7 @@
       "remarks": ""
     },
     {
-      "number": "416",
+      "number": "415",
       "code": "2097",
       "name": "蜜雪集團",
       "currency": "HKD",
@@ -3747,7 +3738,7 @@
       "remarks": ""
     },
     {
-      "number": "417",
+      "number": "416",
       "code": "2099",
       "name": "中國黃金國際",
       "currency": "HKD",
@@ -3756,7 +3747,7 @@
       "remarks": ""
     },
     {
-      "number": "418",
+      "number": "417",
       "code": "2105",
       "name": "來凱醫藥－Ｂ",
       "currency": "HKD",
@@ -3765,7 +3756,7 @@
       "remarks": ""
     },
     {
-      "number": "419",
+      "number": "418",
       "code": "2121",
       "name": "創新奇智",
       "currency": "HKD",
@@ -3774,7 +3765,7 @@
       "remarks": ""
     },
     {
-      "number": "420",
+      "number": "419",
       "code": "2128",
       "name": "中國聯塑",
       "currency": "HKD",
@@ -3783,7 +3774,7 @@
       "remarks": ""
     },
     {
-      "number": "421",
+      "number": "420",
       "code": "2142",
       "name": "和鉑醫藥－Ｂ",
       "currency": "HKD",
@@ -3792,7 +3783,7 @@
       "remarks": ""
     },
     {
-      "number": "422",
+      "number": "421",
       "code": "2145",
       "name": "上美股份",
       "currency": "HKD",
@@ -3801,7 +3792,7 @@
       "remarks": ""
     },
     {
-      "number": "423",
+      "number": "422",
       "code": "2155",
       "name": "森松國際",
       "currency": "HKD",
@@ -3810,7 +3801,7 @@
       "remarks": ""
     },
     {
-      "number": "424",
+      "number": "423",
       "code": "2156",
       "name": "建發物業",
       "currency": "HKD",
@@ -3819,7 +3810,7 @@
       "remarks": ""
     },
     {
-      "number": "425",
+      "number": "424",
       "code": "2157",
       "name": "樂普生物－Ｂ",
       "currency": "HKD",
@@ -3828,7 +3819,7 @@
       "remarks": ""
     },
     {
-      "number": "426",
+      "number": "425",
       "code": "2158",
       "name": "醫渡科技",
       "currency": "HKD",
@@ -3837,7 +3828,7 @@
       "remarks": ""
     },
     {
-      "number": "427",
+      "number": "426",
       "code": "2160",
       "name": "微創心通－Ｂ",
       "currency": "HKD",
@@ -3846,7 +3837,7 @@
       "remarks": ""
     },
     {
-      "number": "428",
+      "number": "427",
       "code": "2162",
       "name": "康諾亞－Ｂ",
       "currency": "HKD",
@@ -3855,7 +3846,7 @@
       "remarks": ""
     },
     {
-      "number": "429",
+      "number": "428",
       "code": "2169",
       "name": "滄港鐵路",
       "currency": "HKD",
@@ -3864,7 +3855,7 @@
       "remarks": ""
     },
     {
-      "number": "430",
+      "number": "429",
       "code": "2171",
       "name": "科濟藥業－Ｂ",
       "currency": "HKD",
@@ -3873,7 +3864,7 @@
       "remarks": ""
     },
     {
-      "number": "431",
+      "number": "430",
       "code": "2172",
       "name": "微創腦科學",
       "currency": "HKD",
@@ -3882,13 +3873,22 @@
       "remarks": ""
     },
     {
-      "number": "432",
+      "number": "431",
       "code": "2179",
       "name": "瑞科生物－Ｂ",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
       "remarks": ""
+    },
+    {
+      "number": "432",
+      "code": "2185",
+      "name": "百心安－Ｂ",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
     },
     {
       "number": "433",
@@ -4144,6 +4144,15 @@
     },
     {
       "number": "461",
+      "code": "2315",
+      "name": "百奧賽圖－Ｂ",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "462",
       "code": "2318",
       "name": "中國平安",
       "currency": "HKD",
@@ -4152,7 +4161,7 @@
       "remarks": ""
     },
     {
-      "number": "462",
+      "number": "463",
       "code": "2319",
       "name": "蒙牛乳業",
       "currency": "HKD",
@@ -4161,7 +4170,7 @@
       "remarks": ""
     },
     {
-      "number": "463",
+      "number": "464",
       "code": "2328",
       "name": "中國財險",
       "currency": "HKD",
@@ -4170,7 +4179,7 @@
       "remarks": ""
     },
     {
-      "number": "464",
+      "number": "465",
       "code": "2331",
       "name": "李寧",
       "currency": "HKD",
@@ -4179,7 +4188,7 @@
       "remarks": ""
     },
     {
-      "number": "465",
+      "number": "466",
       "code": "2333",
       "name": "長城汽車",
       "currency": "HKD",
@@ -4188,7 +4197,7 @@
       "remarks": ""
     },
     {
-      "number": "466",
+      "number": "467",
       "code": "2338",
       "name": "濰柴動力",
       "currency": "HKD",
@@ -4197,7 +4206,7 @@
       "remarks": ""
     },
     {
-      "number": "467",
+      "number": "468",
       "code": "2342",
       "name": "京信通信",
       "currency": "HKD",
@@ -4206,7 +4215,7 @@
       "remarks": ""
     },
     {
-      "number": "468",
+      "number": "469",
       "code": "2343",
       "name": "太平洋航運",
       "currency": "HKD",
@@ -4215,7 +4224,7 @@
       "remarks": ""
     },
     {
-      "number": "469",
+      "number": "470",
       "code": "2356",
       "name": "大新銀行集團",
       "currency": "HKD",
@@ -4224,7 +4233,7 @@
       "remarks": ""
     },
     {
-      "number": "470",
+      "number": "471",
       "code": "2357",
       "name": "中航科工",
       "currency": "HKD",
@@ -4233,7 +4242,7 @@
       "remarks": ""
     },
     {
-      "number": "471",
+      "number": "472",
       "code": "2359",
       "name": "藥明康德",
       "currency": "HKD",
@@ -4242,7 +4251,7 @@
       "remarks": ""
     },
     {
-      "number": "472",
+      "number": "473",
       "code": "2367",
       "name": "巨子生物",
       "currency": "HKD",
@@ -4251,7 +4260,7 @@
       "remarks": ""
     },
     {
-      "number": "473",
+      "number": "474",
       "code": "2373",
       "name": "美麗田園醫療健康",
       "currency": "HKD",
@@ -4260,7 +4269,7 @@
       "remarks": ""
     },
     {
-      "number": "474",
+      "number": "475",
       "code": "2378",
       "name": "保誠",
       "currency": "HKD",
@@ -4269,7 +4278,7 @@
       "remarks": ""
     },
     {
-      "number": "475",
+      "number": "476",
       "code": "2380",
       "name": "中國電力",
       "currency": "HKD",
@@ -4278,7 +4287,7 @@
       "remarks": ""
     },
     {
-      "number": "476",
+      "number": "477",
       "code": "2382",
       "name": "舜宇光學科技",
       "currency": "HKD",
@@ -4287,7 +4296,7 @@
       "remarks": ""
     },
     {
-      "number": "477",
+      "number": "478",
       "code": "2383",
       "name": "ＴＯＭ集團",
       "currency": "HKD",
@@ -4296,7 +4305,7 @@
       "remarks": ""
     },
     {
-      "number": "478",
+      "number": "479",
       "code": "2386",
       "name": "中石化煉化工程",
       "currency": "HKD",
@@ -4305,7 +4314,7 @@
       "remarks": ""
     },
     {
-      "number": "479",
+      "number": "480",
       "code": "2388",
       "name": "中銀香港",
       "currency": "HKD",
@@ -4314,7 +4323,7 @@
       "remarks": ""
     },
     {
-      "number": "480",
+      "number": "481",
       "code": "2390",
       "name": "知乎－Ｗ",
       "currency": "HKD",
@@ -4323,7 +4332,7 @@
       "remarks": ""
     },
     {
-      "number": "481",
+      "number": "482",
       "code": "2391",
       "name": "塗鴉智能－Ｗ",
       "currency": "HKD",
@@ -4332,7 +4341,7 @@
       "remarks": ""
     },
     {
-      "number": "482",
+      "number": "483",
       "code": "2400",
       "name": "心動公司",
       "currency": "HKD",
@@ -4341,7 +4350,7 @@
       "remarks": ""
     },
     {
-      "number": "483",
+      "number": "484",
       "code": "2410",
       "name": "同源康醫藥－Ｂ",
       "currency": "HKD",
@@ -4350,7 +4359,7 @@
       "remarks": ""
     },
     {
-      "number": "484",
+      "number": "485",
       "code": "2411",
       "name": "百果園集團",
       "currency": "HKD",
@@ -4359,7 +4368,16 @@
       "remarks": ""
     },
     {
-      "number": "485",
+      "number": "486",
+      "code": "2418",
+      "name": "德銀天下",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "487",
       "code": "2419",
       "name": "德康農牧",
       "currency": "HKD",
@@ -4368,7 +4386,7 @@
       "remarks": ""
     },
     {
-      "number": "486",
+      "number": "488",
       "code": "2423",
       "name": "貝殼－Ｗ",
       "currency": "HKD",
@@ -4377,7 +4395,7 @@
       "remarks": ""
     },
     {
-      "number": "487",
+      "number": "489",
       "code": "2429",
       "name": "友寶在線",
       "currency": "HKD",
@@ -4386,7 +4404,7 @@
       "remarks": ""
     },
     {
-      "number": "488",
+      "number": "490",
       "code": "2431",
       "name": "佑駕創新",
       "currency": "HKD",
@@ -4395,7 +4413,7 @@
       "remarks": ""
     },
     {
-      "number": "489",
+      "number": "491",
       "code": "2432",
       "name": "越疆",
       "currency": "HKD",
@@ -4404,7 +4422,7 @@
       "remarks": ""
     },
     {
-      "number": "490",
+      "number": "492",
       "code": "2443",
       "name": "汽車街",
       "currency": "HKD",
@@ -4413,7 +4431,7 @@
       "remarks": ""
     },
     {
-      "number": "491",
+      "number": "493",
       "code": "2451",
       "name": "綠源集團控股",
       "currency": "HKD",
@@ -4422,7 +4440,7 @@
       "remarks": ""
     },
     {
-      "number": "492",
+      "number": "494",
       "code": "2460",
       "name": "華潤飲料",
       "currency": "HKD",
@@ -4431,7 +4449,7 @@
       "remarks": ""
     },
     {
-      "number": "493",
+      "number": "495",
       "code": "2469",
       "name": "粉筆",
       "currency": "HKD",
@@ -4440,7 +4458,7 @@
       "remarks": ""
     },
     {
-      "number": "494",
+      "number": "496",
       "code": "2473",
       "name": "喜相逢集團",
       "currency": "HKD",
@@ -4449,7 +4467,7 @@
       "remarks": ""
     },
     {
-      "number": "495",
+      "number": "497",
       "code": "2477",
       "name": "經緯天地",
       "currency": "HKD",
@@ -4458,7 +4476,7 @@
       "remarks": ""
     },
     {
-      "number": "496",
+      "number": "498",
       "code": "2480",
       "name": "綠竹生物－Ｂ",
       "currency": "HKD",
@@ -4467,16 +4485,7 @@
       "remarks": ""
     },
     {
-      "number": "497",
-      "code": "2487",
-      "name": "科笛－Ｂ",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "498",
+      "number": "499",
       "code": "2488",
       "name": "元征科技",
       "currency": "HKD",
@@ -4485,7 +4494,7 @@
       "remarks": ""
     },
     {
-      "number": "499",
+      "number": "500",
       "code": "2489",
       "name": "集海黃金",
       "currency": "HKD",
@@ -4494,7 +4503,7 @@
       "remarks": ""
     },
     {
-      "number": "500",
+      "number": "501",
       "code": "2490",
       "name": "樂艙物流",
       "currency": "HKD",
@@ -4503,7 +4512,7 @@
       "remarks": ""
     },
     {
-      "number": "501",
+      "number": "502",
       "code": "2498",
       "name": "速騰聚創",
       "currency": "HKD",
@@ -4512,7 +4521,16 @@
       "remarks": ""
     },
     {
-      "number": "502",
+      "number": "503",
+      "code": "2506",
+      "name": "訊飛醫療科技",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "504",
       "code": "2507",
       "name": "西銳",
       "currency": "HKD",
@@ -4521,7 +4539,7 @@
       "remarks": ""
     },
     {
-      "number": "503",
+      "number": "505",
       "code": "2509",
       "name": "荃信生物－Ｂ",
       "currency": "HKD",
@@ -4530,7 +4548,7 @@
       "remarks": ""
     },
     {
-      "number": "504",
+      "number": "506",
       "code": "2510",
       "name": "德翔海運",
       "currency": "HKD",
@@ -4539,16 +4557,7 @@
       "remarks": ""
     },
     {
-      "number": "505",
-      "code": "2511",
-      "name": "君聖泰醫藥－Ｂ",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "506",
+      "number": "507",
       "code": "2517",
       "name": "鍋圈",
       "currency": "HKD",
@@ -4557,18 +4566,9 @@
       "remarks": ""
     },
     {
-      "number": "507",
+      "number": "508",
       "code": "2518",
       "name": "汽車之家－Ｓ",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "508",
-      "code": "2519",
-      "name": "傲基股份",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
@@ -4594,15 +4594,6 @@
     },
     {
       "number": "511",
-      "code": "2531",
-      "name": "廣聯科技控股",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "512",
       "code": "2533",
       "name": "黑芝麻智能",
       "currency": "HKD",
@@ -4611,7 +4602,7 @@
       "remarks": ""
     },
     {
-      "number": "513",
+      "number": "512",
       "code": "2552",
       "name": "華領醫藥－Ｂ",
       "currency": "HKD",
@@ -4620,7 +4611,7 @@
       "remarks": ""
     },
     {
-      "number": "514",
+      "number": "513",
       "code": "2555",
       "name": "茶百道",
       "currency": "HKD",
@@ -4629,7 +4620,7 @@
       "remarks": ""
     },
     {
-      "number": "515",
+      "number": "514",
       "code": "2556",
       "name": "邁富時",
       "currency": "HKD",
@@ -4638,7 +4629,7 @@
       "remarks": ""
     },
     {
-      "number": "516",
+      "number": "515",
       "code": "2558",
       "name": "晉商銀行",
       "currency": "HKD",
@@ -4647,7 +4638,7 @@
       "remarks": ""
     },
     {
-      "number": "517",
+      "number": "516",
       "code": "2561",
       "name": "維昇藥業－Ｂ",
       "currency": "HKD",
@@ -4656,16 +4647,7 @@
       "remarks": ""
     },
     {
-      "number": "518",
-      "code": "2562",
-      "name": "獅騰控股",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "519",
+      "number": "517",
       "code": "2565",
       "name": "派格生物醫藥－Ｂ",
       "currency": "HKD",
@@ -4674,7 +4656,7 @@
       "remarks": ""
     },
     {
-      "number": "520",
+      "number": "518",
       "code": "2570",
       "name": "重塑能源",
       "currency": "HKD",
@@ -4683,13 +4665,31 @@
       "remarks": ""
     },
     {
-      "number": "521",
+      "number": "519",
       "code": "2577",
       "name": "英諾賽科",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
       "remarks": ""
+    },
+    {
+      "number": "520",
+      "code": "2579",
+      "name": "中偉新材",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "521",
+      "code": "2580",
+      "name": "奧克斯電氣",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
     },
     {
       "number": "522",
@@ -4702,6 +4702,24 @@
     },
     {
       "number": "523",
+      "code": "2583",
+      "name": "西普尼",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "524",
+      "code": "2585",
+      "name": "夢金園",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "525",
       "code": "2587",
       "name": "健康之路",
       "currency": "HKD",
@@ -4710,7 +4728,7 @@
       "remarks": ""
     },
     {
-      "number": "524",
+      "number": "526",
       "code": "2588",
       "name": "中銀航空租賃",
       "currency": "HKD",
@@ -4719,7 +4737,7 @@
       "remarks": ""
     },
     {
-      "number": "525",
+      "number": "527",
       "code": "2589",
       "name": "滬上阿姨",
       "currency": "HKD",
@@ -4728,7 +4746,7 @@
       "remarks": ""
     },
     {
-      "number": "526",
+      "number": "528",
       "code": "2590",
       "name": "極智嘉－Ｗ",
       "currency": "HKD",
@@ -4737,7 +4755,7 @@
       "remarks": ""
     },
     {
-      "number": "527",
+      "number": "529",
       "code": "2592",
       "name": "撥康視雲－Ｂ",
       "currency": "HKD",
@@ -4746,7 +4764,16 @@
       "remarks": ""
     },
     {
-      "number": "528",
+      "number": "530",
+      "code": "2595",
+      "name": "勁方醫藥－Ｂ",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "531",
       "code": "2596",
       "name": "宜賓銀行",
       "currency": "HKD",
@@ -4755,7 +4782,7 @@
       "remarks": ""
     },
     {
-      "number": "529",
+      "number": "532",
       "code": "2598",
       "name": "連連數字",
       "currency": "HKD",
@@ -4764,7 +4791,7 @@
       "remarks": ""
     },
     {
-      "number": "530",
+      "number": "533",
       "code": "2600",
       "name": "中國鋁業",
       "currency": "HKD",
@@ -4773,7 +4800,7 @@
       "remarks": ""
     },
     {
-      "number": "531",
+      "number": "534",
       "code": "2601",
       "name": "中國太保",
       "currency": "HKD",
@@ -4782,7 +4809,7 @@
       "remarks": ""
     },
     {
-      "number": "532",
+      "number": "535",
       "code": "2602",
       "name": "萬物雲",
       "currency": "HKD",
@@ -4791,7 +4818,7 @@
       "remarks": ""
     },
     {
-      "number": "533",
+      "number": "536",
       "code": "2607",
       "name": "上海醫藥",
       "currency": "HKD",
@@ -4800,7 +4827,7 @@
       "remarks": ""
     },
     {
-      "number": "534",
+      "number": "537",
       "code": "2609",
       "name": "佰澤醫療",
       "currency": "HKD",
@@ -4809,7 +4836,7 @@
       "remarks": ""
     },
     {
-      "number": "535",
+      "number": "538",
       "code": "2610",
       "name": "南山鋁業國際",
       "currency": "HKD",
@@ -4818,7 +4845,7 @@
       "remarks": ""
     },
     {
-      "number": "536",
+      "number": "539",
       "code": "2611",
       "name": "國泰海通",
       "currency": "HKD",
@@ -4827,7 +4854,7 @@
       "remarks": ""
     },
     {
-      "number": "537",
+      "number": "540",
       "code": "2616",
       "name": "基石藥業－Ｂ",
       "currency": "HKD",
@@ -4836,7 +4863,16 @@
       "remarks": ""
     },
     {
-      "number": "538",
+      "number": "541",
+      "code": "2617",
+      "name": "藥捷安康－Ｂ",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "542",
       "code": "2618",
       "name": "京東物流",
       "currency": "HKD",
@@ -4845,7 +4881,16 @@
       "remarks": ""
     },
     {
-      "number": "539",
+      "number": "543",
+      "code": "2627",
+      "name": "中慧生物－Ｂ",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "544",
       "code": "2628",
       "name": "中國人壽",
       "currency": "HKD",
@@ -4854,7 +4899,7 @@
       "remarks": ""
     },
     {
-      "number": "540",
+      "number": "545",
       "code": "2629",
       "name": "MIRXES-B",
       "currency": "HKD",
@@ -4863,7 +4908,16 @@
       "remarks": ""
     },
     {
-      "number": "541",
+      "number": "546",
+      "code": "2631",
+      "name": "天岳先進",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "547",
       "code": "2638",
       "name": "港燈－ＳＳ",
       "currency": "HKD",
@@ -4872,7 +4926,7 @@
       "remarks": ""
     },
     {
-      "number": "542",
+      "number": "548",
       "code": "2643",
       "name": "曹操出行",
       "currency": "HKD",
@@ -4881,7 +4935,7 @@
       "remarks": ""
     },
     {
-      "number": "543",
+      "number": "549",
       "code": "2648",
       "name": "安井食品",
       "currency": "HKD",
@@ -4890,7 +4944,16 @@
       "remarks": ""
     },
     {
-      "number": "544",
+      "number": "550",
+      "code": "2656",
+      "name": "健康１６０",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "551",
       "code": "2666",
       "name": "環球醫療",
       "currency": "HKD",
@@ -4899,7 +4962,7 @@
       "remarks": ""
     },
     {
-      "number": "545",
+      "number": "552",
       "code": "2669",
       "name": "中海物業",
       "currency": "HKD",
@@ -4908,7 +4971,34 @@
       "remarks": ""
     },
     {
-      "number": "546",
+      "number": "553",
+      "code": "2670",
+      "name": "雲迹",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "554",
+      "code": "2678",
+      "name": "天虹國際集團",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "555",
+      "code": "2687",
+      "name": "卓越睿新",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "556",
       "code": "2688",
       "name": "新奧能源",
       "currency": "HKD",
@@ -4917,7 +5007,7 @@
       "remarks": ""
     },
     {
-      "number": "547",
+      "number": "557",
       "code": "2689",
       "name": "玖龍紙業",
       "currency": "HKD",
@@ -4926,7 +5016,7 @@
       "remarks": ""
     },
     {
-      "number": "548",
+      "number": "558",
       "code": "2696",
       "name": "復宏漢霖",
       "currency": "HKD",
@@ -4935,7 +5025,25 @@
       "remarks": ""
     },
     {
-      "number": "549",
+      "number": "559",
+      "code": "2698",
+      "name": "樂舒適",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "560",
+      "code": "2718",
+      "name": "明略科技－Ｗ",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "561",
       "code": "2722",
       "name": "重慶機電",
       "currency": "HKD",
@@ -4944,7 +5052,7 @@
       "remarks": ""
     },
     {
-      "number": "550",
+      "number": "562",
       "code": "2727",
       "name": "上海電氣",
       "currency": "HKD",
@@ -4953,16 +5061,7 @@
       "remarks": ""
     },
     {
-      "number": "551",
-      "code": "2777",
-      "name": "富力地產",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "552",
+      "number": "563",
       "code": "2778",
       "name": "冠君產業信託",
       "currency": "HKD",
@@ -4971,7 +5070,16 @@
       "remarks": ""
     },
     {
-      "number": "553",
+      "number": "564",
+      "code": "2788",
+      "name": "創新實業",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "565",
       "code": "2799",
       "name": "中信金融資產",
       "currency": "HKD",
@@ -4980,7 +5088,7 @@
       "remarks": ""
     },
     {
-      "number": "554",
+      "number": "566",
       "code": "2800",
       "name": "盈富基金",
       "currency": "HKD",
@@ -4989,7 +5097,7 @@
       "remarks": ""
     },
     {
-      "number": "555",
+      "number": "567",
       "code": "2801",
       "name": "安碩中國",
       "currency": "HKD",
@@ -4998,7 +5106,7 @@
       "remarks": ""
     },
     {
-      "number": "556",
+      "number": "568",
       "code": "2802",
       "name": "Ａ南方國指備兌",
       "currency": "HKD",
@@ -5007,7 +5115,7 @@
       "remarks": ""
     },
     {
-      "number": "557",
+      "number": "569",
       "code": "2803",
       "name": "ＰＰ中國基石",
       "currency": "HKD",
@@ -5016,7 +5124,7 @@
       "remarks": ""
     },
     {
-      "number": "558",
+      "number": "570",
       "code": "2804",
       "name": "ＰＰ越南",
       "currency": "HKD",
@@ -5025,7 +5133,7 @@
       "remarks": ""
     },
     {
-      "number": "559",
+      "number": "571",
       "code": "2805",
       "name": "銀河博時東盟",
       "currency": "HKD",
@@ -5034,7 +5142,7 @@
       "remarks": ""
     },
     {
-      "number": "560",
+      "number": "572",
       "code": "2806",
       "name": "ＧＸ中國消費",
       "currency": "HKD",
@@ -5043,7 +5151,7 @@
       "remarks": ""
     },
     {
-      "number": "561",
+      "number": "573",
       "code": "2807",
       "name": "ＧＸ中國機智",
       "currency": "HKD",
@@ -5052,7 +5160,7 @@
       "remarks": ""
     },
     {
-      "number": "562",
+      "number": "574",
       "code": "2809",
       "name": "ＧＸ中國潔能",
       "currency": "HKD",
@@ -5061,7 +5169,7 @@
       "remarks": ""
     },
     {
-      "number": "563",
+      "number": "575",
       "code": "2810",
       "name": "ＰＰ新興東盟",
       "currency": "HKD",
@@ -5070,7 +5178,7 @@
       "remarks": ""
     },
     {
-      "number": "564",
+      "number": "576",
       "code": "2812",
       "name": "三星中國龍網",
       "currency": "HKD",
@@ -5079,7 +5187,7 @@
       "remarks": ""
     },
     {
-      "number": "565",
+      "number": "577",
       "code": "2814",
       "name": "三星ＦＡＮＧ",
       "currency": "HKD",
@@ -5088,7 +5196,7 @@
       "remarks": ""
     },
     {
-      "number": "566",
+      "number": "578",
       "code": "2815",
       "name": "ＧＸ中國小巨人",
       "currency": "HKD",
@@ -5097,7 +5205,7 @@
       "remarks": ""
     },
     {
-      "number": "567",
+      "number": "579",
       "code": "2817",
       "name": "ＰＰ國債",
       "currency": "HKD",
@@ -5106,7 +5214,7 @@
       "remarks": ""
     },
     {
-      "number": "568",
+      "number": "580",
       "code": "2818",
       "name": "潘渡比特幣",
       "currency": "HKD",
@@ -5115,7 +5223,7 @@
       "remarks": ""
     },
     {
-      "number": "569",
+      "number": "581",
       "code": "2819",
       "name": "ＡＢＦ港債指數",
       "currency": "HKD",
@@ -5124,7 +5232,7 @@
       "remarks": ""
     },
     {
-      "number": "570",
+      "number": "582",
       "code": "2820",
       "name": "ＧＸ中國生科",
       "currency": "HKD",
@@ -5133,7 +5241,7 @@
       "remarks": ""
     },
     {
-      "number": "571",
+      "number": "583",
       "code": "2821",
       "name": "沛富基金",
       "currency": "USD",
@@ -5142,7 +5250,7 @@
       "remarks": ""
     },
     {
-      "number": "572",
+      "number": "584",
       "code": "2822",
       "name": "南方Ａ５０",
       "currency": "HKD",
@@ -5151,7 +5259,7 @@
       "remarks": ""
     },
     {
-      "number": "573",
+      "number": "585",
       "code": "2823",
       "name": "安碩Ａ５０",
       "currency": "HKD",
@@ -5160,7 +5268,7 @@
       "remarks": ""
     },
     {
-      "number": "574",
+      "number": "586",
       "code": "2824",
       "name": "易方達黃金礦",
       "currency": "HKD",
@@ -5169,7 +5277,7 @@
       "remarks": ""
     },
     {
-      "number": "575",
+      "number": "587",
       "code": "2825",
       "name": "標智香港１００",
       "currency": "HKD",
@@ -5178,7 +5286,7 @@
       "remarks": ""
     },
     {
-      "number": "576",
+      "number": "588",
       "code": "2826",
       "name": "ＧＸ中國雲算",
       "currency": "HKD",
@@ -5187,7 +5295,7 @@
       "remarks": ""
     },
     {
-      "number": "577",
+      "number": "589",
       "code": "2827",
       "name": "標智滬深３００",
       "currency": "HKD",
@@ -5196,7 +5304,7 @@
       "remarks": ""
     },
     {
-      "number": "578",
+      "number": "590",
       "code": "2828",
       "name": "恒生中國企業",
       "currency": "HKD",
@@ -5205,7 +5313,7 @@
       "remarks": ""
     },
     {
-      "number": "579",
+      "number": "591",
       "code": "2829",
       "name": "安碩中國國債",
       "currency": "HKD",
@@ -5214,7 +5322,7 @@
       "remarks": ""
     },
     {
-      "number": "580",
+      "number": "592",
       "code": "2830",
       "name": "南方沙特",
       "currency": "HKD",
@@ -5223,7 +5331,7 @@
       "remarks": ""
     },
     {
-      "number": "581",
+      "number": "593",
       "code": "2832",
       "name": "博時科創５０",
       "currency": "HKD",
@@ -5232,7 +5340,7 @@
       "remarks": ""
     },
     {
-      "number": "582",
+      "number": "594",
       "code": "2834",
       "name": "安碩納指一百",
       "currency": "HKD",
@@ -5241,7 +5349,7 @@
       "remarks": ""
     },
     {
-      "number": "583",
+      "number": "595",
       "code": "2835",
       "name": "輝立香港新股",
       "currency": "HKD",
@@ -5250,7 +5358,7 @@
       "remarks": ""
     },
     {
-      "number": "584",
+      "number": "596",
       "code": "2836",
       "name": "安碩印度",
       "currency": "HKD",
@@ -5259,7 +5367,7 @@
       "remarks": ""
     },
     {
-      "number": "585",
+      "number": "597",
       "code": "2837",
       "name": "ＧＸ恒生科技",
       "currency": "HKD",
@@ -5268,7 +5376,7 @@
       "remarks": ""
     },
     {
-      "number": "586",
+      "number": "598",
       "code": "2838",
       "name": "恒生富時中國５０",
       "currency": "HKD",
@@ -5277,7 +5385,7 @@
       "remarks": ""
     },
     {
-      "number": "587",
+      "number": "599",
       "code": "2839",
       "name": "華夏Ａ５０",
       "currency": "HKD",
@@ -5286,7 +5394,7 @@
       "remarks": ""
     },
     {
-      "number": "588",
+      "number": "600",
       "code": "2840",
       "name": "ＳＰＤＲ金",
       "currency": "HKD",
@@ -5295,7 +5403,7 @@
       "remarks": ""
     },
     {
-      "number": "589",
+      "number": "601",
       "code": "2841",
       "name": "ＧＸ中國醫療科技",
       "currency": "HKD",
@@ -5304,7 +5412,7 @@
       "remarks": ""
     },
     {
-      "number": "590",
+      "number": "602",
       "code": "2843",
       "name": "東匯Ａ５０",
       "currency": "HKD",
@@ -5313,7 +5421,7 @@
       "remarks": ""
     },
     {
-      "number": "591",
+      "number": "603",
       "code": "2845",
       "name": "ＧＸ中國電車",
       "currency": "HKD",
@@ -5322,7 +5430,7 @@
       "remarks": ""
     },
     {
-      "number": "592",
+      "number": "604",
       "code": "2846",
       "name": "安碩滬深三百",
       "currency": "HKD",
@@ -5331,7 +5439,7 @@
       "remarks": ""
     },
     {
-      "number": "593",
+      "number": "605",
       "code": "2848",
       "name": "ＴＲ韓國",
       "currency": "HKD",
@@ -5340,7 +5448,7 @@
       "remarks": ""
     },
     {
-      "number": "594",
+      "number": "606",
       "code": "2858",
       "name": "易鑫集團",
       "currency": "HKD",
@@ -5349,7 +5457,7 @@
       "remarks": ""
     },
     {
-      "number": "595",
+      "number": "607",
       "code": "2866",
       "name": "中遠海發",
       "currency": "HKD",
@@ -5358,7 +5466,7 @@
       "remarks": ""
     },
     {
-      "number": "596",
+      "number": "608",
       "code": "2869",
       "name": "綠城服務",
       "currency": "HKD",
@@ -5367,7 +5475,7 @@
       "remarks": ""
     },
     {
-      "number": "597",
+      "number": "609",
       "code": "2877",
       "name": "神威藥業",
       "currency": "HKD",
@@ -5376,16 +5484,7 @@
       "remarks": ""
     },
     {
-      "number": "598",
-      "code": "2880",
-      "name": "遼港股份",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "599",
+      "number": "610",
       "code": "2883",
       "name": "中海油田服務",
       "currency": "HKD",
@@ -5394,7 +5493,7 @@
       "remarks": ""
     },
     {
-      "number": "600",
+      "number": "611",
       "code": "2888",
       "name": "渣打集團",
       "currency": "HKD",
@@ -5403,7 +5502,16 @@
       "remarks": ""
     },
     {
-      "number": "601",
+      "number": "612",
+      "code": "2889",
+      "name": "博泰車聯",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "613",
       "code": "2899",
       "name": "紫金礦業",
       "currency": "HKD",
@@ -5412,7 +5520,7 @@
       "remarks": ""
     },
     {
-      "number": "602",
+      "number": "614",
       "code": "3001",
       "name": "ＰＰ中地美債",
       "currency": "HKD",
@@ -5421,7 +5529,7 @@
       "remarks": ""
     },
     {
-      "number": "603",
+      "number": "615",
       "code": "3003",
       "name": "南方明晟Ａ５０",
       "currency": "HKD",
@@ -5430,7 +5538,7 @@
       "remarks": ""
     },
     {
-      "number": "604",
+      "number": "616",
       "code": "3004",
       "name": "南方東英越南３０",
       "currency": "HKD",
@@ -5439,7 +5547,7 @@
       "remarks": ""
     },
     {
-      "number": "605",
+      "number": "617",
       "code": "3005",
       "name": "Ｘ南方中五百",
       "currency": "HKD",
@@ -5448,7 +5556,7 @@
       "remarks": ""
     },
     {
-      "number": "606",
+      "number": "618",
       "code": "3006",
       "name": "ＡＧＸ ＡＩ科技",
       "currency": "HKD",
@@ -5457,7 +5565,7 @@
       "remarks": ""
     },
     {
-      "number": "607",
+      "number": "619",
       "code": "3007",
       "name": "ＴＲＭＳＣＩ中國",
       "currency": "HKD",
@@ -5466,7 +5574,7 @@
       "remarks": ""
     },
     {
-      "number": "608",
+      "number": "620",
       "code": "3008",
       "name": "博時比特幣",
       "currency": "HKD",
@@ -5475,7 +5583,7 @@
       "remarks": ""
     },
     {
-      "number": "609",
+      "number": "621",
       "code": "3009",
       "name": "博時以太幣",
       "currency": "HKD",
@@ -5484,7 +5592,7 @@
       "remarks": ""
     },
     {
-      "number": "610",
+      "number": "622",
       "code": "3010",
       "name": "安碩亞洲除日",
       "currency": "HKD",
@@ -5493,7 +5601,7 @@
       "remarks": ""
     },
     {
-      "number": "611",
+      "number": "623",
       "code": "3011",
       "name": "Ａ工銀中金美",
       "currency": "HKD",
@@ -5502,7 +5610,7 @@
       "remarks": ""
     },
     {
-      "number": "612",
+      "number": "624",
       "code": "3012",
       "name": "東匯香港３５",
       "currency": "HKD",
@@ -5511,7 +5619,7 @@
       "remarks": ""
     },
     {
-      "number": "613",
+      "number": "625",
       "code": "3015",
       "name": "ＸＴＲＮ５０印度",
       "currency": "HKD",
@@ -5520,7 +5628,7 @@
       "remarks": ""
     },
     {
-      "number": "614",
+      "number": "626",
       "code": "3020",
       "name": "ＸＴＲ美國",
       "currency": "HKD",
@@ -5529,7 +5637,7 @@
       "remarks": ""
     },
     {
-      "number": "615",
+      "number": "627",
       "code": "3021",
       "name": "富邦富時台灣",
       "currency": "HKD",
@@ -5538,7 +5646,7 @@
       "remarks": ""
     },
     {
-      "number": "616",
+      "number": "628",
       "code": "3024",
       "name": "標智上證５０",
       "currency": "HKD",
@@ -5547,7 +5655,7 @@
       "remarks": ""
     },
     {
-      "number": "617",
+      "number": "629",
       "code": "3029",
       "name": "ＧＸ恒生ＥＳＧ",
       "currency": "HKD",
@@ -5556,7 +5664,7 @@
       "remarks": ""
     },
     {
-      "number": "618",
+      "number": "630",
       "code": "3032",
       "name": "恒生科技ＥＴＦ",
       "currency": "HKD",
@@ -5565,7 +5673,7 @@
       "remarks": ""
     },
     {
-      "number": "619",
+      "number": "631",
       "code": "3033",
       "name": "南方恒生科技",
       "currency": "HKD",
@@ -5574,7 +5682,7 @@
       "remarks": ""
     },
     {
-      "number": "620",
+      "number": "632",
       "code": "3034",
       "name": "南方納指一百",
       "currency": "HKD",
@@ -5583,7 +5691,7 @@
       "remarks": ""
     },
     {
-      "number": "621",
+      "number": "633",
       "code": "3036",
       "name": "ＴＲ台灣",
       "currency": "HKD",
@@ -5592,7 +5700,7 @@
       "remarks": ""
     },
     {
-      "number": "622",
+      "number": "634",
       "code": "3037",
       "name": "南方恒指ＥＴＦ",
       "currency": "HKD",
@@ -5601,7 +5709,7 @@
       "remarks": ""
     },
     {
-      "number": "623",
+      "number": "635",
       "code": "3038",
       "name": "恒生Ａ股低碳",
       "currency": "HKD",
@@ -5610,7 +5718,7 @@
       "remarks": ""
     },
     {
-      "number": "624",
+      "number": "636",
       "code": "3039",
       "name": "易方達恒指ＥＳＧ",
       "currency": "HKD",
@@ -5619,7 +5727,7 @@
       "remarks": ""
     },
     {
-      "number": "625",
+      "number": "637",
       "code": "3040",
       "name": "ＧＸ中國",
       "currency": "HKD",
@@ -5628,7 +5736,7 @@
       "remarks": ""
     },
     {
-      "number": "626",
+      "number": "638",
       "code": "3041",
       "name": "ＧＸ中國政銀債券",
       "currency": "HKD",
@@ -5637,7 +5745,7 @@
       "remarks": ""
     },
     {
-      "number": "627",
+      "number": "639",
       "code": "3042",
       "name": "華夏比特幣",
       "currency": "HKD",
@@ -5646,7 +5754,7 @@
       "remarks": ""
     },
     {
-      "number": "628",
+      "number": "640",
       "code": "3046",
       "name": "華夏以太幣",
       "currency": "HKD",
@@ -5655,7 +5763,7 @@
       "remarks": ""
     },
     {
-      "number": "629",
+      "number": "641",
       "code": "3047",
       "name": "Ｆ山證鐵礦石",
       "currency": "HKD",
@@ -5664,7 +5772,7 @@
       "remarks": ""
     },
     {
-      "number": "630",
+      "number": "642",
       "code": "3050",
       "name": "ＧＸ中國全球領導",
       "currency": "HKD",
@@ -5673,7 +5781,7 @@
       "remarks": ""
     },
     {
-      "number": "631",
+      "number": "643",
       "code": "3053",
       "name": "Ａ南方港元",
       "currency": "HKD",
@@ -5682,7 +5790,7 @@
       "remarks": ""
     },
     {
-      "number": "632",
+      "number": "644",
       "code": "3056",
       "name": "Ａ潘渡創新",
       "currency": "HKD",
@@ -5691,7 +5799,7 @@
       "remarks": ""
     },
     {
-      "number": "633",
+      "number": "645",
       "code": "3059",
       "name": "ＧＸ亞洲綠債",
       "currency": "HKD",
@@ -5700,7 +5808,7 @@
       "remarks": ""
     },
     {
-      "number": "634",
+      "number": "646",
       "code": "3064",
       "name": "ＧＸ亞太",
       "currency": "HKD",
@@ -5709,7 +5817,7 @@
       "remarks": ""
     },
     {
-      "number": "635",
+      "number": "647",
       "code": "3066",
       "name": "ＦＡ南方比特幣",
       "currency": "HKD",
@@ -5718,7 +5826,7 @@
       "remarks": ""
     },
     {
-      "number": "636",
+      "number": "648",
       "code": "3067",
       "name": "安碩恒生科技",
       "currency": "HKD",
@@ -5727,7 +5835,7 @@
       "remarks": ""
     },
     {
-      "number": "637",
+      "number": "649",
       "code": "3068",
       "name": "ＦＡ南方以太幣",
       "currency": "HKD",
@@ -5736,7 +5844,7 @@
       "remarks": ""
     },
     {
-      "number": "638",
+      "number": "650",
       "code": "3069",
       "name": "華夏恒生生科",
       "currency": "HKD",
@@ -5745,7 +5853,7 @@
       "remarks": ""
     },
     {
-      "number": "639",
+      "number": "651",
       "code": "3070",
       "name": "平安香港高息",
       "currency": "HKD",
@@ -5754,7 +5862,7 @@
       "remarks": ""
     },
     {
-      "number": "640",
+      "number": "652",
       "code": "3071",
       "name": "Ａ中金港元",
       "currency": "HKD",
@@ -5763,7 +5871,7 @@
       "remarks": ""
     },
     {
-      "number": "641",
+      "number": "653",
       "code": "3072",
       "name": "奧明環球聯網",
       "currency": "HKD",
@@ -5772,7 +5880,7 @@
       "remarks": ""
     },
     {
-      "number": "642",
+      "number": "654",
       "code": "3074",
       "name": "安碩ＭＳ台灣",
       "currency": "HKD",
@@ -5781,7 +5889,7 @@
       "remarks": ""
     },
     {
-      "number": "643",
+      "number": "655",
       "code": "3075",
       "name": "ＧＸ亞洲美債",
       "currency": "HKD",
@@ -5790,7 +5898,7 @@
       "remarks": ""
     },
     {
-      "number": "644",
+      "number": "656",
       "code": "3076",
       "name": "富邦台灣半導體",
       "currency": "HKD",
@@ -5799,7 +5907,7 @@
       "remarks": ""
     },
     {
-      "number": "645",
+      "number": "657",
       "code": "3077",
       "name": "ＰＰ美國庫",
       "currency": "HKD",
@@ -5808,7 +5916,7 @@
       "remarks": ""
     },
     {
-      "number": "646",
+      "number": "658",
       "code": "3081",
       "name": "價值黃金",
       "currency": "HKD",
@@ -5817,7 +5925,7 @@
       "remarks": ""
     },
     {
-      "number": "647",
+      "number": "659",
       "code": "3084",
       "name": "ＡＧＸ印度",
       "currency": "HKD",
@@ -5826,7 +5934,7 @@
       "remarks": ""
     },
     {
-      "number": "648",
+      "number": "660",
       "code": "3085",
       "name": "潘渡以太幣",
       "currency": "HKD",
@@ -5835,7 +5943,7 @@
       "remarks": ""
     },
     {
-      "number": "649",
+      "number": "661",
       "code": "3086",
       "name": "華夏納指",
       "currency": "HKD",
@@ -5844,7 +5952,7 @@
       "remarks": ""
     },
     {
-      "number": "650",
+      "number": "662",
       "code": "3087",
       "name": "ＸＴＲ越南",
       "currency": "HKD",
@@ -5853,7 +5961,7 @@
       "remarks": ""
     },
     {
-      "number": "651",
+      "number": "663",
       "code": "3088",
       "name": "華夏恒生科技",
       "currency": "HKD",
@@ -5862,7 +5970,7 @@
       "remarks": ""
     },
     {
-      "number": "652",
+      "number": "664",
       "code": "3096",
       "name": "Ａ南方美元",
       "currency": "HKD",
@@ -5871,7 +5979,7 @@
       "remarks": ""
     },
     {
-      "number": "653",
+      "number": "665",
       "code": "3097",
       "name": "ＦＧＸ原油",
       "currency": "HKD",
@@ -5880,7 +5988,7 @@
       "remarks": ""
     },
     {
-      "number": "654",
+      "number": "666",
       "code": "3101",
       "name": "南方Ａ５００",
       "currency": "HKD",
@@ -5889,7 +5997,7 @@
       "remarks": ""
     },
     {
-      "number": "655",
+      "number": "667",
       "code": "3102",
       "name": "工銀ＫＷＥＢ",
       "currency": "HKD",
@@ -5898,7 +6006,7 @@
       "remarks": ""
     },
     {
-      "number": "656",
+      "number": "668",
       "code": "3104",
       "name": "ＡＧＸ亞洲",
       "currency": "HKD",
@@ -5907,7 +6015,7 @@
       "remarks": ""
     },
     {
-      "number": "657",
+      "number": "669",
       "code": "3108",
       "name": "嘉實ＥＳＧ領",
       "currency": "HKD",
@@ -5916,7 +6024,7 @@
       "remarks": ""
     },
     {
-      "number": "658",
+      "number": "670",
       "code": "3109",
       "name": "南方科創板５０",
       "currency": "HKD",
@@ -5925,7 +6033,7 @@
       "remarks": ""
     },
     {
-      "number": "659",
+      "number": "671",
       "code": "3110",
       "name": "ＧＸ恒生股息",
       "currency": "HKD",
@@ -5934,7 +6042,7 @@
       "remarks": ""
     },
     {
-      "number": "660",
+      "number": "672",
       "code": "3111",
       "name": "易方達Ａ５０",
       "currency": "HKD",
@@ -5943,7 +6051,7 @@
       "remarks": ""
     },
     {
-      "number": "661",
+      "number": "673",
       "code": "3112",
       "name": "Ａ潘渡區塊鏈",
       "currency": "HKD",
@@ -5952,7 +6060,7 @@
       "remarks": ""
     },
     {
-      "number": "662",
+      "number": "674",
       "code": "3115",
       "name": "安碩恒生指數",
       "currency": "HKD",
@@ -5961,7 +6069,7 @@
       "remarks": ""
     },
     {
-      "number": "663",
+      "number": "675",
       "code": "3116",
       "name": "ＧＸ亞太高股息率",
       "currency": "HKD",
@@ -5970,7 +6078,7 @@
       "remarks": ""
     },
     {
-      "number": "664",
+      "number": "676",
       "code": "3118",
       "name": "嘉實明晟Ａ股",
       "currency": "HKD",
@@ -5979,7 +6087,7 @@
       "remarks": ""
     },
     {
-      "number": "665",
+      "number": "677",
       "code": "3119",
       "name": "ＧＸ亞洲半導體",
       "currency": "HKD",
@@ -5988,7 +6096,7 @@
       "remarks": ""
     },
     {
-      "number": "666",
+      "number": "678",
       "code": "3122",
       "name": "Ａ南方人民幣",
       "currency": "HKD",
@@ -5997,7 +6105,7 @@
       "remarks": ""
     },
     {
-      "number": "667",
+      "number": "679",
       "code": "3128",
       "name": "恒生Ａ股龍頭",
       "currency": "HKD",
@@ -6006,7 +6114,7 @@
       "remarks": ""
     },
     {
-      "number": "668",
+      "number": "680",
       "code": "3129",
       "name": "中銀大灣氣候",
       "currency": "HKD",
@@ -6015,7 +6123,7 @@
       "remarks": ""
     },
     {
-      "number": "669",
+      "number": "681",
       "code": "3130",
       "name": "恒生滬深三百",
       "currency": "HKD",
@@ -6024,7 +6132,7 @@
       "remarks": ""
     },
     {
-      "number": "670",
+      "number": "682",
       "code": "3132",
       "name": "三星環球半導體",
       "currency": "HKD",
@@ -6033,7 +6141,7 @@
       "remarks": ""
     },
     {
-      "number": "671",
+      "number": "683",
       "code": "3133",
       "name": "南方滬深三百",
       "currency": "HKD",
@@ -6042,7 +6150,7 @@
       "remarks": ""
     },
     {
-      "number": "672",
+      "number": "684",
       "code": "3134",
       "name": "南方太陽能",
       "currency": "HKD",
@@ -6051,7 +6159,7 @@
       "remarks": ""
     },
     {
-      "number": "673",
+      "number": "685",
       "code": "3135",
       "name": "ＦＡ三星比特幣",
       "currency": "HKD",
@@ -6060,7 +6168,7 @@
       "remarks": ""
     },
     {
-      "number": "674",
+      "number": "686",
       "code": "3136",
       "name": "恒指ＥＳＧＥＴＦ",
       "currency": "HKD",
@@ -6069,7 +6177,7 @@
       "remarks": ""
     },
     {
-      "number": "675",
+      "number": "687",
       "code": "3137",
       "name": "ＡＧＸ美元",
       "currency": "HKD",
@@ -6078,7 +6186,7 @@
       "remarks": ""
     },
     {
-      "number": "676",
+      "number": "688",
       "code": "3139",
       "name": "ＡＧＸ電車機器人",
       "currency": "HKD",
@@ -6087,7 +6195,7 @@
       "remarks": ""
     },
     {
-      "number": "677",
+      "number": "689",
       "code": "3141",
       "name": "華夏亞投債",
       "currency": "HKD",
@@ -6096,7 +6204,7 @@
       "remarks": ""
     },
     {
-      "number": "678",
+      "number": "690",
       "code": "3145",
       "name": "華夏亞洲高息股",
       "currency": "HKD",
@@ -6105,7 +6213,7 @@
       "remarks": ""
     },
     {
-      "number": "679",
+      "number": "691",
       "code": "3146",
       "name": "華夏２０美債",
       "currency": "HKD",
@@ -6114,7 +6222,7 @@
       "remarks": ""
     },
     {
-      "number": "680",
+      "number": "692",
       "code": "3147",
       "name": "Ｘ南方中創業",
       "currency": "HKD",
@@ -6123,7 +6231,7 @@
       "remarks": ""
     },
     {
-      "number": "681",
+      "number": "693",
       "code": "3150",
       "name": "ＧＸ日本全球領導",
       "currency": "HKD",
@@ -6132,7 +6240,7 @@
       "remarks": ""
     },
     {
-      "number": "682",
+      "number": "694",
       "code": "3151",
       "name": "ＰＰ科創５０",
       "currency": "HKD",
@@ -6141,7 +6249,7 @@
       "remarks": ""
     },
     {
-      "number": "683",
+      "number": "695",
       "code": "3152",
       "name": "Ａ博時港元",
       "currency": "HKD",
@@ -6150,7 +6258,7 @@
       "remarks": ""
     },
     {
-      "number": "684",
+      "number": "696",
       "code": "3153",
       "name": "南方日經２２５",
       "currency": "HKD",
@@ -6159,7 +6267,7 @@
       "remarks": ""
     },
     {
-      "number": "685",
+      "number": "697",
       "code": "3156",
       "name": "博時２０美債",
       "currency": "HKD",
@@ -6168,7 +6276,7 @@
       "remarks": ""
     },
     {
-      "number": "686",
+      "number": "698",
       "code": "3158",
       "name": "ＧＸ韓流音樂文化",
       "currency": "HKD",
@@ -6177,7 +6285,7 @@
       "remarks": ""
     },
     {
-      "number": "687",
+      "number": "699",
       "code": "3160",
       "name": "華夏日股對沖",
       "currency": "HKD",
@@ -6186,7 +6294,7 @@
       "remarks": ""
     },
     {
-      "number": "688",
+      "number": "700",
       "code": "3161",
       "name": "Ａ華夏人民幣",
       "currency": "HKD",
@@ -6195,7 +6303,7 @@
       "remarks": ""
     },
     {
-      "number": "689",
+      "number": "701",
       "code": "3165",
       "name": "華夏歐優股對沖",
       "currency": "HKD",
@@ -6204,7 +6312,7 @@
       "remarks": ""
     },
     {
-      "number": "690",
+      "number": "702",
       "code": "3167",
       "name": "工銀南方中國",
       "currency": "HKD",
@@ -6213,7 +6321,7 @@
       "remarks": ""
     },
     {
-      "number": "691",
+      "number": "703",
       "code": "3170",
       "name": "恒生黃金ＥＴＦ",
       "currency": "HKD",
@@ -6222,7 +6330,7 @@
       "remarks": ""
     },
     {
-      "number": "692",
+      "number": "704",
       "code": "3171",
       "name": "Ａ三星區塊鏈",
       "currency": "HKD",
@@ -6231,7 +6339,7 @@
       "remarks": ""
     },
     {
-      "number": "693",
+      "number": "705",
       "code": "3172",
       "name": "Ａ三星亞太元宇宙",
       "currency": "HKD",
@@ -6240,7 +6348,7 @@
       "remarks": ""
     },
     {
-      "number": "694",
+      "number": "706",
       "code": "3173",
       "name": "ＰＰ中新經濟",
       "currency": "HKD",
@@ -6249,7 +6357,7 @@
       "remarks": ""
     },
     {
-      "number": "695",
+      "number": "707",
       "code": "3174",
       "name": "南方恒生生科",
       "currency": "HKD",
@@ -6258,7 +6366,7 @@
       "remarks": ""
     },
     {
-      "number": "696",
+      "number": "708",
       "code": "3175",
       "name": "Ｆ三星原油期",
       "currency": "HKD",
@@ -6267,7 +6375,7 @@
       "remarks": ""
     },
     {
-      "number": "697",
+      "number": "709",
       "code": "3176",
       "name": "Ａ泰康美元",
       "currency": "HKD",
@@ -6276,7 +6384,7 @@
       "remarks": ""
     },
     {
-      "number": "698",
+      "number": "710",
       "code": "3179",
       "name": "嘉實以太幣",
       "currency": "HKD",
@@ -6285,7 +6393,7 @@
       "remarks": ""
     },
     {
-      "number": "699",
+      "number": "711",
       "code": "3181",
       "name": "ＰＰ亞洲創科",
       "currency": "HKD",
@@ -6294,7 +6402,7 @@
       "remarks": ""
     },
     {
-      "number": "700",
+      "number": "712",
       "code": "3182",
       "name": "標智新經濟ＥＳＧ",
       "currency": "HKD",
@@ -6303,7 +6411,7 @@
       "remarks": ""
     },
     {
-      "number": "701",
+      "number": "713",
       "code": "3184",
       "name": "ＧＸ印度精選十強",
       "currency": "HKD",
@@ -6312,7 +6420,7 @@
       "remarks": ""
     },
     {
-      "number": "702",
+      "number": "714",
       "code": "3185",
       "name": "ＧＸ金融科技",
       "currency": "HKD",
@@ -6321,7 +6429,7 @@
       "remarks": ""
     },
     {
-      "number": "703",
+      "number": "715",
       "code": "3187",
       "name": "三星高息房託",
       "currency": "HKD",
@@ -6330,7 +6438,7 @@
       "remarks": ""
     },
     {
-      "number": "704",
+      "number": "716",
       "code": "3188",
       "name": "華夏滬深三百",
       "currency": "HKD",
@@ -6339,7 +6447,7 @@
       "remarks": ""
     },
     {
-      "number": "705",
+      "number": "717",
       "code": "3189",
       "name": "易方達白酒",
       "currency": "HKD",
@@ -6348,7 +6456,7 @@
       "remarks": ""
     },
     {
-      "number": "706",
+      "number": "718",
       "code": "3190",
       "name": "富邦滬深港高股息",
       "currency": "HKD",
@@ -6357,7 +6465,7 @@
       "remarks": ""
     },
     {
-      "number": "707",
+      "number": "719",
       "code": "3191",
       "name": "ＧＸ中國半導",
       "currency": "HKD",
@@ -6366,7 +6474,7 @@
       "remarks": ""
     },
     {
-      "number": "708",
+      "number": "720",
       "code": "3192",
       "name": "Ａ博時人民幣",
       "currency": "HKD",
@@ -6375,7 +6483,7 @@
       "remarks": ""
     },
     {
-      "number": "709",
+      "number": "721",
       "code": "3193",
       "name": "南方中證５Ｇ",
       "currency": "HKD",
@@ -6384,7 +6492,7 @@
       "remarks": ""
     },
     {
-      "number": "710",
+      "number": "722",
       "code": "3195",
       "name": "恒生標普五百",
       "currency": "HKD",
@@ -6393,7 +6501,7 @@
       "remarks": ""
     },
     {
-      "number": "711",
+      "number": "723",
       "code": "3196",
       "name": "Ａ博時美元",
       "currency": "HKD",
@@ -6402,7 +6510,7 @@
       "remarks": ""
     },
     {
-      "number": "712",
+      "number": "724",
       "code": "3199",
       "name": "工銀南方國債",
       "currency": "HKD",
@@ -6411,7 +6519,7 @@
       "remarks": ""
     },
     {
-      "number": "713",
+      "number": "725",
       "code": "3288",
       "name": "海天味業",
       "currency": "HKD",
@@ -6420,7 +6528,7 @@
       "remarks": ""
     },
     {
-      "number": "714",
+      "number": "726",
       "code": "3306",
       "name": "江南布衣",
       "currency": "HKD",
@@ -6429,7 +6537,7 @@
       "remarks": ""
     },
     {
-      "number": "715",
+      "number": "727",
       "code": "3311",
       "name": "中國建築國際",
       "currency": "HKD",
@@ -6438,7 +6546,7 @@
       "remarks": ""
     },
     {
-      "number": "716",
+      "number": "728",
       "code": "3316",
       "name": "濱江服務",
       "currency": "HKD",
@@ -6447,7 +6555,7 @@
       "remarks": ""
     },
     {
-      "number": "717",
+      "number": "729",
       "code": "3319",
       "name": "雅生活服務",
       "currency": "HKD",
@@ -6456,7 +6564,7 @@
       "remarks": ""
     },
     {
-      "number": "718",
+      "number": "730",
       "code": "3320",
       "name": "華潤醫藥",
       "currency": "HKD",
@@ -6465,7 +6573,7 @@
       "remarks": ""
     },
     {
-      "number": "719",
+      "number": "731",
       "code": "3323",
       "name": "中國建材",
       "currency": "HKD",
@@ -6474,7 +6582,7 @@
       "remarks": ""
     },
     {
-      "number": "720",
+      "number": "732",
       "code": "3328",
       "name": "交通銀行",
       "currency": "HKD",
@@ -6483,7 +6591,7 @@
       "remarks": ""
     },
     {
-      "number": "721",
+      "number": "733",
       "code": "3330",
       "name": "靈寶黃金",
       "currency": "HKD",
@@ -6492,7 +6600,16 @@
       "remarks": ""
     },
     {
-      "number": "722",
+      "number": "734",
+      "code": "3336",
+      "name": "巨騰國際",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "735",
       "code": "3337",
       "name": "安東油田服務",
       "currency": "HKD",
@@ -6501,7 +6618,7 @@
       "remarks": ""
     },
     {
-      "number": "723",
+      "number": "736",
       "code": "3339",
       "name": "中國龍工",
       "currency": "HKD",
@@ -6510,7 +6627,7 @@
       "remarks": ""
     },
     {
-      "number": "724",
+      "number": "737",
       "code": "3347",
       "name": "泰格醫藥",
       "currency": "HKD",
@@ -6519,7 +6636,7 @@
       "remarks": ""
     },
     {
-      "number": "725",
+      "number": "738",
       "code": "3360",
       "name": "遠東宏信",
       "currency": "HKD",
@@ -6528,7 +6645,16 @@
       "remarks": ""
     },
     {
-      "number": "726",
+      "number": "739",
+      "code": "3369",
+      "name": "秦港股份",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "740",
       "code": "3380",
       "name": "龍光集團",
       "currency": "HKD",
@@ -6537,7 +6663,7 @@
       "remarks": ""
     },
     {
-      "number": "727",
+      "number": "741",
       "code": "3382",
       "name": "天津港發展",
       "currency": "HKD",
@@ -6546,7 +6672,7 @@
       "remarks": ""
     },
     {
-      "number": "728",
+      "number": "742",
       "code": "3393",
       "name": "威勝控股",
       "currency": "HKD",
@@ -6555,7 +6681,7 @@
       "remarks": ""
     },
     {
-      "number": "729",
+      "number": "743",
       "code": "3396",
       "name": "聯想控股",
       "currency": "HKD",
@@ -6564,7 +6690,7 @@
       "remarks": ""
     },
     {
-      "number": "730",
+      "number": "744",
       "code": "3401",
       "name": "ＧＸＡＩ基礎設施",
       "currency": "HKD",
@@ -6573,7 +6699,7 @@
       "remarks": ""
     },
     {
-      "number": "731",
+      "number": "745",
       "code": "3402",
       "name": "ＧＸ中美科技",
       "currency": "HKD",
@@ -6582,7 +6708,7 @@
       "remarks": ""
     },
     {
-      "number": "732",
+      "number": "746",
       "code": "3403",
       "name": "華夏恒ＥＳＧ",
       "currency": "HKD",
@@ -6591,7 +6717,7 @@
       "remarks": ""
     },
     {
-      "number": "733",
+      "number": "747",
       "code": "3404",
       "name": "華夏印度",
       "currency": "HKD",
@@ -6600,7 +6726,7 @@
       "remarks": ""
     },
     {
-      "number": "734",
+      "number": "748",
       "code": "3405",
       "name": "富邦亞洲電池儲能",
       "currency": "HKD",
@@ -6609,7 +6735,7 @@
       "remarks": ""
     },
     {
-      "number": "735",
+      "number": "749",
       "code": "3406",
       "name": "平安科技精選",
       "currency": "HKD",
@@ -6618,7 +6744,7 @@
       "remarks": ""
     },
     {
-      "number": "736",
+      "number": "750",
       "code": "3410",
       "name": "恒生日本東證一百",
       "currency": "HKD",
@@ -6627,7 +6753,7 @@
       "remarks": ""
     },
     {
-      "number": "737",
+      "number": "751",
       "code": "3411",
       "name": "ＰＰ亞洲美債",
       "currency": "HKD",
@@ -6636,7 +6762,7 @@
       "remarks": ""
     },
     {
-      "number": "738",
+      "number": "752",
       "code": "3412",
       "name": "Ａ都會電子支付",
       "currency": "HKD",
@@ -6645,7 +6771,7 @@
       "remarks": ""
     },
     {
-      "number": "739",
+      "number": "753",
       "code": "3413",
       "name": "Ａ都會人工智能",
       "currency": "HKD",
@@ -6654,7 +6780,7 @@
       "remarks": ""
     },
     {
-      "number": "740",
+      "number": "754",
       "code": "3415",
       "name": "ＡＧＸ標普兌",
       "currency": "HKD",
@@ -6663,7 +6789,7 @@
       "remarks": ""
     },
     {
-      "number": "741",
+      "number": "755",
       "code": "3416",
       "name": "ＡＧＸ國指兌",
       "currency": "HKD",
@@ -6672,7 +6798,7 @@
       "remarks": ""
     },
     {
-      "number": "742",
+      "number": "756",
       "code": "3417",
       "name": "ＡＧＸ恒科備兌",
       "currency": "HKD",
@@ -6681,7 +6807,7 @@
       "remarks": ""
     },
     {
-      "number": "743",
+      "number": "757",
       "code": "3419",
       "name": "Ａ　ＧＸ恒指備兌",
       "currency": "HKD",
@@ -6690,7 +6816,7 @@
       "remarks": ""
     },
     {
-      "number": "744",
+      "number": "758",
       "code": "3420",
       "name": "Ａ惠理人民幣",
       "currency": "HKD",
@@ -6699,7 +6825,7 @@
       "remarks": ""
     },
     {
-      "number": "745",
+      "number": "759",
       "code": "3421",
       "name": "Ａ惠理港元",
       "currency": "HKD",
@@ -6708,7 +6834,7 @@
       "remarks": ""
     },
     {
-      "number": "746",
+      "number": "760",
       "code": "3422",
       "name": "ＧＸ創新藍籌十強",
       "currency": "HKD",
@@ -6717,7 +6843,7 @@
       "remarks": ""
     },
     {
-      "number": "747",
+      "number": "761",
       "code": "3423",
       "name": "招商恒生科技",
       "currency": "HKD",
@@ -6726,7 +6852,7 @@
       "remarks": ""
     },
     {
-      "number": "748",
+      "number": "762",
       "code": "3425",
       "name": "ＭＢＣ以太幣",
       "currency": "HKD",
@@ -6735,7 +6861,7 @@
       "remarks": ""
     },
     {
-      "number": "749",
+      "number": "763",
       "code": "3426",
       "name": "Ａ都會ＷＥＢ３",
       "currency": "HKD",
@@ -6744,7 +6870,7 @@
       "remarks": ""
     },
     {
-      "number": "750",
+      "number": "764",
       "code": "3427",
       "name": "富邦多元資產",
       "currency": "HKD",
@@ -6753,7 +6879,7 @@
       "remarks": ""
     },
     {
-      "number": "751",
+      "number": "765",
       "code": "3430",
       "name": "ＭＢＣ比特幣",
       "currency": "HKD",
@@ -6762,7 +6888,7 @@
       "remarks": ""
     },
     {
-      "number": "752",
+      "number": "766",
       "code": "3431",
       "name": "南方港韓科技",
       "currency": "HKD",
@@ -6771,7 +6897,7 @@
       "remarks": ""
     },
     {
-      "number": "753",
+      "number": "767",
       "code": "3432",
       "name": "南方港股通",
       "currency": "HKD",
@@ -6780,7 +6906,7 @@
       "remarks": ""
     },
     {
-      "number": "754",
+      "number": "768",
       "code": "3433",
       "name": "南方美國國債２０",
       "currency": "HKD",
@@ -6789,7 +6915,7 @@
       "remarks": ""
     },
     {
-      "number": "755",
+      "number": "769",
       "code": "3434",
       "name": "易方達數科",
       "currency": "HKD",
@@ -6798,7 +6924,7 @@
       "remarks": ""
     },
     {
-      "number": "756",
+      "number": "770",
       "code": "3435",
       "name": "恒生招商七十美債",
       "currency": "HKD",
@@ -6807,7 +6933,7 @@
       "remarks": ""
     },
     {
-      "number": "757",
+      "number": "771",
       "code": "3436",
       "name": "恒生招商一三美債",
       "currency": "HKD",
@@ -6816,7 +6942,7 @@
       "remarks": ""
     },
     {
-      "number": "758",
+      "number": "772",
       "code": "3437",
       "name": "博時央企紅利",
       "currency": "HKD",
@@ -6825,7 +6951,7 @@
       "remarks": ""
     },
     {
-      "number": "759",
+      "number": "773",
       "code": "3439",
       "name": "嘉實比特幣",
       "currency": "HKD",
@@ -6834,7 +6960,7 @@
       "remarks": ""
     },
     {
-      "number": "760",
+      "number": "774",
       "code": "3440",
       "name": "ＧＸ０３月債",
       "currency": "HKD",
@@ -6843,7 +6969,7 @@
       "remarks": ""
     },
     {
-      "number": "761",
+      "number": "775",
       "code": "3441",
       "name": "南方東西精選",
       "currency": "HKD",
@@ -6852,7 +6978,7 @@
       "remarks": ""
     },
     {
-      "number": "762",
+      "number": "776",
       "code": "3442",
       "name": "南方港美科技",
       "currency": "HKD",
@@ -6861,7 +6987,7 @@
       "remarks": ""
     },
     {
-      "number": "763",
+      "number": "777",
       "code": "3443",
       "name": "南方香港股票",
       "currency": "HKD",
@@ -6870,7 +6996,7 @@
       "remarks": ""
     },
     {
-      "number": "764",
+      "number": "778",
       "code": "3447",
       "name": "南方亞太房託",
       "currency": "HKD",
@@ -6879,7 +7005,7 @@
       "remarks": ""
     },
     {
-      "number": "765",
+      "number": "779",
       "code": "3448",
       "name": "ＧＸ中國科技",
       "currency": "HKD",
@@ -6888,7 +7014,7 @@
       "remarks": ""
     },
     {
-      "number": "766",
+      "number": "780",
       "code": "3450",
       "name": "ＧＸ３５美債",
       "currency": "HKD",
@@ -6897,7 +7023,7 @@
       "remarks": ""
     },
     {
-      "number": "767",
+      "number": "781",
       "code": "3451",
       "name": "ＡＧＸ納指兌",
       "currency": "HKD",
@@ -6906,7 +7032,7 @@
       "remarks": ""
     },
     {
-      "number": "768",
+      "number": "782",
       "code": "3453",
       "name": "ＰＰ台灣５０",
       "currency": "HKD",
@@ -6915,7 +7041,7 @@
       "remarks": ""
     },
     {
-      "number": "769",
+      "number": "783",
       "code": "3454",
       "name": "南方美股七巨頭",
       "currency": "HKD",
@@ -6924,7 +7050,7 @@
       "remarks": ""
     },
     {
-      "number": "770",
+      "number": "784",
       "code": "3455",
       "name": "景順ＱＱＱ",
       "currency": "HKD",
@@ -6933,7 +7059,7 @@
       "remarks": ""
     },
     {
-      "number": "771",
+      "number": "785",
       "code": "3457",
       "name": "Ａ泰康港元",
       "currency": "HKD",
@@ -6942,7 +7068,7 @@
       "remarks": ""
     },
     {
-      "number": "772",
+      "number": "786",
       "code": "3460",
       "name": "華夏ＳＯＬ",
       "currency": "HKD",
@@ -6951,7 +7077,7 @@
       "remarks": ""
     },
     {
-      "number": "773",
+      "number": "787",
       "code": "3461",
       "name": "Ａ華夏人幣數",
       "currency": "HKD",
@@ -6960,7 +7086,7 @@
       "remarks": ""
     },
     {
-      "number": "774",
+      "number": "788",
       "code": "3466",
       "name": "恒生高息股",
       "currency": "HKD",
@@ -6969,7 +7095,7 @@
       "remarks": ""
     },
     {
-      "number": "775",
+      "number": "789",
       "code": "3469",
       "name": "南方港股通紅利",
       "currency": "HKD",
@@ -6978,7 +7104,7 @@
       "remarks": ""
     },
     {
-      "number": "776",
+      "number": "790",
       "code": "3470",
       "name": "ＧＸ大中華",
       "currency": "HKD",
@@ -6987,7 +7113,7 @@
       "remarks": ""
     },
     {
-      "number": "777",
+      "number": "791",
       "code": "3471",
       "name": "Ａ華夏港元數",
       "currency": "HKD",
@@ -6996,7 +7122,7 @@
       "remarks": ""
     },
     {
-      "number": "778",
+      "number": "792",
       "code": "3472",
       "name": "Ａ華夏美元數",
       "currency": "HKD",
@@ -7005,7 +7131,7 @@
       "remarks": ""
     },
     {
-      "number": "779",
+      "number": "793",
       "code": "3476",
       "name": "Ａ恒生摩根美入息",
       "currency": "HKD",
@@ -7014,7 +7140,7 @@
       "remarks": ""
     },
     {
-      "number": "780",
+      "number": "794",
       "code": "3477",
       "name": "平安東西精選",
       "currency": "HKD",
@@ -7023,7 +7149,7 @@
       "remarks": ""
     },
     {
-      "number": "781",
+      "number": "795",
       "code": "3478",
       "name": "ＰＰ沙特國債",
       "currency": "HKD",
@@ -7032,7 +7158,7 @@
       "remarks": ""
     },
     {
-      "number": "782",
+      "number": "796",
       "code": "3480",
       "name": "Ａ惠理美元",
       "currency": "HKD",
@@ -7041,7 +7167,7 @@
       "remarks": ""
     },
     {
-      "number": "783",
+      "number": "797",
       "code": "3483",
       "name": "易方達高股息",
       "currency": "HKD",
@@ -7050,7 +7176,7 @@
       "remarks": ""
     },
     {
-      "number": "784",
+      "number": "798",
       "code": "3489",
       "name": "易方達ＡＩ",
       "currency": "HKD",
@@ -7059,7 +7185,7 @@
       "remarks": ""
     },
     {
-      "number": "785",
+      "number": "799",
       "code": "3600",
       "name": "現代牙科",
       "currency": "HKD",
@@ -7068,7 +7194,7 @@
       "remarks": ""
     },
     {
-      "number": "786",
+      "number": "800",
       "code": "3606",
       "name": "福耀玻璃",
       "currency": "HKD",
@@ -7077,7 +7203,7 @@
       "remarks": ""
     },
     {
-      "number": "787",
+      "number": "801",
       "code": "3613",
       "name": "同仁堂國藥",
       "currency": "HKD",
@@ -7086,7 +7212,7 @@
       "remarks": ""
     },
     {
-      "number": "788",
+      "number": "802",
       "code": "3618",
       "name": "重慶農村商業銀行",
       "currency": "HKD",
@@ -7095,7 +7221,7 @@
       "remarks": ""
     },
     {
-      "number": "789",
+      "number": "803",
       "code": "3633",
       "name": "中裕能源",
       "currency": "HKD",
@@ -7104,16 +7230,7 @@
       "remarks": ""
     },
     {
-      "number": "790",
-      "code": "3650",
-      "name": "KEEP",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "791",
+      "number": "804",
       "code": "3660",
       "name": "奇富科技－Ｓ",
       "currency": "HKD",
@@ -7122,7 +7239,7 @@
       "remarks": ""
     },
     {
-      "number": "792",
+      "number": "805",
       "code": "3668",
       "name": "兗煤澳大利亞",
       "currency": "HKD",
@@ -7131,7 +7248,7 @@
       "remarks": ""
     },
     {
-      "number": "793",
+      "number": "806",
       "code": "3669",
       "name": "永達汽車",
       "currency": "HKD",
@@ -7140,7 +7257,7 @@
       "remarks": ""
     },
     {
-      "number": "794",
+      "number": "807",
       "code": "3677",
       "name": "正力新能",
       "currency": "HKD",
@@ -7149,16 +7266,7 @@
       "remarks": ""
     },
     {
-      "number": "795",
-      "code": "3681",
-      "name": "中國抗體－Ｂ",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "796",
+      "number": "808",
       "code": "3690",
       "name": "美團－Ｗ",
       "currency": "HKD",
@@ -7167,7 +7275,7 @@
       "remarks": ""
     },
     {
-      "number": "797",
+      "number": "809",
       "code": "3692",
       "name": "翰森製藥",
       "currency": "HKD",
@@ -7176,7 +7284,7 @@
       "remarks": ""
     },
     {
-      "number": "798",
+      "number": "810",
       "code": "3698",
       "name": "徽商銀行",
       "currency": "HKD",
@@ -7185,7 +7293,7 @@
       "remarks": ""
     },
     {
-      "number": "799",
+      "number": "811",
       "code": "3709",
       "name": "贏家時尚",
       "currency": "HKD",
@@ -7194,7 +7302,7 @@
       "remarks": ""
     },
     {
-      "number": "800",
+      "number": "812",
       "code": "3738",
       "name": "阜博集團",
       "currency": "HKD",
@@ -7203,7 +7311,7 @@
       "remarks": ""
     },
     {
-      "number": "801",
+      "number": "813",
       "code": "3750",
       "name": "寧德時代",
       "currency": "HKD",
@@ -7212,7 +7320,7 @@
       "remarks": ""
     },
     {
-      "number": "802",
+      "number": "814",
       "code": "3759",
       "name": "康龍化成",
       "currency": "HKD",
@@ -7221,7 +7329,7 @@
       "remarks": ""
     },
     {
-      "number": "803",
+      "number": "815",
       "code": "3788",
       "name": "中國罕王",
       "currency": "HKD",
@@ -7230,7 +7338,7 @@
       "remarks": ""
     },
     {
-      "number": "804",
+      "number": "816",
       "code": "3800",
       "name": "協鑫科技",
       "currency": "HKD",
@@ -7239,7 +7347,7 @@
       "remarks": ""
     },
     {
-      "number": "805",
+      "number": "817",
       "code": "3808",
       "name": "中國重汽",
       "currency": "HKD",
@@ -7248,7 +7356,25 @@
       "remarks": ""
     },
     {
-      "number": "806",
+      "number": "818",
+      "code": "3833",
+      "name": "新疆新鑫礦業",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "819",
+      "code": "3858",
+      "name": "佳鑫國際資源",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "820",
       "code": "3866",
       "name": "青島銀行",
       "currency": "HKD",
@@ -7257,7 +7383,7 @@
       "remarks": ""
     },
     {
-      "number": "807",
+      "number": "821",
       "code": "3868",
       "name": "信義能源",
       "currency": "HKD",
@@ -7266,7 +7392,7 @@
       "remarks": ""
     },
     {
-      "number": "808",
+      "number": "822",
       "code": "3877",
       "name": "中國船舶租賃",
       "currency": "HKD",
@@ -7275,7 +7401,7 @@
       "remarks": ""
     },
     {
-      "number": "809",
+      "number": "823",
       "code": "3888",
       "name": "金山軟件",
       "currency": "HKD",
@@ -7284,7 +7410,7 @@
       "remarks": ""
     },
     {
-      "number": "810",
+      "number": "824",
       "code": "3896",
       "name": "金山雲",
       "currency": "HKD",
@@ -7293,7 +7419,7 @@
       "remarks": ""
     },
     {
-      "number": "811",
+      "number": "825",
       "code": "3898",
       "name": "時代電氣",
       "currency": "HKD",
@@ -7302,7 +7428,7 @@
       "remarks": ""
     },
     {
-      "number": "812",
+      "number": "826",
       "code": "3899",
       "name": "中集安瑞科",
       "currency": "HKD",
@@ -7311,7 +7437,7 @@
       "remarks": ""
     },
     {
-      "number": "813",
+      "number": "827",
       "code": "3900",
       "name": "綠城中國",
       "currency": "HKD",
@@ -7320,7 +7446,7 @@
       "remarks": ""
     },
     {
-      "number": "814",
+      "number": "828",
       "code": "3908",
       "name": "中金公司",
       "currency": "HKD",
@@ -7329,7 +7455,16 @@
       "remarks": ""
     },
     {
-      "number": "815",
+      "number": "829",
+      "code": "3918",
+      "name": "金界控股",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "830",
       "code": "3931",
       "name": "中創新航",
       "currency": "HKD",
@@ -7338,7 +7473,7 @@
       "remarks": ""
     },
     {
-      "number": "816",
+      "number": "831",
       "code": "3933",
       "name": "聯邦制藥",
       "currency": "HKD",
@@ -7347,7 +7482,7 @@
       "remarks": ""
     },
     {
-      "number": "817",
+      "number": "832",
       "code": "3939",
       "name": "萬國黃金集團",
       "currency": "HKD",
@@ -7356,7 +7491,7 @@
       "remarks": ""
     },
     {
-      "number": "818",
+      "number": "833",
       "code": "3958",
       "name": "東方證券",
       "currency": "HKD",
@@ -7365,7 +7500,7 @@
       "remarks": ""
     },
     {
-      "number": "819",
+      "number": "834",
       "code": "3968",
       "name": "招商銀行",
       "currency": "HKD",
@@ -7374,7 +7509,7 @@
       "remarks": ""
     },
     {
-      "number": "820",
+      "number": "835",
       "code": "3969",
       "name": "中國通號",
       "currency": "HKD",
@@ -7383,7 +7518,7 @@
       "remarks": ""
     },
     {
-      "number": "821",
+      "number": "836",
       "code": "3978",
       "name": "卓越教育集團",
       "currency": "HKD",
@@ -7392,7 +7527,7 @@
       "remarks": ""
     },
     {
-      "number": "822",
+      "number": "837",
       "code": "3983",
       "name": "中海石油化學",
       "currency": "HKD",
@@ -7401,7 +7536,7 @@
       "remarks": ""
     },
     {
-      "number": "823",
+      "number": "838",
       "code": "3988",
       "name": "中國銀行",
       "currency": "HKD",
@@ -7410,7 +7545,7 @@
       "remarks": ""
     },
     {
-      "number": "824",
+      "number": "839",
       "code": "3990",
       "name": "美的置業",
       "currency": "HKD",
@@ -7419,7 +7554,7 @@
       "remarks": ""
     },
     {
-      "number": "825",
+      "number": "840",
       "code": "3993",
       "name": "洛陽鉬業",
       "currency": "HKD",
@@ -7428,7 +7563,7 @@
       "remarks": ""
     },
     {
-      "number": "826",
+      "number": "841",
       "code": "3996",
       "name": "中國能源建設",
       "currency": "HKD",
@@ -7437,7 +7572,7 @@
       "remarks": ""
     },
     {
-      "number": "827",
+      "number": "842",
       "code": "3998",
       "name": "波司登",
       "currency": "HKD",
@@ -7446,7 +7581,7 @@
       "remarks": ""
     },
     {
-      "number": "828",
+      "number": "843",
       "code": "4332",
       "name": "AMGEN-T",
       "currency": "HKD",
@@ -7455,7 +7590,7 @@
       "remarks": ""
     },
     {
-      "number": "829",
+      "number": "844",
       "code": "4333",
       "name": "思科－Ｔ",
       "currency": "HKD",
@@ -7464,7 +7599,7 @@
       "remarks": ""
     },
     {
-      "number": "830",
+      "number": "845",
       "code": "4335",
       "name": "英特爾－Ｔ",
       "currency": "HKD",
@@ -7473,7 +7608,7 @@
       "remarks": ""
     },
     {
-      "number": "831",
+      "number": "846",
       "code": "4336",
       "name": "應用材料－Ｔ",
       "currency": "HKD",
@@ -7482,7 +7617,7 @@
       "remarks": ""
     },
     {
-      "number": "832",
+      "number": "847",
       "code": "4337",
       "name": "星巴克－Ｔ",
       "currency": "HKD",
@@ -7491,7 +7626,7 @@
       "remarks": ""
     },
     {
-      "number": "833",
+      "number": "848",
       "code": "4338",
       "name": "微軟－Ｔ",
       "currency": "HKD",
@@ -7500,7 +7635,7 @@
       "remarks": ""
     },
     {
-      "number": "834",
+      "number": "849",
       "code": "6030",
       "name": "中信証券",
       "currency": "HKD",
@@ -7509,7 +7644,16 @@
       "remarks": ""
     },
     {
-      "number": "835",
+      "number": "850",
+      "code": "6031",
+      "name": "三一重工",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "851",
       "code": "6049",
       "name": "保利物業",
       "currency": "HKD",
@@ -7518,7 +7662,7 @@
       "remarks": ""
     },
     {
-      "number": "836",
+      "number": "852",
       "code": "6055",
       "name": "中煙香港",
       "currency": "HKD",
@@ -7527,7 +7671,7 @@
       "remarks": ""
     },
     {
-      "number": "837",
+      "number": "853",
       "code": "6060",
       "name": "眾安在綫",
       "currency": "HKD",
@@ -7536,7 +7680,7 @@
       "remarks": ""
     },
     {
-      "number": "838",
+      "number": "854",
       "code": "6066",
       "name": "中信建投証券",
       "currency": "HKD",
@@ -7545,7 +7689,7 @@
       "remarks": ""
     },
     {
-      "number": "839",
+      "number": "855",
       "code": "6069",
       "name": "盛業",
       "currency": "HKD",
@@ -7554,7 +7698,7 @@
       "remarks": ""
     },
     {
-      "number": "840",
+      "number": "856",
       "code": "6078",
       "name": "海吉亞醫療",
       "currency": "HKD",
@@ -7563,7 +7707,7 @@
       "remarks": ""
     },
     {
-      "number": "841",
+      "number": "857",
       "code": "6086",
       "name": "方舟健客",
       "currency": "HKD",
@@ -7572,7 +7716,7 @@
       "remarks": ""
     },
     {
-      "number": "842",
+      "number": "858",
       "code": "6088",
       "name": "FIT HON TENG",
       "currency": "HKD",
@@ -7581,7 +7725,16 @@
       "remarks": ""
     },
     {
-      "number": "843",
+      "number": "859",
+      "code": "6090",
+      "name": "不同集團",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "860",
       "code": "6098",
       "name": "碧桂園服務",
       "currency": "HKD",
@@ -7590,7 +7743,7 @@
       "remarks": ""
     },
     {
-      "number": "844",
+      "number": "861",
       "code": "6099",
       "name": "招商證券",
       "currency": "HKD",
@@ -7599,7 +7752,7 @@
       "remarks": ""
     },
     {
-      "number": "845",
+      "number": "862",
       "code": "6100",
       "name": "同道獵聘",
       "currency": "HKD",
@@ -7608,7 +7761,7 @@
       "remarks": ""
     },
     {
-      "number": "846",
+      "number": "863",
       "code": "6110",
       "name": "滔搏",
       "currency": "HKD",
@@ -7617,7 +7770,7 @@
       "remarks": ""
     },
     {
-      "number": "847",
+      "number": "864",
       "code": "6127",
       "name": "昭衍新藥",
       "currency": "HKD",
@@ -7626,7 +7779,7 @@
       "remarks": ""
     },
     {
-      "number": "848",
+      "number": "865",
       "code": "6160",
       "name": "百濟神州",
       "currency": "HKD",
@@ -7635,7 +7788,7 @@
       "remarks": ""
     },
     {
-      "number": "849",
+      "number": "866",
       "code": "6168",
       "name": "周六福",
       "currency": "HKD",
@@ -7644,7 +7797,16 @@
       "remarks": ""
     },
     {
-      "number": "850",
+      "number": "867",
+      "code": "6169",
+      "name": "宇華教育",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "868",
       "code": "6178",
       "name": "光大證券",
       "currency": "HKD",
@@ -7653,7 +7815,7 @@
       "remarks": ""
     },
     {
-      "number": "851",
+      "number": "869",
       "code": "6181",
       "name": "老鋪黃金",
       "currency": "HKD",
@@ -7662,7 +7824,7 @@
       "remarks": ""
     },
     {
-      "number": "852",
+      "number": "870",
       "code": "6185",
       "name": "康希諾生物",
       "currency": "HKD",
@@ -7671,7 +7833,7 @@
       "remarks": ""
     },
     {
-      "number": "853",
+      "number": "871",
       "code": "6186",
       "name": "中國飛鶴",
       "currency": "HKD",
@@ -7680,7 +7842,7 @@
       "remarks": ""
     },
     {
-      "number": "854",
+      "number": "872",
       "code": "6196",
       "name": "鄭州銀行",
       "currency": "HKD",
@@ -7689,7 +7851,7 @@
       "remarks": ""
     },
     {
-      "number": "855",
+      "number": "873",
       "code": "6198",
       "name": "青島港",
       "currency": "HKD",
@@ -7698,7 +7860,7 @@
       "remarks": ""
     },
     {
-      "number": "856",
+      "number": "874",
       "code": "6199",
       "name": "貴州銀行",
       "currency": "HKD",
@@ -7707,7 +7869,7 @@
       "remarks": ""
     },
     {
-      "number": "857",
+      "number": "875",
       "code": "6603",
       "name": "IFBH",
       "currency": "HKD",
@@ -7716,7 +7878,7 @@
       "remarks": ""
     },
     {
-      "number": "858",
+      "number": "876",
       "code": "6608",
       "name": "百融雲－Ｗ",
       "currency": "HKD",
@@ -7725,7 +7887,7 @@
       "remarks": ""
     },
     {
-      "number": "859",
+      "number": "877",
       "code": "6613",
       "name": "藍思科技",
       "currency": "HKD",
@@ -7734,7 +7896,7 @@
       "remarks": ""
     },
     {
-      "number": "860",
+      "number": "878",
       "code": "6616",
       "name": "環球新材國際",
       "currency": "HKD",
@@ -7743,7 +7905,7 @@
       "remarks": ""
     },
     {
-      "number": "861",
+      "number": "879",
       "code": "6618",
       "name": "京東健康",
       "currency": "HKD",
@@ -7752,7 +7914,7 @@
       "remarks": ""
     },
     {
-      "number": "862",
+      "number": "880",
       "code": "6655",
       "name": "華新建材",
       "currency": "HKD",
@@ -7761,7 +7923,16 @@
       "remarks": ""
     },
     {
-      "number": "863",
+      "number": "881",
+      "code": "6657",
+      "name": "百望股份",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "882",
       "code": "6660",
       "name": "艾美疫苗",
       "currency": "HKD",
@@ -7770,7 +7941,7 @@
       "remarks": ""
     },
     {
-      "number": "864",
+      "number": "883",
       "code": "6669",
       "name": "先瑞達醫療－Ｂ",
       "currency": "HKD",
@@ -7779,7 +7950,7 @@
       "remarks": ""
     },
     {
-      "number": "865",
+      "number": "884",
       "code": "6676",
       "name": "找鋼集團－Ｗ",
       "currency": "HKD",
@@ -7788,7 +7959,7 @@
       "remarks": ""
     },
     {
-      "number": "866",
+      "number": "885",
       "code": "6680",
       "name": "金力永磁",
       "currency": "HKD",
@@ -7797,7 +7968,7 @@
       "remarks": ""
     },
     {
-      "number": "867",
+      "number": "886",
       "code": "6681",
       "name": "腦動極光－Ｂ",
       "currency": "HKD",
@@ -7806,7 +7977,7 @@
       "remarks": ""
     },
     {
-      "number": "868",
+      "number": "887",
       "code": "6682",
       "name": "範式智能",
       "currency": "HKD",
@@ -7815,7 +7986,7 @@
       "remarks": ""
     },
     {
-      "number": "869",
+      "number": "888",
       "code": "6683",
       "name": "巨星傳奇",
       "currency": "HKD",
@@ -7824,7 +7995,7 @@
       "remarks": ""
     },
     {
-      "number": "870",
+      "number": "889",
       "code": "6686",
       "name": "諾亞控股",
       "currency": "HKD",
@@ -7833,7 +8004,7 @@
       "remarks": ""
     },
     {
-      "number": "871",
+      "number": "890",
       "code": "6690",
       "name": "海爾智家",
       "currency": "HKD",
@@ -7842,7 +8013,7 @@
       "remarks": ""
     },
     {
-      "number": "872",
+      "number": "891",
       "code": "6693",
       "name": "赤峰黃金",
       "currency": "HKD",
@@ -7851,7 +8022,7 @@
       "remarks": ""
     },
     {
-      "number": "873",
+      "number": "892",
       "code": "6699",
       "name": "時代天使",
       "currency": "HKD",
@@ -7860,7 +8031,7 @@
       "remarks": ""
     },
     {
-      "number": "874",
+      "number": "893",
       "code": "6806",
       "name": "申萬宏源",
       "currency": "HKD",
@@ -7869,7 +8040,7 @@
       "remarks": ""
     },
     {
-      "number": "875",
+      "number": "894",
       "code": "6808",
       "name": "高鑫零售",
       "currency": "HKD",
@@ -7878,7 +8049,7 @@
       "remarks": ""
     },
     {
-      "number": "876",
+      "number": "895",
       "code": "6818",
       "name": "中國光大銀行",
       "currency": "HKD",
@@ -7887,7 +8058,7 @@
       "remarks": ""
     },
     {
-      "number": "877",
+      "number": "896",
       "code": "6821",
       "name": "凱萊英",
       "currency": "HKD",
@@ -7896,7 +8067,7 @@
       "remarks": ""
     },
     {
-      "number": "878",
+      "number": "897",
       "code": "6823",
       "name": "香港電訊－ＳＳ",
       "currency": "HKD",
@@ -7905,16 +8076,7 @@
       "remarks": ""
     },
     {
-      "number": "879",
-      "code": "6826",
-      "name": "昊海生物科技",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "880",
+      "number": "898",
       "code": "6831",
       "name": "綠茶集團",
       "currency": "HKD",
@@ -7923,7 +8085,7 @@
       "remarks": ""
     },
     {
-      "number": "881",
+      "number": "899",
       "code": "6855",
       "name": "亞盛醫藥－Ｂ",
       "currency": "HKD",
@@ -7932,7 +8094,7 @@
       "remarks": ""
     },
     {
-      "number": "882",
+      "number": "900",
       "code": "6862",
       "name": "海底撈",
       "currency": "HKD",
@@ -7941,7 +8103,7 @@
       "remarks": ""
     },
     {
-      "number": "883",
+      "number": "901",
       "code": "6865",
       "name": "福萊特玻璃",
       "currency": "HKD",
@@ -7950,7 +8112,7 @@
       "remarks": ""
     },
     {
-      "number": "884",
+      "number": "902",
       "code": "6869",
       "name": "長飛光纖光纜",
       "currency": "HKD",
@@ -7959,7 +8121,7 @@
       "remarks": ""
     },
     {
-      "number": "885",
+      "number": "903",
       "code": "6881",
       "name": "中國銀河",
       "currency": "HKD",
@@ -7968,7 +8130,7 @@
       "remarks": ""
     },
     {
-      "number": "886",
+      "number": "904",
       "code": "6886",
       "name": "HTSC",
       "currency": "HKD",
@@ -7977,7 +8139,7 @@
       "remarks": ""
     },
     {
-      "number": "887",
+      "number": "905",
       "code": "6887",
       "name": "東陽光藥",
       "currency": "HKD",
@@ -7986,7 +8148,7 @@
       "remarks": ""
     },
     {
-      "number": "888",
+      "number": "906",
       "code": "6936",
       "name": "順豐控股",
       "currency": "HKD",
@@ -7995,7 +8157,7 @@
       "remarks": ""
     },
     {
-      "number": "889",
+      "number": "907",
       "code": "6955",
       "name": "博安生物",
       "currency": "HKD",
@@ -8004,7 +8166,16 @@
       "remarks": ""
     },
     {
-      "number": "890",
+      "number": "908",
+      "code": "6960",
+      "name": "雙登股份",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "909",
       "code": "6963",
       "name": "陽光保險",
       "currency": "HKD",
@@ -8013,7 +8184,7 @@
       "remarks": ""
     },
     {
-      "number": "891",
+      "number": "910",
       "code": "6969",
       "name": "思摩爾國際",
       "currency": "HKD",
@@ -8022,7 +8193,7 @@
       "remarks": ""
     },
     {
-      "number": "892",
+      "number": "911",
       "code": "6979",
       "name": "珍酒李渡",
       "currency": "HKD",
@@ -8031,7 +8202,7 @@
       "remarks": ""
     },
     {
-      "number": "893",
+      "number": "912",
       "code": "6990",
       "name": "科倫博泰生物－Ｂ",
       "currency": "HKD",
@@ -8040,7 +8211,7 @@
       "remarks": ""
     },
     {
-      "number": "894",
+      "number": "913",
       "code": "6993",
       "name": "藍月亮集團",
       "currency": "HKD",
@@ -8049,7 +8220,7 @@
       "remarks": ""
     },
     {
-      "number": "895",
+      "number": "914",
       "code": "6996",
       "name": "德琪醫藥－Ｂ",
       "currency": "HKD",
@@ -8058,7 +8229,16 @@
       "remarks": ""
     },
     {
-      "number": "896",
+      "number": "915",
+      "code": "6998",
+      "name": "億騰嘉和",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "916",
       "code": "7200",
       "name": "ＦＬ二南方恒指",
       "currency": "HKD",
@@ -8067,7 +8247,7 @@
       "remarks": ""
     },
     {
-      "number": "897",
+      "number": "917",
       "code": "7226",
       "name": "ＸＬ二南方恒科",
       "currency": "HKD",
@@ -8076,7 +8256,7 @@
       "remarks": ""
     },
     {
-      "number": "898",
+      "number": "918",
       "code": "7233",
       "name": "ＸＬ二南方滬深三",
       "currency": "HKD",
@@ -8085,7 +8265,7 @@
       "remarks": ""
     },
     {
-      "number": "899",
+      "number": "919",
       "code": "7234",
       "name": "ＸＬ二博時中創業",
       "currency": "HKD",
@@ -8094,7 +8274,7 @@
       "remarks": ""
     },
     {
-      "number": "900",
+      "number": "920",
       "code": "7261",
       "name": "ＦＬ二華夏納一百",
       "currency": "HKD",
@@ -8103,7 +8283,7 @@
       "remarks": ""
     },
     {
-      "number": "901",
+      "number": "921",
       "code": "7262",
       "name": "ＦＬ二南方日經",
       "currency": "HKD",
@@ -8112,7 +8292,7 @@
       "remarks": ""
     },
     {
-      "number": "902",
+      "number": "922",
       "code": "7266",
       "name": "ＦＬ二南方納指",
       "currency": "HKD",
@@ -8121,7 +8301,7 @@
       "remarks": ""
     },
     {
-      "number": "903",
+      "number": "923",
       "code": "7288",
       "name": "ＦＬ二南方國指",
       "currency": "HKD",
@@ -8130,7 +8310,7 @@
       "remarks": ""
     },
     {
-      "number": "904",
+      "number": "924",
       "code": "7299",
       "name": "ＦＬ二南方黃金",
       "currency": "HKD",
@@ -8139,7 +8319,7 @@
       "remarks": ""
     },
     {
-      "number": "905",
+      "number": "925",
       "code": "7300",
       "name": "ＦＩ南方恒指",
       "currency": "HKD",
@@ -8148,7 +8328,7 @@
       "remarks": ""
     },
     {
-      "number": "906",
+      "number": "926",
       "code": "7311",
       "name": "ＸＩ二南ＣＯ",
       "currency": "HKD",
@@ -8157,7 +8337,7 @@
       "remarks": ""
     },
     {
-      "number": "907",
+      "number": "927",
       "code": "7347",
       "name": "ＸＩ二南三星",
       "currency": "HKD",
@@ -8166,7 +8346,7 @@
       "remarks": ""
     },
     {
-      "number": "908",
+      "number": "928",
       "code": "7366",
       "name": "ＸＩ二南特斯",
       "currency": "HKD",
@@ -8175,7 +8355,7 @@
       "remarks": ""
     },
     {
-      "number": "909",
+      "number": "929",
       "code": "7376",
       "name": "ＦＩ南方比特幣",
       "currency": "HKD",
@@ -8184,7 +8364,7 @@
       "remarks": ""
     },
     {
-      "number": "910",
+      "number": "930",
       "code": "7388",
       "name": "ＸＩ二南英偉",
       "currency": "HKD",
@@ -8193,7 +8373,7 @@
       "remarks": ""
     },
     {
-      "number": "911",
+      "number": "931",
       "code": "7399",
       "name": "ＸＩ二南策略",
       "currency": "HKD",
@@ -8202,7 +8382,7 @@
       "remarks": ""
     },
     {
-      "number": "912",
+      "number": "932",
       "code": "7500",
       "name": "ＦＩ二南方恒指",
       "currency": "HKD",
@@ -8211,7 +8391,7 @@
       "remarks": ""
     },
     {
-      "number": "913",
+      "number": "933",
       "code": "7515",
       "name": "ＦＩ二南方日經",
       "currency": "HKD",
@@ -8220,7 +8400,7 @@
       "remarks": ""
     },
     {
-      "number": "914",
+      "number": "934",
       "code": "7522",
       "name": "ＦＩ二華夏納一百",
       "currency": "HKD",
@@ -8229,7 +8409,7 @@
       "remarks": ""
     },
     {
-      "number": "915",
+      "number": "935",
       "code": "7552",
       "name": "ＸＩ二南方恒科",
       "currency": "HKD",
@@ -8238,7 +8418,7 @@
       "remarks": ""
     },
     {
-      "number": "916",
+      "number": "936",
       "code": "7568",
       "name": "ＦＩ二南方納指",
       "currency": "HKD",
@@ -8247,7 +8427,7 @@
       "remarks": ""
     },
     {
-      "number": "917",
+      "number": "937",
       "code": "7588",
       "name": "ＦＩ二南方國指",
       "currency": "HKD",
@@ -8256,7 +8436,16 @@
       "remarks": ""
     },
     {
-      "number": "918",
+      "number": "938",
+      "code": "7618",
+      "name": "京東工業",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "939",
       "code": "7709",
       "name": "ＸＬ二南方海力士",
       "currency": "HKD",
@@ -8265,7 +8454,7 @@
       "remarks": ""
     },
     {
-      "number": "919",
+      "number": "940",
       "code": "7711",
       "name": "ＸＬ二南ＣＯ",
       "currency": "HKD",
@@ -8274,7 +8463,7 @@
       "remarks": ""
     },
     {
-      "number": "920",
+      "number": "941",
       "code": "7747",
       "name": "ＸＬ二南三星",
       "currency": "HKD",
@@ -8283,7 +8472,7 @@
       "remarks": ""
     },
     {
-      "number": "921",
+      "number": "942",
       "code": "7766",
       "name": "ＸＬ二南特斯",
       "currency": "HKD",
@@ -8292,7 +8481,7 @@
       "remarks": ""
     },
     {
-      "number": "922",
+      "number": "943",
       "code": "7777",
       "name": "ＸＬ二南巴郡",
       "currency": "HKD",
@@ -8301,7 +8490,7 @@
       "remarks": ""
     },
     {
-      "number": "923",
+      "number": "944",
       "code": "7788",
       "name": "ＸＬ二南英偉",
       "currency": "HKD",
@@ -8310,7 +8499,7 @@
       "remarks": ""
     },
     {
-      "number": "924",
+      "number": "945",
       "code": "7799",
       "name": "ＸＬ二南策略",
       "currency": "HKD",
@@ -8319,7 +8508,16 @@
       "remarks": ""
     },
     {
-      "number": "925",
+      "number": "946",
+      "code": "8030",
+      "name": "豐銀禾控股",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "947",
       "code": "8083",
       "name": "有贊",
       "currency": "HKD",
@@ -8328,7 +8526,7 @@
       "remarks": ""
     },
     {
-      "number": "926",
+      "number": "948",
       "code": "8137",
       "name": "洪橋集團",
       "currency": "HKD",
@@ -8337,7 +8535,7 @@
       "remarks": ""
     },
     {
-      "number": "927",
+      "number": "949",
       "code": "8279",
       "name": "亞博科技控股",
       "currency": "HKD",
@@ -8346,7 +8544,7 @@
       "remarks": ""
     },
     {
-      "number": "928",
+      "number": "950",
       "code": "8299",
       "name": "大唐黃金",
       "currency": "HKD",
@@ -8355,7 +8553,7 @@
       "remarks": ""
     },
     {
-      "number": "929",
+      "number": "951",
       "code": "9001",
       "name": "ＰＰ中地美債－Ｕ",
       "currency": "USD",
@@ -8364,7 +8562,7 @@
       "remarks": ""
     },
     {
-      "number": "930",
+      "number": "952",
       "code": "9008",
       "name": "博時比特幣－Ｕ",
       "currency": "USD",
@@ -8373,7 +8571,7 @@
       "remarks": ""
     },
     {
-      "number": "931",
+      "number": "953",
       "code": "9009",
       "name": "博時以太幣－Ｕ",
       "currency": "USD",
@@ -8382,7 +8580,7 @@
       "remarks": ""
     },
     {
-      "number": "932",
+      "number": "954",
       "code": "9010",
       "name": "安碩亞洲除日－Ｕ",
       "currency": "USD",
@@ -8391,7 +8589,7 @@
       "remarks": ""
     },
     {
-      "number": "933",
+      "number": "955",
       "code": "9011",
       "name": "Ａ工銀中金美－Ｕ",
       "currency": "USD",
@@ -8400,7 +8598,7 @@
       "remarks": ""
     },
     {
-      "number": "934",
+      "number": "956",
       "code": "9040",
       "name": "ＧＸ中國－Ｕ",
       "currency": "USD",
@@ -8409,7 +8607,7 @@
       "remarks": ""
     },
     {
-      "number": "935",
+      "number": "957",
       "code": "9042",
       "name": "華夏比特幣－Ｕ",
       "currency": "USD",
@@ -8418,7 +8616,7 @@
       "remarks": ""
     },
     {
-      "number": "936",
+      "number": "958",
       "code": "9046",
       "name": "華夏以太幣－Ｕ",
       "currency": "USD",
@@ -8427,7 +8625,7 @@
       "remarks": ""
     },
     {
-      "number": "937",
+      "number": "959",
       "code": "9047",
       "name": "Ｆ山證鐵礦石－Ｕ",
       "currency": "USD",
@@ -8436,7 +8634,7 @@
       "remarks": ""
     },
     {
-      "number": "938",
+      "number": "960",
       "code": "9064",
       "name": "ＧＸ亞太－Ｕ",
       "currency": "USD",
@@ -8445,7 +8643,7 @@
       "remarks": ""
     },
     {
-      "number": "939",
+      "number": "961",
       "code": "9067",
       "name": "安碩恒生科技－Ｕ",
       "currency": "USD",
@@ -8454,7 +8652,7 @@
       "remarks": ""
     },
     {
-      "number": "940",
+      "number": "962",
       "code": "9069",
       "name": "華夏恒生生科－Ｕ",
       "currency": "USD",
@@ -8463,7 +8661,7 @@
       "remarks": ""
     },
     {
-      "number": "941",
+      "number": "963",
       "code": "9070",
       "name": "平安香港高息－Ｕ",
       "currency": "USD",
@@ -8472,7 +8670,7 @@
       "remarks": ""
     },
     {
-      "number": "942",
+      "number": "964",
       "code": "9072",
       "name": "奧明環球聯網－Ｕ",
       "currency": "USD",
@@ -8481,7 +8679,7 @@
       "remarks": ""
     },
     {
-      "number": "943",
+      "number": "965",
       "code": "9074",
       "name": "安碩ＭＳ台灣－Ｕ",
       "currency": "USD",
@@ -8490,7 +8688,7 @@
       "remarks": ""
     },
     {
-      "number": "944",
+      "number": "966",
       "code": "9075",
       "name": "ＧＸ亞洲美債－Ｕ",
       "currency": "USD",
@@ -8499,7 +8697,7 @@
       "remarks": ""
     },
     {
-      "number": "945",
+      "number": "967",
       "code": "9077",
       "name": "ＰＰ美國庫－Ｕ",
       "currency": "USD",
@@ -8508,7 +8706,7 @@
       "remarks": ""
     },
     {
-      "number": "946",
+      "number": "968",
       "code": "9078",
       "name": "ＰＰ美國庫Ａ－Ｕ",
       "currency": "USD",
@@ -8517,7 +8715,7 @@
       "remarks": ""
     },
     {
-      "number": "947",
+      "number": "969",
       "code": "9081",
       "name": "價值黃金－Ｕ",
       "currency": "USD",
@@ -8526,7 +8724,7 @@
       "remarks": ""
     },
     {
-      "number": "948",
+      "number": "970",
       "code": "9084",
       "name": "ＡＧＸ印度－Ｕ",
       "currency": "USD",
@@ -8535,7 +8733,7 @@
       "remarks": ""
     },
     {
-      "number": "949",
+      "number": "971",
       "code": "9086",
       "name": "華夏納指－Ｕ",
       "currency": "USD",
@@ -8544,7 +8742,7 @@
       "remarks": ""
     },
     {
-      "number": "950",
+      "number": "972",
       "code": "9088",
       "name": "華夏恒生科技－Ｕ",
       "currency": "USD",
@@ -8553,7 +8751,7 @@
       "remarks": ""
     },
     {
-      "number": "951",
+      "number": "973",
       "code": "9096",
       "name": "Ａ南方美元－Ｕ",
       "currency": "USD",
@@ -8562,7 +8760,7 @@
       "remarks": ""
     },
     {
-      "number": "952",
+      "number": "974",
       "code": "9102",
       "name": "工銀ＫＷＥＢ－Ｕ",
       "currency": "USD",
@@ -8571,7 +8769,7 @@
       "remarks": ""
     },
     {
-      "number": "953",
+      "number": "975",
       "code": "9104",
       "name": "ＡＧＸ亞洲－Ｕ",
       "currency": "USD",
@@ -8580,7 +8778,7 @@
       "remarks": ""
     },
     {
-      "number": "954",
+      "number": "976",
       "code": "9107",
       "name": "博時廿美債Ａ－Ｕ",
       "currency": "USD",
@@ -8589,7 +8787,7 @@
       "remarks": ""
     },
     {
-      "number": "955",
+      "number": "977",
       "code": "9115",
       "name": "安碩恒生指數－Ｕ",
       "currency": "USD",
@@ -8598,7 +8796,7 @@
       "remarks": ""
     },
     {
-      "number": "956",
+      "number": "978",
       "code": "9141",
       "name": "華夏亞投債－Ｕ",
       "currency": "USD",
@@ -8607,7 +8805,7 @@
       "remarks": ""
     },
     {
-      "number": "957",
+      "number": "979",
       "code": "9146",
       "name": "華夏２０美債－Ｕ",
       "currency": "USD",
@@ -8616,7 +8814,7 @@
       "remarks": ""
     },
     {
-      "number": "958",
+      "number": "980",
       "code": "9151",
       "name": "ＰＰ科創５０－Ｕ",
       "currency": "USD",
@@ -8625,7 +8823,7 @@
       "remarks": ""
     },
     {
-      "number": "959",
+      "number": "981",
       "code": "9156",
       "name": "博時２０美債－Ｕ",
       "currency": "USD",
@@ -8634,7 +8832,7 @@
       "remarks": ""
     },
     {
-      "number": "960",
+      "number": "982",
       "code": "9159",
       "name": "ＰＰ台５０Ａ－Ｕ",
       "currency": "USD",
@@ -8643,7 +8841,7 @@
       "remarks": ""
     },
     {
-      "number": "961",
+      "number": "983",
       "code": "9167",
       "name": "工銀南方中國－Ｕ",
       "currency": "USD",
@@ -8652,7 +8850,7 @@
       "remarks": ""
     },
     {
-      "number": "962",
+      "number": "984",
       "code": "9173",
       "name": "ＰＰ中新經濟－Ｕ",
       "currency": "USD",
@@ -8661,7 +8859,7 @@
       "remarks": ""
     },
     {
-      "number": "963",
+      "number": "985",
       "code": "9176",
       "name": "Ａ泰康美元－Ｕ",
       "currency": "USD",
@@ -8670,7 +8868,7 @@
       "remarks": ""
     },
     {
-      "number": "964",
+      "number": "986",
       "code": "9177",
       "name": "ＰＰ國債對沖－Ｕ",
       "currency": "USD",
@@ -8679,7 +8877,7 @@
       "remarks": ""
     },
     {
-      "number": "965",
+      "number": "987",
       "code": "9179",
       "name": "嘉實以太幣－Ｕ",
       "currency": "USD",
@@ -8688,7 +8886,7 @@
       "remarks": ""
     },
     {
-      "number": "966",
+      "number": "988",
       "code": "9181",
       "name": "ＰＰ亞洲創科－Ｕ",
       "currency": "USD",
@@ -8697,7 +8895,7 @@
       "remarks": ""
     },
     {
-      "number": "967",
+      "number": "989",
       "code": "9187",
       "name": "三星高息房託－Ｕ",
       "currency": "USD",
@@ -8706,7 +8904,7 @@
       "remarks": ""
     },
     {
-      "number": "968",
+      "number": "990",
       "code": "9188",
       "name": "華夏滬深三百－Ｕ",
       "currency": "USD",
@@ -8715,7 +8913,7 @@
       "remarks": ""
     },
     {
-      "number": "969",
+      "number": "991",
       "code": "9191",
       "name": "ＧＸ中國半導－Ｕ",
       "currency": "USD",
@@ -8724,7 +8922,7 @@
       "remarks": ""
     },
     {
-      "number": "970",
+      "number": "992",
       "code": "9195",
       "name": "恒生標普五百－Ｕ",
       "currency": "USD",
@@ -8733,7 +8931,7 @@
       "remarks": ""
     },
     {
-      "number": "971",
+      "number": "993",
       "code": "9196",
       "name": "Ａ博時美元－Ｕ",
       "currency": "USD",
@@ -8742,7 +8940,7 @@
       "remarks": ""
     },
     {
-      "number": "972",
+      "number": "994",
       "code": "9311",
       "name": "ＸＩ二南ＣＯ－Ｕ",
       "currency": "USD",
@@ -8751,7 +8949,7 @@
       "remarks": ""
     },
     {
-      "number": "973",
+      "number": "995",
       "code": "9347",
       "name": "ＸＩ二南三星－Ｕ",
       "currency": "USD",
@@ -8760,7 +8958,7 @@
       "remarks": ""
     },
     {
-      "number": "974",
+      "number": "996",
       "code": "9366",
       "name": "ＸＩ二南特斯－Ｕ",
       "currency": "USD",
@@ -8769,7 +8967,7 @@
       "remarks": ""
     },
     {
-      "number": "975",
+      "number": "997",
       "code": "9388",
       "name": "ＸＩ二南英偉－Ｕ",
       "currency": "USD",
@@ -8778,7 +8976,7 @@
       "remarks": ""
     },
     {
-      "number": "976",
+      "number": "998",
       "code": "9399",
       "name": "ＸＩ二南策略－Ｕ",
       "currency": "USD",
@@ -8787,7 +8985,7 @@
       "remarks": ""
     },
     {
-      "number": "977",
+      "number": "999",
       "code": "9403",
       "name": "華夏恒ＥＳＧ－Ｕ",
       "currency": "USD",
@@ -8796,7 +8994,7 @@
       "remarks": ""
     },
     {
-      "number": "978",
+      "number": "1000",
       "code": "9404",
       "name": "華夏印度－Ｕ",
       "currency": "USD",
@@ -8805,7 +9003,7 @@
       "remarks": ""
     },
     {
-      "number": "979",
+      "number": "1001",
       "code": "9406",
       "name": "平安科技精選－Ｕ",
       "currency": "USD",
@@ -8814,7 +9012,7 @@
       "remarks": ""
     },
     {
-      "number": "980",
+      "number": "1002",
       "code": "9411",
       "name": "ＰＰ亞洲美債－Ｕ",
       "currency": "USD",
@@ -8823,7 +9021,7 @@
       "remarks": ""
     },
     {
-      "number": "981",
+      "number": "1003",
       "code": "9415",
       "name": "ＡＧＸ標普兌－Ｕ",
       "currency": "USD",
@@ -8832,7 +9030,7 @@
       "remarks": ""
     },
     {
-      "number": "982",
+      "number": "1004",
       "code": "9416",
       "name": "ＡＧＸ國指兌－Ｕ",
       "currency": "USD",
@@ -8841,7 +9039,7 @@
       "remarks": ""
     },
     {
-      "number": "983",
+      "number": "1005",
       "code": "9425",
       "name": "ＭＢＣ以太幣－Ｕ",
       "currency": "USD",
@@ -8850,7 +9048,7 @@
       "remarks": ""
     },
     {
-      "number": "984",
+      "number": "1006",
       "code": "9430",
       "name": "ＭＢＣ比特幣－Ｕ",
       "currency": "USD",
@@ -8859,7 +9057,7 @@
       "remarks": ""
     },
     {
-      "number": "985",
+      "number": "1007",
       "code": "9434",
       "name": "易方達數科－Ｕ",
       "currency": "USD",
@@ -8868,7 +9066,7 @@
       "remarks": ""
     },
     {
-      "number": "986",
+      "number": "1008",
       "code": "9437",
       "name": "博時央企紅利－Ｕ",
       "currency": "USD",
@@ -8877,7 +9075,7 @@
       "remarks": ""
     },
     {
-      "number": "987",
+      "number": "1009",
       "code": "9439",
       "name": "嘉實比特幣－Ｕ",
       "currency": "USD",
@@ -8886,7 +9084,7 @@
       "remarks": ""
     },
     {
-      "number": "988",
+      "number": "1010",
       "code": "9440",
       "name": "ＧＸ０３月債－Ｕ",
       "currency": "USD",
@@ -8895,7 +9093,7 @@
       "remarks": ""
     },
     {
-      "number": "989",
+      "number": "1011",
       "code": "9446",
       "name": "華夏廿美債Ａ－Ｕ",
       "currency": "USD",
@@ -8904,7 +9102,7 @@
       "remarks": ""
     },
     {
-      "number": "990",
+      "number": "1012",
       "code": "9450",
       "name": "ＧＸ３５美債－Ｕ",
       "currency": "USD",
@@ -8913,7 +9111,7 @@
       "remarks": ""
     },
     {
-      "number": "991",
+      "number": "1013",
       "code": "9451",
       "name": "ＡＧＸ納指兌－Ｕ",
       "currency": "USD",
@@ -8922,7 +9120,7 @@
       "remarks": ""
     },
     {
-      "number": "992",
+      "number": "1014",
       "code": "9455",
       "name": "景順ＱＱＱ－Ｕ",
       "currency": "USD",
@@ -8931,7 +9129,7 @@
       "remarks": ""
     },
     {
-      "number": "993",
+      "number": "1015",
       "code": "9460",
       "name": "華夏ＳＯＬ－Ｕ",
       "currency": "USD",
@@ -8940,7 +9138,7 @@
       "remarks": ""
     },
     {
-      "number": "994",
+      "number": "1016",
       "code": "9472",
       "name": "Ａ華夏美元數－Ｕ",
       "currency": "USD",
@@ -8949,7 +9147,7 @@
       "remarks": ""
     },
     {
-      "number": "995",
+      "number": "1017",
       "code": "9477",
       "name": "平安東西精選－Ｕ",
       "currency": "USD",
@@ -8958,7 +9156,7 @@
       "remarks": ""
     },
     {
-      "number": "996",
+      "number": "1018",
       "code": "9478",
       "name": "ＰＰ沙特國債－Ｕ",
       "currency": "USD",
@@ -8967,7 +9165,7 @@
       "remarks": ""
     },
     {
-      "number": "997",
+      "number": "1019",
       "code": "9480",
       "name": "Ａ惠理美元－Ｕ",
       "currency": "USD",
@@ -8976,7 +9174,7 @@
       "remarks": ""
     },
     {
-      "number": "998",
+      "number": "1020",
       "code": "9483",
       "name": "易方達高股息－Ｕ",
       "currency": "USD",
@@ -8985,7 +9183,7 @@
       "remarks": ""
     },
     {
-      "number": "999",
+      "number": "1021",
       "code": "9489",
       "name": "易方達ＡＩ－Ｕ",
       "currency": "USD",
@@ -8994,7 +9192,7 @@
       "remarks": ""
     },
     {
-      "number": "1000",
+      "number": "1022",
       "code": "9606",
       "name": "映恩生物－Ｂ",
       "currency": "HKD",
@@ -9003,16 +9201,7 @@
       "remarks": ""
     },
     {
-      "number": "1001",
-      "code": "9616",
-      "name": "東軟睿新集團",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "1002",
+      "number": "1023",
       "code": "9618",
       "name": "京東集團－ＳＷ",
       "currency": "HKD",
@@ -9021,7 +9210,7 @@
       "remarks": ""
     },
     {
-      "number": "1003",
+      "number": "1024",
       "code": "9626",
       "name": "嗶哩嗶哩－Ｗ",
       "currency": "HKD",
@@ -9030,7 +9219,7 @@
       "remarks": ""
     },
     {
-      "number": "1004",
+      "number": "1025",
       "code": "9633",
       "name": "農夫山泉",
       "currency": "HKD",
@@ -9039,7 +9228,7 @@
       "remarks": ""
     },
     {
-      "number": "1005",
+      "number": "1026",
       "code": "9636",
       "name": "九方智投控股",
       "currency": "HKD",
@@ -9048,7 +9237,7 @@
       "remarks": ""
     },
     {
-      "number": "1006",
+      "number": "1027",
       "code": "9638",
       "name": "法拉帝",
       "currency": "HKD",
@@ -9057,7 +9246,7 @@
       "remarks": ""
     },
     {
-      "number": "1007",
+      "number": "1028",
       "code": "9658",
       "name": "特海國際",
       "currency": "HKD",
@@ -9066,7 +9255,7 @@
       "remarks": ""
     },
     {
-      "number": "1008",
+      "number": "1029",
       "code": "9660",
       "name": "地平線機器人－Ｗ",
       "currency": "HKD",
@@ -9075,16 +9264,16 @@
       "remarks": ""
     },
     {
-      "number": "1009",
-      "code": "9666",
-      "name": "金科服務",
+      "number": "1030",
+      "code": "9663",
+      "name": "國鴻氫能",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "加入"
     },
     {
-      "number": "1010",
+      "number": "1031",
       "code": "9668",
       "name": "渤海銀行",
       "currency": "HKD",
@@ -9093,7 +9282,7 @@
       "remarks": ""
     },
     {
-      "number": "1011",
+      "number": "1032",
       "code": "9669",
       "name": "北森控股",
       "currency": "HKD",
@@ -9102,7 +9291,7 @@
       "remarks": ""
     },
     {
-      "number": "1012",
+      "number": "1033",
       "code": "9676",
       "name": "十月稻田",
       "currency": "HKD",
@@ -9111,16 +9300,16 @@
       "remarks": ""
     },
     {
-      "number": "1013",
-      "code": "9677",
-      "name": "威海銀行",
+      "number": "1034",
+      "code": "9678",
+      "name": "雲知聲",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "加入"
     },
     {
-      "number": "1014",
+      "number": "1035",
       "code": "9688",
       "name": "再鼎醫藥",
       "currency": "HKD",
@@ -9129,7 +9318,7 @@
       "remarks": ""
     },
     {
-      "number": "1015",
+      "number": "1036",
       "code": "9690",
       "name": "途虎－Ｗ",
       "currency": "HKD",
@@ -9138,7 +9327,7 @@
       "remarks": ""
     },
     {
-      "number": "1016",
+      "number": "1037",
       "code": "9696",
       "name": "天齊鋰業",
       "currency": "HKD",
@@ -9147,7 +9336,7 @@
       "remarks": ""
     },
     {
-      "number": "1017",
+      "number": "1038",
       "code": "9698",
       "name": "萬國數據－ＳＷ",
       "currency": "HKD",
@@ -9156,7 +9345,7 @@
       "remarks": ""
     },
     {
-      "number": "1018",
+      "number": "1039",
       "code": "9699",
       "name": "順豐同城",
       "currency": "HKD",
@@ -9165,7 +9354,7 @@
       "remarks": ""
     },
     {
-      "number": "1019",
+      "number": "1040",
       "code": "9711",
       "name": "ＸＬ二南ＣＯ－Ｕ",
       "currency": "USD",
@@ -9174,7 +9363,7 @@
       "remarks": ""
     },
     {
-      "number": "1020",
+      "number": "1041",
       "code": "9747",
       "name": "ＸＬ二南三星－Ｕ",
       "currency": "USD",
@@ -9183,7 +9372,7 @@
       "remarks": ""
     },
     {
-      "number": "1021",
+      "number": "1042",
       "code": "9766",
       "name": "ＸＬ二南特斯－Ｕ",
       "currency": "USD",
@@ -9192,7 +9381,7 @@
       "remarks": ""
     },
     {
-      "number": "1022",
+      "number": "1043",
       "code": "9777",
       "name": "ＸＬ二南巴郡－Ｕ",
       "currency": "USD",
@@ -9201,7 +9390,7 @@
       "remarks": ""
     },
     {
-      "number": "1023",
+      "number": "1044",
       "code": "9788",
       "name": "ＸＬ二南英偉－Ｕ",
       "currency": "USD",
@@ -9210,7 +9399,7 @@
       "remarks": ""
     },
     {
-      "number": "1024",
+      "number": "1045",
       "code": "9799",
       "name": "ＸＬ二南策略－Ｕ",
       "currency": "USD",
@@ -9219,7 +9408,7 @@
       "remarks": ""
     },
     {
-      "number": "1025",
+      "number": "1046",
       "code": "9801",
       "name": "安碩中國－Ｕ",
       "currency": "USD",
@@ -9228,7 +9417,7 @@
       "remarks": ""
     },
     {
-      "number": "1026",
+      "number": "1047",
       "code": "9803",
       "name": "ＰＰ中國基石－Ｕ",
       "currency": "USD",
@@ -9237,7 +9426,7 @@
       "remarks": ""
     },
     {
-      "number": "1027",
+      "number": "1048",
       "code": "9804",
       "name": "ＰＰ越南－Ｕ",
       "currency": "USD",
@@ -9246,7 +9435,7 @@
       "remarks": ""
     },
     {
-      "number": "1028",
+      "number": "1049",
       "code": "9805",
       "name": "銀河博時東盟－Ｕ",
       "currency": "USD",
@@ -9255,7 +9444,7 @@
       "remarks": ""
     },
     {
-      "number": "1029",
+      "number": "1050",
       "code": "9806",
       "name": "ＧＸ中國消費－Ｕ",
       "currency": "USD",
@@ -9264,7 +9453,7 @@
       "remarks": ""
     },
     {
-      "number": "1030",
+      "number": "1051",
       "code": "9807",
       "name": "ＧＸ中國機智－Ｕ",
       "currency": "USD",
@@ -9273,7 +9462,7 @@
       "remarks": ""
     },
     {
-      "number": "1031",
+      "number": "1052",
       "code": "9809",
       "name": "ＧＸ中國潔能－Ｕ",
       "currency": "USD",
@@ -9282,7 +9471,7 @@
       "remarks": ""
     },
     {
-      "number": "1032",
+      "number": "1053",
       "code": "9810",
       "name": "ＰＰ新興東盟－Ｕ",
       "currency": "USD",
@@ -9291,7 +9480,7 @@
       "remarks": ""
     },
     {
-      "number": "1033",
+      "number": "1054",
       "code": "9812",
       "name": "三星中國龍網－Ｕ",
       "currency": "USD",
@@ -9300,7 +9489,7 @@
       "remarks": ""
     },
     {
-      "number": "1034",
+      "number": "1055",
       "code": "9814",
       "name": "三星ＦＡＮＧ－Ｕ",
       "currency": "USD",
@@ -9309,7 +9498,7 @@
       "remarks": ""
     },
     {
-      "number": "1035",
+      "number": "1056",
       "code": "9817",
       "name": "ＰＰ國債－Ｕ",
       "currency": "USD",
@@ -9318,7 +9507,7 @@
       "remarks": ""
     },
     {
-      "number": "1036",
+      "number": "1057",
       "code": "9820",
       "name": "ＧＸ中國生科－Ｕ",
       "currency": "USD",
@@ -9327,7 +9516,7 @@
       "remarks": ""
     },
     {
-      "number": "1037",
+      "number": "1058",
       "code": "9824",
       "name": "易方達黃金礦－Ｕ",
       "currency": "USD",
@@ -9336,7 +9525,7 @@
       "remarks": ""
     },
     {
-      "number": "1038",
+      "number": "1059",
       "code": "9826",
       "name": "ＧＸ中國雲算－Ｕ",
       "currency": "USD",
@@ -9345,7 +9534,7 @@
       "remarks": ""
     },
     {
-      "number": "1039",
+      "number": "1060",
       "code": "9829",
       "name": "安碩中國國債－Ｕ",
       "currency": "USD",
@@ -9354,7 +9543,7 @@
       "remarks": ""
     },
     {
-      "number": "1040",
+      "number": "1061",
       "code": "9834",
       "name": "安碩納指一百－Ｕ",
       "currency": "USD",
@@ -9363,7 +9552,7 @@
       "remarks": ""
     },
     {
-      "number": "1041",
+      "number": "1062",
       "code": "9836",
       "name": "安碩印度－Ｕ",
       "currency": "USD",
@@ -9372,7 +9561,7 @@
       "remarks": ""
     },
     {
-      "number": "1042",
+      "number": "1063",
       "code": "9839",
       "name": "華夏Ａ５０－Ｕ",
       "currency": "USD",
@@ -9381,7 +9570,7 @@
       "remarks": ""
     },
     {
-      "number": "1043",
+      "number": "1064",
       "code": "9840",
       "name": "ＳＰＤＲ金－Ｕ",
       "currency": "USD",
@@ -9390,7 +9579,7 @@
       "remarks": ""
     },
     {
-      "number": "1044",
+      "number": "1065",
       "code": "9845",
       "name": "ＧＸ中國電車－Ｕ",
       "currency": "USD",
@@ -9399,7 +9588,7 @@
       "remarks": ""
     },
     {
-      "number": "1045",
+      "number": "1066",
       "code": "9846",
       "name": "安碩滬深三百－Ｕ",
       "currency": "USD",
@@ -9408,7 +9597,7 @@
       "remarks": ""
     },
     {
-      "number": "1046",
+      "number": "1067",
       "code": "9858",
       "name": "優然牧業",
       "currency": "HKD",
@@ -9417,7 +9606,7 @@
       "remarks": ""
     },
     {
-      "number": "1047",
+      "number": "1068",
       "code": "9860",
       "name": "艾迪康控股",
       "currency": "HKD",
@@ -9426,7 +9615,7 @@
       "remarks": ""
     },
     {
-      "number": "1048",
+      "number": "1069",
       "code": "9863",
       "name": "零跑汽車",
       "currency": "HKD",
@@ -9435,7 +9624,7 @@
       "remarks": ""
     },
     {
-      "number": "1049",
+      "number": "1070",
       "code": "9866",
       "name": "蔚來－ＳＷ",
       "currency": "HKD",
@@ -9444,7 +9633,7 @@
       "remarks": ""
     },
     {
-      "number": "1050",
+      "number": "1071",
       "code": "9868",
       "name": "小鵬汽車－Ｗ",
       "currency": "HKD",
@@ -9453,7 +9642,7 @@
       "remarks": ""
     },
     {
-      "number": "1051",
+      "number": "1072",
       "code": "9877",
       "name": "健世科技－Ｂ",
       "currency": "HKD",
@@ -9462,16 +9651,7 @@
       "remarks": ""
     },
     {
-      "number": "1052",
-      "code": "9878",
-      "name": "匯通達網絡",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "1053",
+      "number": "1073",
       "code": "9880",
       "name": "優必選",
       "currency": "HKD",
@@ -9480,7 +9660,7 @@
       "remarks": ""
     },
     {
-      "number": "1054",
+      "number": "1074",
       "code": "9885",
       "name": "藥師幫",
       "currency": "HKD",
@@ -9489,7 +9669,7 @@
       "remarks": ""
     },
     {
-      "number": "1055",
+      "number": "1075",
       "code": "9887",
       "name": "維立志博－Ｂ",
       "currency": "HKD",
@@ -9498,7 +9678,7 @@
       "remarks": ""
     },
     {
-      "number": "1056",
+      "number": "1076",
       "code": "9888",
       "name": "百度集團－ＳＷ",
       "currency": "HKD",
@@ -9507,7 +9687,7 @@
       "remarks": ""
     },
     {
-      "number": "1057",
+      "number": "1077",
       "code": "9889",
       "name": "東莞農商銀行",
       "currency": "HKD",
@@ -9516,7 +9696,7 @@
       "remarks": ""
     },
     {
-      "number": "1058",
+      "number": "1078",
       "code": "9890",
       "name": "貪玩",
       "currency": "HKD",
@@ -9525,7 +9705,7 @@
       "remarks": ""
     },
     {
-      "number": "1059",
+      "number": "1079",
       "code": "9896",
       "name": "名創優品",
       "currency": "HKD",
@@ -9534,7 +9714,7 @@
       "remarks": ""
     },
     {
-      "number": "1060",
+      "number": "1080",
       "code": "9898",
       "name": "微博－ＳＷ",
       "currency": "HKD",
@@ -9543,7 +9723,7 @@
       "remarks": ""
     },
     {
-      "number": "1061",
+      "number": "1081",
       "code": "9899",
       "name": "網易雲音樂",
       "currency": "HKD",
@@ -9552,7 +9732,7 @@
       "remarks": ""
     },
     {
-      "number": "1062",
+      "number": "1082",
       "code": "9900",
       "name": "智雲科技建設",
       "currency": "HKD",
@@ -9561,7 +9741,7 @@
       "remarks": ""
     },
     {
-      "number": "1063",
+      "number": "1083",
       "code": "9901",
       "name": "新東方－Ｓ",
       "currency": "HKD",
@@ -9570,7 +9750,7 @@
       "remarks": ""
     },
     {
-      "number": "1064",
+      "number": "1084",
       "code": "9911",
       "name": "赤子城科技",
       "currency": "HKD",
@@ -9579,7 +9759,7 @@
       "remarks": ""
     },
     {
-      "number": "1065",
+      "number": "1085",
       "code": "9922",
       "name": "九毛九",
       "currency": "HKD",
@@ -9588,7 +9768,7 @@
       "remarks": ""
     },
     {
-      "number": "1066",
+      "number": "1086",
       "code": "9923",
       "name": "移卡",
       "currency": "HKD",
@@ -9597,7 +9777,7 @@
       "remarks": ""
     },
     {
-      "number": "1067",
+      "number": "1087",
       "code": "9926",
       "name": "康方生物",
       "currency": "HKD",
@@ -9606,7 +9786,16 @@
       "remarks": ""
     },
     {
-      "number": "1068",
+      "number": "1088",
+      "code": "9927",
+      "name": "賽力斯",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "1089",
       "code": "9930",
       "name": "宏信建發",
       "currency": "HKD",
@@ -9615,7 +9804,7 @@
       "remarks": ""
     },
     {
-      "number": "1069",
+      "number": "1090",
       "code": "9959",
       "name": "聯易融科技－Ｗ",
       "currency": "HKD",
@@ -9624,7 +9813,7 @@
       "remarks": ""
     },
     {
-      "number": "1070",
+      "number": "1091",
       "code": "9961",
       "name": "攜程集團－Ｓ",
       "currency": "HKD",
@@ -9633,7 +9822,7 @@
       "remarks": ""
     },
     {
-      "number": "1071",
+      "number": "1092",
       "code": "9966",
       "name": "康寧傑瑞製藥－Ｂ",
       "currency": "HKD",
@@ -9642,7 +9831,7 @@
       "remarks": ""
     },
     {
-      "number": "1072",
+      "number": "1093",
       "code": "9969",
       "name": "諾誠健華",
       "currency": "HKD",
@@ -9651,7 +9840,7 @@
       "remarks": ""
     },
     {
-      "number": "1073",
+      "number": "1094",
       "code": "9973",
       "name": "奇瑞汽車",
       "currency": "HKD",
@@ -9660,7 +9849,7 @@
       "remarks": ""
     },
     {
-      "number": "1074",
+      "number": "1095",
       "code": "9979",
       "name": "綠城管理控股",
       "currency": "HKD",
@@ -9669,7 +9858,7 @@
       "remarks": ""
     },
     {
-      "number": "1075",
+      "number": "1096",
       "code": "9985",
       "name": "衛龍美味",
       "currency": "HKD",
@@ -9678,7 +9867,7 @@
       "remarks": ""
     },
     {
-      "number": "1076",
+      "number": "1097",
       "code": "9987",
       "name": "百勝中國",
       "currency": "HKD",
@@ -9687,7 +9876,7 @@
       "remarks": ""
     },
     {
-      "number": "1077",
+      "number": "1098",
       "code": "9988",
       "name": "阿里巴巴－Ｗ",
       "currency": "HKD",
@@ -9696,16 +9885,7 @@
       "remarks": ""
     },
     {
-      "number": "1078",
-      "code": "9989",
-      "name": "海普瑞",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "1079",
+      "number": "1099",
       "code": "9992",
       "name": "泡泡瑪特",
       "currency": "HKD",
@@ -9714,7 +9894,7 @@
       "remarks": ""
     },
     {
-      "number": "1080",
+      "number": "1100",
       "code": "9993",
       "name": "金輝控股",
       "currency": "HKD",
@@ -9723,7 +9903,7 @@
       "remarks": ""
     },
     {
-      "number": "1081",
+      "number": "1101",
       "code": "9995",
       "name": "榮昌生物",
       "currency": "HKD",
@@ -9732,7 +9912,7 @@
       "remarks": ""
     },
     {
-      "number": "1082",
+      "number": "1102",
       "code": "9996",
       "name": "沛嘉醫療－Ｂ",
       "currency": "HKD",
@@ -9741,7 +9921,7 @@
       "remarks": ""
     },
     {
-      "number": "1083",
+      "number": "1103",
       "code": "9999",
       "name": "網易－Ｓ",
       "currency": "HKD",
@@ -9750,7 +9930,7 @@
       "remarks": ""
     },
     {
-      "number": "1084",
+      "number": "1104",
       "code": "80016",
       "name": "新鴻基地產－Ｒ",
       "currency": "CNY",
@@ -9759,7 +9939,7 @@
       "remarks": ""
     },
     {
-      "number": "1085",
+      "number": "1105",
       "code": "80020",
       "name": "商湯－ＷＲ",
       "currency": "CNY",
@@ -9768,7 +9948,7 @@
       "remarks": ""
     },
     {
-      "number": "1086",
+      "number": "1106",
       "code": "80175",
       "name": "吉利汽車－Ｒ",
       "currency": "CNY",
@@ -9777,7 +9957,7 @@
       "remarks": ""
     },
     {
-      "number": "1087",
+      "number": "1107",
       "code": "80291",
       "name": "華潤啤酒－Ｒ",
       "currency": "CNY",
@@ -9786,7 +9966,7 @@
       "remarks": ""
     },
     {
-      "number": "1088",
+      "number": "1108",
       "code": "80388",
       "name": "香港交易所－Ｒ",
       "currency": "CNY",
@@ -9795,7 +9975,7 @@
       "remarks": ""
     },
     {
-      "number": "1089",
+      "number": "1109",
       "code": "80700",
       "name": "騰訊控股－Ｒ",
       "currency": "CNY",
@@ -9804,7 +9984,7 @@
       "remarks": ""
     },
     {
-      "number": "1090",
+      "number": "1110",
       "code": "80883",
       "name": "中國海洋石油－Ｒ",
       "currency": "CNY",
@@ -9813,7 +9993,7 @@
       "remarks": ""
     },
     {
-      "number": "1091",
+      "number": "1111",
       "code": "80941",
       "name": "中國移動－Ｒ",
       "currency": "CNY",
@@ -9822,7 +10002,7 @@
       "remarks": ""
     },
     {
-      "number": "1092",
+      "number": "1112",
       "code": "80992",
       "name": "聯想集團－Ｒ",
       "currency": "CNY",
@@ -9831,7 +10011,7 @@
       "remarks": ""
     },
     {
-      "number": "1093",
+      "number": "1113",
       "code": "81024",
       "name": "快手－ＷＲ",
       "currency": "CNY",
@@ -9840,7 +10020,7 @@
       "remarks": ""
     },
     {
-      "number": "1094",
+      "number": "1114",
       "code": "81211",
       "name": "比亞迪股份－Ｒ",
       "currency": "CNY",
@@ -9849,7 +10029,7 @@
       "remarks": ""
     },
     {
-      "number": "1095",
+      "number": "1115",
       "code": "81299",
       "name": "友邦保險－Ｒ",
       "currency": "CNY",
@@ -9858,7 +10038,7 @@
       "remarks": ""
     },
     {
-      "number": "1096",
+      "number": "1116",
       "code": "81810",
       "name": "小米集團－ＷＲ",
       "currency": "CNY",
@@ -9867,7 +10047,7 @@
       "remarks": ""
     },
     {
-      "number": "1097",
+      "number": "1117",
       "code": "82020",
       "name": "安踏體育－Ｒ",
       "currency": "CNY",
@@ -9876,7 +10056,7 @@
       "remarks": ""
     },
     {
-      "number": "1098",
+      "number": "1118",
       "code": "82318",
       "name": "中國平安－Ｒ",
       "currency": "CNY",
@@ -9885,7 +10065,7 @@
       "remarks": ""
     },
     {
-      "number": "1099",
+      "number": "1119",
       "code": "82331",
       "name": "李寧－Ｒ",
       "currency": "CNY",
@@ -9894,7 +10074,7 @@
       "remarks": ""
     },
     {
-      "number": "1100",
+      "number": "1120",
       "code": "82333",
       "name": "長城汽車－Ｒ",
       "currency": "CNY",
@@ -9903,7 +10083,7 @@
       "remarks": ""
     },
     {
-      "number": "1101",
+      "number": "1121",
       "code": "82388",
       "name": "中銀香港－Ｒ",
       "currency": "CNY",
@@ -9912,7 +10092,7 @@
       "remarks": ""
     },
     {
-      "number": "1102",
+      "number": "1122",
       "code": "82800",
       "name": "盈富基金－Ｒ",
       "currency": "CNY",
@@ -9921,7 +10101,7 @@
       "remarks": ""
     },
     {
-      "number": "1103",
+      "number": "1123",
       "code": "82805",
       "name": "銀河博時東盟－Ｒ",
       "currency": "CNY",
@@ -9930,7 +10110,7 @@
       "remarks": ""
     },
     {
-      "number": "1104",
+      "number": "1124",
       "code": "82817",
       "name": "ＰＰ國債－Ｒ",
       "currency": "CNY",
@@ -9939,7 +10119,7 @@
       "remarks": ""
     },
     {
-      "number": "1105",
+      "number": "1125",
       "code": "82822",
       "name": "南方Ａ５０－Ｒ",
       "currency": "CNY",
@@ -9948,7 +10128,7 @@
       "remarks": ""
     },
     {
-      "number": "1106",
+      "number": "1126",
       "code": "82823",
       "name": "安碩Ａ５０－Ｒ",
       "currency": "CNY",
@@ -9957,7 +10137,7 @@
       "remarks": ""
     },
     {
-      "number": "1107",
+      "number": "1127",
       "code": "82824",
       "name": "易方達黃金礦－Ｒ",
       "currency": "CNY",
@@ -9966,7 +10146,7 @@
       "remarks": ""
     },
     {
-      "number": "1108",
+      "number": "1128",
       "code": "82828",
       "name": "恒生中國企業－Ｒ",
       "currency": "CNY",
@@ -9975,7 +10155,7 @@
       "remarks": ""
     },
     {
-      "number": "1109",
+      "number": "1129",
       "code": "82829",
       "name": "安碩中國國債－Ｒ",
       "currency": "CNY",
@@ -9984,7 +10164,7 @@
       "remarks": ""
     },
     {
-      "number": "1110",
+      "number": "1130",
       "code": "82830",
       "name": "南方沙特－Ｒ",
       "currency": "CNY",
@@ -9993,7 +10173,7 @@
       "remarks": ""
     },
     {
-      "number": "1111",
+      "number": "1131",
       "code": "82832",
       "name": "博時科創５０－Ｒ",
       "currency": "CNY",
@@ -10002,7 +10182,7 @@
       "remarks": ""
     },
     {
-      "number": "1112",
+      "number": "1132",
       "code": "82839",
       "name": "華夏Ａ５０－Ｒ",
       "currency": "CNY",
@@ -10011,7 +10191,7 @@
       "remarks": ""
     },
     {
-      "number": "1113",
+      "number": "1133",
       "code": "82840",
       "name": "ＳＰＤＲ金－Ｒ",
       "currency": "CNY",
@@ -10020,7 +10200,7 @@
       "remarks": ""
     },
     {
-      "number": "1114",
+      "number": "1134",
       "code": "82843",
       "name": "東匯Ａ５０－Ｒ",
       "currency": "CNY",
@@ -10029,7 +10209,7 @@
       "remarks": ""
     },
     {
-      "number": "1115",
+      "number": "1135",
       "code": "82846",
       "name": "安碩滬深三百－Ｒ",
       "currency": "CNY",
@@ -10038,7 +10218,7 @@
       "remarks": ""
     },
     {
-      "number": "1116",
+      "number": "1136",
       "code": "83001",
       "name": "ＰＰ中地美債－Ｒ",
       "currency": "CNY",
@@ -10047,7 +10227,7 @@
       "remarks": ""
     },
     {
-      "number": "1117",
+      "number": "1137",
       "code": "83005",
       "name": "Ｘ南方中五百－Ｒ",
       "currency": "CNY",
@@ -10056,7 +10236,7 @@
       "remarks": ""
     },
     {
-      "number": "1118",
+      "number": "1138",
       "code": "83010",
       "name": "安碩亞洲除日－Ｒ",
       "currency": "CNY",
@@ -10065,7 +10245,7 @@
       "remarks": ""
     },
     {
-      "number": "1119",
+      "number": "1139",
       "code": "83012",
       "name": "東匯香港３５－Ｒ",
       "currency": "CNY",
@@ -10074,7 +10254,7 @@
       "remarks": ""
     },
     {
-      "number": "1120",
+      "number": "1140",
       "code": "83038",
       "name": "恒生Ａ股低碳－Ｒ",
       "currency": "CNY",
@@ -10083,7 +10263,7 @@
       "remarks": ""
     },
     {
-      "number": "1121",
+      "number": "1141",
       "code": "83042",
       "name": "華夏比特幣－Ｒ",
       "currency": "CNY",
@@ -10092,7 +10272,7 @@
       "remarks": ""
     },
     {
-      "number": "1122",
+      "number": "1142",
       "code": "83046",
       "name": "華夏以太幣－Ｒ",
       "currency": "CNY",
@@ -10101,7 +10281,7 @@
       "remarks": ""
     },
     {
-      "number": "1123",
+      "number": "1143",
       "code": "83053",
       "name": "Ａ南方港元－Ｒ",
       "currency": "CNY",
@@ -10110,7 +10290,7 @@
       "remarks": ""
     },
     {
-      "number": "1124",
+      "number": "1144",
       "code": "83059",
       "name": "ＧＸ亞洲綠債－Ｒ",
       "currency": "CNY",
@@ -10119,7 +10299,7 @@
       "remarks": ""
     },
     {
-      "number": "1125",
+      "number": "1145",
       "code": "83069",
       "name": "華夏恒生生科－Ｒ",
       "currency": "CNY",
@@ -10128,7 +10308,7 @@
       "remarks": ""
     },
     {
-      "number": "1126",
+      "number": "1146",
       "code": "83081",
       "name": "價值黃金－Ｒ",
       "currency": "CNY",
@@ -10137,7 +10317,7 @@
       "remarks": ""
     },
     {
-      "number": "1127",
+      "number": "1147",
       "code": "83088",
       "name": "華夏恒生科技－Ｒ",
       "currency": "CNY",
@@ -10146,7 +10326,7 @@
       "remarks": ""
     },
     {
-      "number": "1128",
+      "number": "1148",
       "code": "83102",
       "name": "工銀ＫＷＥＢ－Ｒ",
       "currency": "CNY",
@@ -10155,7 +10335,7 @@
       "remarks": ""
     },
     {
-      "number": "1129",
+      "number": "1149",
       "code": "83108",
       "name": "嘉實ＥＳＧ領－Ｒ",
       "currency": "CNY",
@@ -10164,7 +10344,7 @@
       "remarks": ""
     },
     {
-      "number": "1130",
+      "number": "1150",
       "code": "83110",
       "name": "ＧＸ恒生股息－Ｒ",
       "currency": "CNY",
@@ -10173,7 +10353,7 @@
       "remarks": ""
     },
     {
-      "number": "1131",
+      "number": "1151",
       "code": "83111",
       "name": "易方達Ａ５０－Ｒ",
       "currency": "CNY",
@@ -10182,7 +10362,7 @@
       "remarks": ""
     },
     {
-      "number": "1132",
+      "number": "1152",
       "code": "83115",
       "name": "安碩恒生指數－Ｒ",
       "currency": "CNY",
@@ -10191,7 +10371,7 @@
       "remarks": ""
     },
     {
-      "number": "1133",
+      "number": "1153",
       "code": "83118",
       "name": "嘉實明晟Ａ股－Ｒ",
       "currency": "CNY",
@@ -10200,7 +10380,7 @@
       "remarks": ""
     },
     {
-      "number": "1134",
+      "number": "1154",
       "code": "83122",
       "name": "Ａ南方人民幣－Ｒ",
       "currency": "CNY",
@@ -10209,7 +10389,7 @@
       "remarks": ""
     },
     {
-      "number": "1135",
+      "number": "1155",
       "code": "83128",
       "name": "恒生Ａ股龍頭－Ｒ",
       "currency": "CNY",
@@ -10218,7 +10398,7 @@
       "remarks": ""
     },
     {
-      "number": "1136",
+      "number": "1156",
       "code": "83129",
       "name": "中銀大灣氣候－Ｒ",
       "currency": "CNY",
@@ -10227,7 +10407,7 @@
       "remarks": ""
     },
     {
-      "number": "1137",
+      "number": "1157",
       "code": "83130",
       "name": "恒生滬深三百－Ｒ",
       "currency": "CNY",
@@ -10236,7 +10416,7 @@
       "remarks": ""
     },
     {
-      "number": "1138",
+      "number": "1158",
       "code": "83146",
       "name": "華夏２０美債－Ｒ",
       "currency": "CNY",
@@ -10245,7 +10425,7 @@
       "remarks": ""
     },
     {
-      "number": "1139",
+      "number": "1159",
       "code": "83147",
       "name": "Ｘ南方中創業－Ｒ",
       "currency": "CNY",
@@ -10254,7 +10434,7 @@
       "remarks": ""
     },
     {
-      "number": "1140",
+      "number": "1160",
       "code": "83151",
       "name": "ＰＰ科創５０－Ｒ",
       "currency": "CNY",
@@ -10263,7 +10443,7 @@
       "remarks": ""
     },
     {
-      "number": "1141",
+      "number": "1161",
       "code": "83161",
       "name": "Ａ華夏人民幣－Ｒ",
       "currency": "CNY",
@@ -10272,7 +10452,7 @@
       "remarks": ""
     },
     {
-      "number": "1142",
+      "number": "1162",
       "code": "83167",
       "name": "工銀南方中國－Ｒ",
       "currency": "CNY",
@@ -10281,7 +10461,7 @@
       "remarks": ""
     },
     {
-      "number": "1143",
+      "number": "1163",
       "code": "83168",
       "name": "恒生人幣金ＥＴＦ",
       "currency": "CNY",
@@ -10290,7 +10470,7 @@
       "remarks": ""
     },
     {
-      "number": "1144",
+      "number": "1164",
       "code": "83188",
       "name": "華夏滬深三百－Ｒ",
       "currency": "CNY",
@@ -10299,7 +10479,7 @@
       "remarks": ""
     },
     {
-      "number": "1145",
+      "number": "1165",
       "code": "83189",
       "name": "易方達白酒－Ｒ",
       "currency": "CNY",
@@ -10308,7 +10488,7 @@
       "remarks": ""
     },
     {
-      "number": "1146",
+      "number": "1166",
       "code": "83192",
       "name": "Ａ博時人民幣－Ｒ",
       "currency": "CNY",
@@ -10317,7 +10497,7 @@
       "remarks": ""
     },
     {
-      "number": "1147",
+      "number": "1167",
       "code": "83196",
       "name": "Ａ博時美元－Ｒ",
       "currency": "CNY",
@@ -10326,7 +10506,7 @@
       "remarks": ""
     },
     {
-      "number": "1148",
+      "number": "1168",
       "code": "83199",
       "name": "工銀南方國債－Ｒ",
       "currency": "CNY",
@@ -10335,7 +10515,7 @@
       "remarks": ""
     },
     {
-      "number": "1149",
+      "number": "1169",
       "code": "83403",
       "name": "華夏恒ＥＳＧ－Ｒ",
       "currency": "CNY",
@@ -10344,7 +10524,7 @@
       "remarks": ""
     },
     {
-      "number": "1150",
+      "number": "1170",
       "code": "83404",
       "name": "華夏印度－Ｒ",
       "currency": "CNY",
@@ -10353,7 +10533,7 @@
       "remarks": ""
     },
     {
-      "number": "1151",
+      "number": "1171",
       "code": "83416",
       "name": "ＡＧＸ國指兌－Ｒ",
       "currency": "CNY",
@@ -10362,7 +10542,7 @@
       "remarks": ""
     },
     {
-      "number": "1152",
+      "number": "1172",
       "code": "83420",
       "name": "Ａ惠理人民幣－Ｒ",
       "currency": "CNY",
@@ -10371,7 +10551,7 @@
       "remarks": ""
     },
     {
-      "number": "1153",
+      "number": "1173",
       "code": "83434",
       "name": "易方達數科－Ｒ",
       "currency": "CNY",
@@ -10380,7 +10560,7 @@
       "remarks": ""
     },
     {
-      "number": "1154",
+      "number": "1174",
       "code": "83437",
       "name": "博時央企紅利－Ｒ",
       "currency": "CNY",
@@ -10389,7 +10569,7 @@
       "remarks": ""
     },
     {
-      "number": "1155",
+      "number": "1175",
       "code": "83455",
       "name": "景順ＱＱＱ－Ｒ",
       "currency": "CNY",
@@ -10398,7 +10578,7 @@
       "remarks": ""
     },
     {
-      "number": "1156",
+      "number": "1176",
       "code": "83460",
       "name": "華夏ＳＯＬ－Ｒ",
       "currency": "CNY",
@@ -10407,7 +10587,7 @@
       "remarks": ""
     },
     {
-      "number": "1157",
+      "number": "1177",
       "code": "83461",
       "name": "Ａ華夏人幣數－Ｒ",
       "currency": "CNY",
@@ -10416,7 +10596,7 @@
       "remarks": ""
     },
     {
-      "number": "1158",
+      "number": "1178",
       "code": "83483",
       "name": "易方達高股息－Ｒ",
       "currency": "CNY",
@@ -10425,7 +10605,7 @@
       "remarks": ""
     },
     {
-      "number": "1159",
+      "number": "1179",
       "code": "83489",
       "name": "易方達ＡＩ－Ｒ",
       "currency": "CNY",
@@ -10434,7 +10614,7 @@
       "remarks": ""
     },
     {
-      "number": "1160",
+      "number": "1180",
       "code": "83690",
       "name": "美團－ＷＲ",
       "currency": "CNY",
@@ -10443,7 +10623,7 @@
       "remarks": ""
     },
     {
-      "number": "1161",
+      "number": "1181",
       "code": "86618",
       "name": "京東健康－Ｒ",
       "currency": "CNY",
@@ -10452,7 +10632,7 @@
       "remarks": ""
     },
     {
-      "number": "1162",
+      "number": "1182",
       "code": "87001",
       "name": "匯賢產業信託",
       "currency": "CNY",
@@ -10461,7 +10641,7 @@
       "remarks": ""
     },
     {
-      "number": "1163",
+      "number": "1183",
       "code": "89618",
       "name": "京東集團－ＳＷＲ",
       "currency": "CNY",
@@ -10470,7 +10650,7 @@
       "remarks": ""
     },
     {
-      "number": "1164",
+      "number": "1184",
       "code": "89888",
       "name": "百度集團－ＳＷＲ",
       "currency": "CNY",
@@ -10479,7 +10659,7 @@
       "remarks": ""
     },
     {
-      "number": "1165",
+      "number": "1185",
       "code": "89988",
       "name": "阿里巴巴－ＷＲ",
       "currency": "CNY",
@@ -10488,5 +10668,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-02-10T03:51:28.048414"
+  "fetched_at": "2026-02-10T10:05:39.990897"
 }
