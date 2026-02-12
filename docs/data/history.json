@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-02-20",
+    "timestamp": "2026-02-12T09:59:00.039806",
+    "old_total": 1185,
+    "new_total": 1187,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "810",
+        "code": "3696",
+        "name": "英矽智能",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "858",
+        "code": "6082",
+        "name": "壁仞科技",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-02-13",
     "timestamp": "2026-02-10T10:05:39.993446",
     "old_total": 1165,
