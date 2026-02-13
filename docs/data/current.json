@@ -6380,7 +6380,7 @@
       "name": "Ａ泰康美元",
       "currency": "HKD",
       "type": "基金",
-      "exempt": "",
+      "exempt": "是",
       "remarks": ""
     },
     {
@@ -7064,7 +7064,7 @@
       "name": "Ａ泰康港元",
       "currency": "HKD",
       "type": "基金",
-      "exempt": "",
+      "exempt": "是",
       "remarks": ""
     },
     {
@@ -8882,7 +8882,7 @@
       "name": "Ａ泰康美元－Ｕ",
       "currency": "USD",
       "type": "基金",
-      "exempt": "",
+      "exempt": "是",
       "remarks": ""
     },
     {
@@ -10686,5 +10686,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-02-12T23:20:04.041235"
+  "fetched_at": "2026-02-13T03:41:22.212897"
 }
