@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-02-27",
+    "timestamp": "2026-02-24T09:59:40.157144",
+    "old_total": 1187,
+    "new_total": 1189,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "37",
+        "code": "100",
+        "name": "MINIMAX-WP",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "508",
+        "code": "2513",
+        "name": "智譜",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-02-20",
     "timestamp": "2026-02-12T09:59:00.039806",
     "old_total": 1185,
