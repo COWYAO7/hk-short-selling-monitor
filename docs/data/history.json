@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-06",
+    "timestamp": "2026-03-05T09:55:10.485696",
+    "old_total": 1189,
+    "new_total": 1190,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "705",
+        "code": "3169",
+        "name": "嘉實中美科技５０",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-02-27",
     "timestamp": "2026-02-24T09:59:40.157144",
     "old_total": 1187,
