@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-13",
+    "timestamp": "2026-03-11T09:53:34.831822",
+    "old_total": 1190,
+    "new_total": 1191,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "344",
+        "code": "1768",
+        "name": "鳴鳴很忙",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-03-06",
     "timestamp": "2026-03-05T09:55:10.485696",
     "old_total": 1189,
