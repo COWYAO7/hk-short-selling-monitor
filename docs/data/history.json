@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-03-16",
+    "timestamp": "2026-03-13T09:50:35.908732",
+    "old_total": 1191,
+    "new_total": 1189,
+    "net_change": -2,
+    "added": [],
+    "removed": [
+      {
+        "number": "656",
+        "code": "3072",
+        "name": "奧明環球聯網",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "970",
+        "code": "9072",
+        "name": "奧明環球聯網－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-03-13",
     "timestamp": "2026-03-11T09:53:34.831822",
     "old_total": 1190,
