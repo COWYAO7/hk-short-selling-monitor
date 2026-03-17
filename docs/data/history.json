@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-03-18",
+    "timestamp": "2026-03-17T10:00:50.094730",
+    "old_total": 1189,
+    "new_total": 1192,
+    "net_change": 3,
+    "added": [
+      {
+        "number": "691",
+        "code": "3140",
+        "name": "華夏港美ＡＩ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1164",
+        "code": "83140",
+        "name": "華夏港美ＡＩ－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "983",
+        "code": "9140",
+        "name": "華夏港美ＡＩ－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-03-16",
     "timestamp": "2026-03-13T09:50:35.908732",
     "old_total": 1191,
