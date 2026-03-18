@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-19",
+    "timestamp": "2026-03-18T10:02:50.567275",
+    "old_total": 1192,
+    "new_total": 1191,
+    "net_change": -1,
+    "added": [],
+    "removed": [
+      {
+        "number": "116",
+        "code": "489",
+        "name": "東風集團股份",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-03-18",
     "timestamp": "2026-03-17T10:00:50.094730",
     "old_total": 1189,
