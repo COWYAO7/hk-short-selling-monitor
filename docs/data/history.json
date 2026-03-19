@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-20",
+    "timestamp": "2026-03-19T09:55:34.682101",
+    "old_total": 1191,
+    "new_total": 1190,
+    "net_change": -1,
+    "added": [],
+    "removed": [
+      {
+        "number": "751",
+        "code": "3405",
+        "name": "富邦亞洲電池儲能",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-03-19",
     "timestamp": "2026-03-18T10:02:50.567275",
     "old_total": 1192,
