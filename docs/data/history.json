@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-23",
+    "timestamp": "2026-03-20T09:53:03.005610",
+    "old_total": 1190,
+    "new_total": 1191,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "718",
+        "code": "3186",
+        "name": "易方達生物醫藥",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-03-20",
     "timestamp": "2026-03-19T09:55:34.682101",
     "old_total": 1191,
