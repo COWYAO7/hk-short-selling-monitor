@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-27",
+    "timestamp": "2026-03-24T10:01:34.791323",
+    "old_total": 1191,
+    "new_total": 1192,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "1089",
+        "code": "9903",
+        "name": "天數智芯",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-03-23",
     "timestamp": "2026-03-20T09:53:03.005610",
     "old_total": 1190,
