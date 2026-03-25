@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-03-27",
+    "timestamp": "2026-03-25T10:00:34.289910",
+    "old_total": 1192,
+    "new_total": 1193,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "801",
+        "code": "3486",
+        "name": "易方達亞洲半導體",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ],
+    "removed": []
+  },
+  {
+    "date": "2026-03-27",
     "timestamp": "2026-03-24T10:01:34.791323",
     "old_total": 1191,
     "new_total": 1192,
