@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-03-30",
+    "timestamp": "2026-03-27T10:00:00.022934",
+    "old_total": 1193,
+    "new_total": 1198,
+    "net_change": 5,
+    "added": [
+      {
+        "number": "768",
+        "code": "3428",
+        "name": "ＧＸ國壽港美",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "797",
+        "code": "3473",
+        "name": "南方亞洲科技",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "805",
+        "code": "3535",
+        "name": "南方港日現金流",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1185",
+        "code": "83428",
+        "name": "ＧＸ國壽港美－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1015",
+        "code": "9428",
+        "name": "ＧＸ國壽港美－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-03-27",
     "timestamp": "2026-03-25T10:00:34.289910",
     "old_total": 1192,
