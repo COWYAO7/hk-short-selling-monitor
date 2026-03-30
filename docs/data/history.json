@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-03-31",
+    "timestamp": "2026-03-30T10:23:36.177280",
+    "old_total": 1198,
+    "new_total": 1200,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "632",
+        "code": "3031",
+        "name": "ＦＧ恒生紅利",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "804",
+        "code": "3488",
+        "name": "惠理港美紅利低波",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1153",
+        "code": "83031",
+        "name": "ＦＧ恒生紅利－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "966",
+        "code": "9031",
+        "name": "ＦＧ恒生紅利－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": [
+      {
+        "number": "682",
+        "code": "3130",
+        "name": "恒生滬深三百",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1168",
+        "code": "83130",
+        "name": "恒生滬深三百－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-03-30",
     "timestamp": "2026-03-27T10:00:00.022934",
     "old_total": 1193,
