@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "total": 1200,
   "stocks": [
     {
@@ -2331,7 +2331,7 @@
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
       "number": "260",
@@ -5688,7 +5688,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "633",
@@ -7236,7 +7236,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "805",
@@ -8042,11 +8042,11 @@
     {
       "number": "894",
       "code": "6676",
-      "name": "找鋼集團－Ｗ",
+      "name": "找鋼網－Ｗ",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "895",
@@ -8694,7 +8694,7 @@
       "currency": "USD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "967",
@@ -9743,11 +9743,11 @@
     {
       "number": "1083",
       "code": "9868",
-      "name": "小鵬汽車－Ｗ",
+      "name": "小鵬集團－Ｗ",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "1084",
@@ -10377,7 +10377,7 @@
       "currency": "CNY",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "1154",
@@ -10803,5 +10803,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-03-31T03:51:01.939328"
+  "fetched_at": "2026-03-31T10:10:50.848947"
 }
