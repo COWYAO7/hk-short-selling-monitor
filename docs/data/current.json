@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-14",
   "total": 1200,
   "stocks": [
     {
@@ -8046,7 +8046,7 @@
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
       "number": "895",
@@ -8294,11 +8294,11 @@
     {
       "number": "922",
       "code": "6990",
-      "name": "科倫博泰生物－Ｂ",
+      "name": "科倫博泰生物",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "923",
@@ -9747,7 +9747,7 @@
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
       "number": "1084",
@@ -10803,5 +10803,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-04-13T01:40:32.521158"
+  "fetched_at": "2026-04-13T09:46:19.083127"
 }
