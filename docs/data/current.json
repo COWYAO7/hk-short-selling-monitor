@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-17",
   "total": 1200,
   "stocks": [
     {
@@ -7744,6 +7744,15 @@
     },
     {
       "number": "861",
+      "code": "6051",
+      "name": "有贊",
+      "currency": "HKD",
+      "type": "股本證券",
+      "exempt": "",
+      "remarks": "加入"
+    },
+    {
+      "number": "862",
       "code": "6055",
       "name": "中煙香港",
       "currency": "HKD",
@@ -7752,7 +7761,7 @@
       "remarks": ""
     },
     {
-      "number": "862",
+      "number": "863",
       "code": "6060",
       "name": "眾安在綫",
       "currency": "HKD",
@@ -7761,7 +7770,7 @@
       "remarks": ""
     },
     {
-      "number": "863",
+      "number": "864",
       "code": "6066",
       "name": "中信建投証券",
       "currency": "HKD",
@@ -7770,7 +7779,7 @@
       "remarks": ""
     },
     {
-      "number": "864",
+      "number": "865",
       "code": "6069",
       "name": "盛業",
       "currency": "HKD",
@@ -7779,7 +7788,7 @@
       "remarks": ""
     },
     {
-      "number": "865",
+      "number": "866",
       "code": "6078",
       "name": "海吉亞醫療",
       "currency": "HKD",
@@ -7788,7 +7797,7 @@
       "remarks": ""
     },
     {
-      "number": "866",
+      "number": "867",
       "code": "6082",
       "name": "壁仞科技",
       "currency": "HKD",
@@ -7797,7 +7806,7 @@
       "remarks": ""
     },
     {
-      "number": "867",
+      "number": "868",
       "code": "6086",
       "name": "方舟健客",
       "currency": "HKD",
@@ -7806,7 +7815,7 @@
       "remarks": ""
     },
     {
-      "number": "868",
+      "number": "869",
       "code": "6088",
       "name": "FIT HON TENG",
       "currency": "HKD",
@@ -7815,7 +7824,7 @@
       "remarks": ""
     },
     {
-      "number": "869",
+      "number": "870",
       "code": "6090",
       "name": "不同集團",
       "currency": "HKD",
@@ -7824,7 +7833,7 @@
       "remarks": ""
     },
     {
-      "number": "870",
+      "number": "871",
       "code": "6098",
       "name": "碧桂園服務",
       "currency": "HKD",
@@ -7833,7 +7842,7 @@
       "remarks": ""
     },
     {
-      "number": "871",
+      "number": "872",
       "code": "6099",
       "name": "招商證券",
       "currency": "HKD",
@@ -7842,7 +7851,7 @@
       "remarks": ""
     },
     {
-      "number": "872",
+      "number": "873",
       "code": "6100",
       "name": "同道獵聘",
       "currency": "HKD",
@@ -7851,7 +7860,7 @@
       "remarks": ""
     },
     {
-      "number": "873",
+      "number": "874",
       "code": "6110",
       "name": "滔搏",
       "currency": "HKD",
@@ -7860,7 +7869,7 @@
       "remarks": ""
     },
     {
-      "number": "874",
+      "number": "875",
       "code": "6127",
       "name": "昭衍新藥",
       "currency": "HKD",
@@ -7869,7 +7878,7 @@
       "remarks": ""
     },
     {
-      "number": "875",
+      "number": "876",
       "code": "6160",
       "name": "百濟神州",
       "currency": "HKD",
@@ -7878,7 +7887,7 @@
       "remarks": ""
     },
     {
-      "number": "876",
+      "number": "877",
       "code": "6168",
       "name": "周六福",
       "currency": "HKD",
@@ -7887,7 +7896,7 @@
       "remarks": ""
     },
     {
-      "number": "877",
+      "number": "878",
       "code": "6169",
       "name": "宇華教育",
       "currency": "HKD",
@@ -7896,7 +7905,7 @@
       "remarks": ""
     },
     {
-      "number": "878",
+      "number": "879",
       "code": "6178",
       "name": "光大證券",
       "currency": "HKD",
@@ -7905,7 +7914,7 @@
       "remarks": ""
     },
     {
-      "number": "879",
+      "number": "880",
       "code": "6181",
       "name": "老鋪黃金",
       "currency": "HKD",
@@ -7914,7 +7923,7 @@
       "remarks": ""
     },
     {
-      "number": "880",
+      "number": "881",
       "code": "6185",
       "name": "康希諾生物",
       "currency": "HKD",
@@ -7923,7 +7932,7 @@
       "remarks": ""
     },
     {
-      "number": "881",
+      "number": "882",
       "code": "6186",
       "name": "中國飛鶴",
       "currency": "HKD",
@@ -7932,7 +7941,7 @@
       "remarks": ""
     },
     {
-      "number": "882",
+      "number": "883",
       "code": "6196",
       "name": "鄭州銀行",
       "currency": "HKD",
@@ -7941,7 +7950,7 @@
       "remarks": ""
     },
     {
-      "number": "883",
+      "number": "884",
       "code": "6198",
       "name": "青島港",
       "currency": "HKD",
@@ -7950,7 +7959,7 @@
       "remarks": ""
     },
     {
-      "number": "884",
+      "number": "885",
       "code": "6199",
       "name": "貴州銀行",
       "currency": "HKD",
@@ -7959,7 +7968,7 @@
       "remarks": ""
     },
     {
-      "number": "885",
+      "number": "886",
       "code": "6603",
       "name": "IFBH",
       "currency": "HKD",
@@ -7968,7 +7977,7 @@
       "remarks": ""
     },
     {
-      "number": "886",
+      "number": "887",
       "code": "6608",
       "name": "百融雲－Ｗ",
       "currency": "HKD",
@@ -7977,7 +7986,7 @@
       "remarks": ""
     },
     {
-      "number": "887",
+      "number": "888",
       "code": "6613",
       "name": "藍思科技",
       "currency": "HKD",
@@ -7986,7 +7995,7 @@
       "remarks": ""
     },
     {
-      "number": "888",
+      "number": "889",
       "code": "6616",
       "name": "環球新材國際",
       "currency": "HKD",
@@ -7995,7 +8004,7 @@
       "remarks": ""
     },
     {
-      "number": "889",
+      "number": "890",
       "code": "6618",
       "name": "京東健康",
       "currency": "HKD",
@@ -8004,7 +8013,7 @@
       "remarks": ""
     },
     {
-      "number": "890",
+      "number": "891",
       "code": "6655",
       "name": "華新建材",
       "currency": "HKD",
@@ -8013,7 +8022,7 @@
       "remarks": ""
     },
     {
-      "number": "891",
+      "number": "892",
       "code": "6657",
       "name": "百望股份",
       "currency": "HKD",
@@ -8022,7 +8031,7 @@
       "remarks": ""
     },
     {
-      "number": "892",
+      "number": "893",
       "code": "6660",
       "name": "艾美疫苗",
       "currency": "HKD",
@@ -8031,7 +8040,7 @@
       "remarks": ""
     },
     {
-      "number": "893",
+      "number": "894",
       "code": "6669",
       "name": "先瑞達醫療－Ｂ",
       "currency": "HKD",
@@ -8040,7 +8049,7 @@
       "remarks": ""
     },
     {
-      "number": "894",
+      "number": "895",
       "code": "6676",
       "name": "找鋼網－Ｗ",
       "currency": "HKD",
@@ -8049,7 +8058,7 @@
       "remarks": ""
     },
     {
-      "number": "895",
+      "number": "896",
       "code": "6680",
       "name": "金力永磁",
       "currency": "HKD",
@@ -8058,7 +8067,7 @@
       "remarks": ""
     },
     {
-      "number": "896",
+      "number": "897",
       "code": "6681",
       "name": "腦動極光－Ｂ",
       "currency": "HKD",
@@ -8067,7 +8076,7 @@
       "remarks": ""
     },
     {
-      "number": "897",
+      "number": "898",
       "code": "6682",
       "name": "範式智能",
       "currency": "HKD",
@@ -8076,7 +8085,7 @@
       "remarks": ""
     },
     {
-      "number": "898",
+      "number": "899",
       "code": "6683",
       "name": "巨星傳奇",
       "currency": "HKD",
@@ -8085,7 +8094,7 @@
       "remarks": ""
     },
     {
-      "number": "899",
+      "number": "900",
       "code": "6686",
       "name": "諾亞控股",
       "currency": "HKD",
@@ -8094,7 +8103,7 @@
       "remarks": ""
     },
     {
-      "number": "900",
+      "number": "901",
       "code": "6690",
       "name": "海爾智家",
       "currency": "HKD",
@@ -8103,7 +8112,7 @@
       "remarks": ""
     },
     {
-      "number": "901",
+      "number": "902",
       "code": "6693",
       "name": "赤峰黃金",
       "currency": "HKD",
@@ -8112,7 +8121,7 @@
       "remarks": ""
     },
     {
-      "number": "902",
+      "number": "903",
       "code": "6699",
       "name": "時代天使",
       "currency": "HKD",
@@ -8121,7 +8130,7 @@
       "remarks": ""
     },
     {
-      "number": "903",
+      "number": "904",
       "code": "6806",
       "name": "申萬宏源",
       "currency": "HKD",
@@ -8130,7 +8139,7 @@
       "remarks": ""
     },
     {
-      "number": "904",
+      "number": "905",
       "code": "6808",
       "name": "高鑫零售",
       "currency": "HKD",
@@ -8139,7 +8148,7 @@
       "remarks": ""
     },
     {
-      "number": "905",
+      "number": "906",
       "code": "6818",
       "name": "中國光大銀行",
       "currency": "HKD",
@@ -8148,7 +8157,7 @@
       "remarks": ""
     },
     {
-      "number": "906",
+      "number": "907",
       "code": "6821",
       "name": "凱萊英",
       "currency": "HKD",
@@ -8157,7 +8166,7 @@
       "remarks": ""
     },
     {
-      "number": "907",
+      "number": "908",
       "code": "6823",
       "name": "香港電訊－ＳＳ",
       "currency": "HKD",
@@ -8166,7 +8175,7 @@
       "remarks": ""
     },
     {
-      "number": "908",
+      "number": "909",
       "code": "6831",
       "name": "綠茶集團",
       "currency": "HKD",
@@ -8175,7 +8184,7 @@
       "remarks": ""
     },
     {
-      "number": "909",
+      "number": "910",
       "code": "6855",
       "name": "亞盛醫藥－Ｂ",
       "currency": "HKD",
@@ -8184,7 +8193,7 @@
       "remarks": ""
     },
     {
-      "number": "910",
+      "number": "911",
       "code": "6862",
       "name": "海底撈",
       "currency": "HKD",
@@ -8193,7 +8202,7 @@
       "remarks": ""
     },
     {
-      "number": "911",
+      "number": "912",
       "code": "6865",
       "name": "福萊特玻璃",
       "currency": "HKD",
@@ -8202,7 +8211,7 @@
       "remarks": ""
     },
     {
-      "number": "912",
+      "number": "913",
       "code": "6869",
       "name": "長飛光纖光纜",
       "currency": "HKD",
@@ -8211,7 +8220,7 @@
       "remarks": ""
     },
     {
-      "number": "913",
+      "number": "914",
       "code": "6881",
       "name": "中國銀河",
       "currency": "HKD",
@@ -8220,7 +8229,7 @@
       "remarks": ""
     },
     {
-      "number": "914",
+      "number": "915",
       "code": "6886",
       "name": "HTSC",
       "currency": "HKD",
@@ -8229,7 +8238,7 @@
       "remarks": ""
     },
     {
-      "number": "915",
+      "number": "916",
       "code": "6887",
       "name": "東陽光藥",
       "currency": "HKD",
@@ -8238,7 +8247,7 @@
       "remarks": ""
     },
     {
-      "number": "916",
+      "number": "917",
       "code": "6936",
       "name": "順豐控股",
       "currency": "HKD",
@@ -8247,7 +8256,7 @@
       "remarks": ""
     },
     {
-      "number": "917",
+      "number": "918",
       "code": "6955",
       "name": "博安生物",
       "currency": "HKD",
@@ -8256,7 +8265,7 @@
       "remarks": ""
     },
     {
-      "number": "918",
+      "number": "919",
       "code": "6960",
       "name": "雙登股份",
       "currency": "HKD",
@@ -8265,7 +8274,7 @@
       "remarks": ""
     },
     {
-      "number": "919",
+      "number": "920",
       "code": "6963",
       "name": "陽光保險",
       "currency": "HKD",
@@ -8274,7 +8283,7 @@
       "remarks": ""
     },
     {
-      "number": "920",
+      "number": "921",
       "code": "6969",
       "name": "思摩爾國際",
       "currency": "HKD",
@@ -8283,7 +8292,7 @@
       "remarks": ""
     },
     {
-      "number": "921",
+      "number": "922",
       "code": "6979",
       "name": "珍酒李渡",
       "currency": "HKD",
@@ -8292,16 +8301,16 @@
       "remarks": ""
     },
     {
-      "number": "922",
+      "number": "923",
       "code": "6990",
       "name": "科倫博泰生物",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
-      "number": "923",
+      "number": "924",
       "code": "6993",
       "name": "藍月亮集團",
       "currency": "HKD",
@@ -8310,7 +8319,7 @@
       "remarks": ""
     },
     {
-      "number": "924",
+      "number": "925",
       "code": "6996",
       "name": "德琪醫藥－Ｂ",
       "currency": "HKD",
@@ -8319,7 +8328,7 @@
       "remarks": ""
     },
     {
-      "number": "925",
+      "number": "926",
       "code": "6998",
       "name": "億騰嘉和",
       "currency": "HKD",
@@ -8328,7 +8337,7 @@
       "remarks": ""
     },
     {
-      "number": "926",
+      "number": "927",
       "code": "7200",
       "name": "ＦＬ二南方恒指",
       "currency": "HKD",
@@ -8337,7 +8346,7 @@
       "remarks": ""
     },
     {
-      "number": "927",
+      "number": "928",
       "code": "7226",
       "name": "ＸＬ二南方恒科",
       "currency": "HKD",
@@ -8346,7 +8355,7 @@
       "remarks": ""
     },
     {
-      "number": "928",
+      "number": "929",
       "code": "7233",
       "name": "ＸＬ二南方滬深三",
       "currency": "HKD",
@@ -8355,7 +8364,7 @@
       "remarks": ""
     },
     {
-      "number": "929",
+      "number": "930",
       "code": "7234",
       "name": "ＸＬ二博時中創業",
       "currency": "HKD",
@@ -8364,7 +8373,7 @@
       "remarks": ""
     },
     {
-      "number": "930",
+      "number": "931",
       "code": "7261",
       "name": "ＦＬ二華夏納一百",
       "currency": "HKD",
@@ -8373,7 +8382,7 @@
       "remarks": ""
     },
     {
-      "number": "931",
+      "number": "932",
       "code": "7262",
       "name": "ＦＬ二南方日經",
       "currency": "HKD",
@@ -8382,7 +8391,7 @@
       "remarks": ""
     },
     {
-      "number": "932",
+      "number": "933",
       "code": "7266",
       "name": "ＦＬ二南方納指",
       "currency": "HKD",
@@ -8391,7 +8400,7 @@
       "remarks": ""
     },
     {
-      "number": "933",
+      "number": "934",
       "code": "7288",
       "name": "ＦＬ二南方國指",
       "currency": "HKD",
@@ -8400,7 +8409,7 @@
       "remarks": ""
     },
     {
-      "number": "934",
+      "number": "935",
       "code": "7299",
       "name": "ＦＬ二南方黃金",
       "currency": "HKD",
@@ -8409,7 +8418,7 @@
       "remarks": ""
     },
     {
-      "number": "935",
+      "number": "936",
       "code": "7300",
       "name": "ＦＩ南方恒指",
       "currency": "HKD",
@@ -8418,7 +8427,7 @@
       "remarks": ""
     },
     {
-      "number": "936",
+      "number": "937",
       "code": "7311",
       "name": "ＸＩ二南ＣＯ",
       "currency": "HKD",
@@ -8427,7 +8436,7 @@
       "remarks": ""
     },
     {
-      "number": "937",
+      "number": "938",
       "code": "7347",
       "name": "ＸＩ二南三星",
       "currency": "HKD",
@@ -8436,7 +8445,7 @@
       "remarks": ""
     },
     {
-      "number": "938",
+      "number": "939",
       "code": "7366",
       "name": "ＸＩ二南特斯",
       "currency": "HKD",
@@ -8445,7 +8454,7 @@
       "remarks": ""
     },
     {
-      "number": "939",
+      "number": "940",
       "code": "7376",
       "name": "ＦＩ南方比特幣",
       "currency": "HKD",
@@ -8454,7 +8463,7 @@
       "remarks": ""
     },
     {
-      "number": "940",
+      "number": "941",
       "code": "7388",
       "name": "ＸＩ二南英偉",
       "currency": "HKD",
@@ -8463,7 +8472,7 @@
       "remarks": ""
     },
     {
-      "number": "941",
+      "number": "942",
       "code": "7399",
       "name": "ＸＩ二南策略",
       "currency": "HKD",
@@ -8472,7 +8481,7 @@
       "remarks": ""
     },
     {
-      "number": "942",
+      "number": "943",
       "code": "7500",
       "name": "ＦＩ二南方恒指",
       "currency": "HKD",
@@ -8481,7 +8490,7 @@
       "remarks": ""
     },
     {
-      "number": "943",
+      "number": "944",
       "code": "7515",
       "name": "ＦＩ二南方日經",
       "currency": "HKD",
@@ -8490,7 +8499,7 @@
       "remarks": ""
     },
     {
-      "number": "944",
+      "number": "945",
       "code": "7522",
       "name": "ＦＩ二華夏納一百",
       "currency": "HKD",
@@ -8499,7 +8508,7 @@
       "remarks": ""
     },
     {
-      "number": "945",
+      "number": "946",
       "code": "7552",
       "name": "ＸＩ二南方恒科",
       "currency": "HKD",
@@ -8508,7 +8517,7 @@
       "remarks": ""
     },
     {
-      "number": "946",
+      "number": "947",
       "code": "7568",
       "name": "ＦＩ二南方納指",
       "currency": "HKD",
@@ -8517,7 +8526,7 @@
       "remarks": ""
     },
     {
-      "number": "947",
+      "number": "948",
       "code": "7588",
       "name": "ＦＩ二南方國指",
       "currency": "HKD",
@@ -8526,7 +8535,7 @@
       "remarks": ""
     },
     {
-      "number": "948",
+      "number": "949",
       "code": "7618",
       "name": "京東工業",
       "currency": "HKD",
@@ -8535,7 +8544,7 @@
       "remarks": ""
     },
     {
-      "number": "949",
+      "number": "950",
       "code": "7709",
       "name": "ＸＬ二南方海力士",
       "currency": "HKD",
@@ -8544,7 +8553,7 @@
       "remarks": ""
     },
     {
-      "number": "950",
+      "number": "951",
       "code": "7711",
       "name": "ＸＬ二南ＣＯ",
       "currency": "HKD",
@@ -8553,7 +8562,7 @@
       "remarks": ""
     },
     {
-      "number": "951",
+      "number": "952",
       "code": "7747",
       "name": "ＸＬ二南三星",
       "currency": "HKD",
@@ -8562,7 +8571,7 @@
       "remarks": ""
     },
     {
-      "number": "952",
+      "number": "953",
       "code": "7766",
       "name": "ＸＬ二南特斯",
       "currency": "HKD",
@@ -8571,7 +8580,7 @@
       "remarks": ""
     },
     {
-      "number": "953",
+      "number": "954",
       "code": "7777",
       "name": "ＸＬ二南巴郡",
       "currency": "HKD",
@@ -8580,7 +8589,7 @@
       "remarks": ""
     },
     {
-      "number": "954",
+      "number": "955",
       "code": "7788",
       "name": "ＸＬ二南英偉",
       "currency": "HKD",
@@ -8589,7 +8598,7 @@
       "remarks": ""
     },
     {
-      "number": "955",
+      "number": "956",
       "code": "7799",
       "name": "ＸＬ二南策略",
       "currency": "HKD",
@@ -8598,18 +8607,9 @@
       "remarks": ""
     },
     {
-      "number": "956",
+      "number": "957",
       "code": "8030",
       "name": "豐銀禾控股",
-      "currency": "HKD",
-      "type": "股本證券",
-      "exempt": "",
-      "remarks": ""
-    },
-    {
-      "number": "957",
-      "code": "8083",
-      "name": "有贊",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
@@ -10803,5 +10803,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-04-16T01:39:53.593552"
+  "fetched_at": "2026-04-16T09:40:26.310127"
 }

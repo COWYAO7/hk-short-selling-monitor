@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-04-17",
+    "timestamp": "2026-04-16T09:40:26.312885",
+    "old_total": 1200,
+    "new_total": 1200,
+    "net_change": 0,
+    "added": [
+      {
+        "number": "861",
+        "code": "6051",
+        "name": "有贊",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": [
+      {
+        "number": "957",
+        "code": "8083",
+        "name": "有贊",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-03-31",
     "timestamp": "2026-03-30T10:23:36.177280",
     "old_total": 1198,
