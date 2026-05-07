@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-05-08",
+    "timestamp": "2026-05-07T09:56:39.641783",
+    "old_total": 1201,
+    "new_total": 1203,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "807",
+        "code": "3519",
+        "name": "Ａ恒生國指備兌",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "809",
+        "code": "3589",
+        "name": "Ａ恒生科技備兌",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-04-21",
     "timestamp": "2026-04-20T09:44:33.337917",
     "old_total": 1200,

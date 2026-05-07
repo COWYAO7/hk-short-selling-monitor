@@ -1,19 +1,26 @@
 {
-  "last_update": "2026-04-21",
-  "current_total": 1201,
-  "total_changes": 23,
+  "last_update": "2026-05-08",
+  "current_total": 1203,
+  "total_changes": 24,
   "update_frequency": {
+    "2026-05": 1,
     "2026-04": 2,
     "2026-03": 11,
     "2026-02": 5,
     "2026-01": 5
   },
   "currency_distribution": {
-    "HKD": 1016,
+    "HKD": 1018,
     "USD": 101,
     "CNY": 84
   },
   "recent_changes": [
+    {
+      "date": "2026-05-08",
+      "added_count": 2,
+      "removed_count": 0,
+      "net_change": 2
+    },
     {
       "date": "2026-04-21",
       "added_count": 1,
@@ -67,12 +74,6 @@
       "added_count": 0,
       "removed_count": 1,
       "net_change": -1
-    },
-    {
-      "date": "2026-03-18",
-      "added_count": 3,
-      "removed_count": 0,
-      "net_change": 3
     }
   ]
 }
