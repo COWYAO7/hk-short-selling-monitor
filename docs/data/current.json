@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-11",
   "total": 1203,
   "stocks": [
     {
@@ -3821,11 +3821,11 @@
     {
       "number": "425",
       "code": "2157",
-      "name": "樂普生物－Ｂ",
+      "name": "樂普生物",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "426",
@@ -7263,7 +7263,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "808",
@@ -7281,7 +7281,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "810",
@@ -10830,5 +10830,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-05-08T01:41:57.306070"
+  "fetched_at": "2026-05-08T09:42:21.685265"
 }
