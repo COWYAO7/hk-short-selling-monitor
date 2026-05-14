@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-05-15",
+    "timestamp": "2026-05-14T09:53:50.891792",
+    "old_total": 1203,
+    "new_total": 1206,
+    "net_change": 3,
+    "added": [
+      {
+        "number": "783",
+        "code": "3444",
+        "name": "恒生香港股票",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "809",
+        "code": "3533",
+        "name": "ＸＡＧＸ金兌",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1122",
+        "code": "41533",
+        "name": "ＸＡＧＸ金兌－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-05-08",
     "timestamp": "2026-05-07T09:56:39.641783",
     "old_total": 1201,
