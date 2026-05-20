@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-20",
+    "timestamp": "2026-05-20T10:13:23.220945",
+    "old_total": 1206,
+    "new_total": 1205,
+    "net_change": -1,
+    "added": [],
+    "removed": [
+      {
+        "number": "709",
+        "code": "3172",
+        "name": "Ａ三星亞太元宇宙",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-05-15",
     "timestamp": "2026-05-14T09:53:50.891792",
     "old_total": 1203,
