@@ -1,6 +1,53 @@
 [
   {
     "date": "2026-05-29",
+    "timestamp": "2026-05-28T10:31:52.349392",
+    "old_total": 1224,
+    "new_total": 1226,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "775",
+        "code": "3418",
+        "name": "華夏數字黃金",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1211",
+        "code": "83418",
+        "name": "華夏數字黃金－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1039",
+        "code": "9418",
+        "name": "華夏數字黃金－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": [
+      {
+        "number": "643",
+        "code": "3021",
+        "name": "富邦富時台灣",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-05-29",
     "timestamp": "2026-05-22T10:11:14.729401",
     "old_total": 1205,
     "new_total": 1224,
