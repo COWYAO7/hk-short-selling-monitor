@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-08",
   "total": 1226,
   "stocks": [
     {
@@ -2669,11 +2669,11 @@
     {
       "number": "297",
       "code": "1347",
-      "name": "華虹半導體",
+      "name": "華虹宏力",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "298",
@@ -8406,7 +8406,7 @@
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
       "number": "935",
@@ -11037,5 +11037,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-06-05T01:49:15.779621"
+  "fetched_at": "2026-06-05T10:26:54.304700"
 }
