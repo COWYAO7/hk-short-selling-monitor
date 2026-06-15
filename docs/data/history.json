@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-06-18",
+    "timestamp": "2026-06-15T11:16:06.825049",
+    "old_total": 1226,
+    "new_total": 1228,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "380",
+        "code": "1879",
+        "name": "曦智科技－Ｐ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "501",
+        "code": "2476",
+        "name": "勝宏科技",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-05-29",
     "timestamp": "2026-05-28T10:31:52.349392",
     "old_total": 1224,
