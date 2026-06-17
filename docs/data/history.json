@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-06-18",
+    "timestamp": "2026-06-17T10:40:47.636999",
+    "old_total": 1228,
+    "new_total": 1229,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "696",
+        "code": "3121",
+        "name": "南方ＫＯＳＰＩ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
+    "date": "2026-06-18",
     "timestamp": "2026-06-15T11:16:06.825049",
     "old_total": 1226,
     "new_total": 1228,
