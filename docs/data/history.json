@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-06-23",
+    "timestamp": "2026-06-22T11:06:26.909499",
+    "old_total": 1229,
+    "new_total": 1231,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "826",
+        "code": "3509",
+        "name": "易方達ＭＰＦＡ股",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "830",
+        "code": "3579",
+        "name": "易方達ＭＰＦ港股",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-06-18",
     "timestamp": "2026-06-17T10:40:47.636999",
     "old_total": 1228,
