@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-26",
+    "timestamp": "2026-06-25T10:08:15.488928",
+    "old_total": 1231,
+    "new_total": 1232,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "809",
+        "code": "3456",
+        "name": "易 方 達 港 交 所 科 技",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-06-23",
     "timestamp": "2026-06-22T11:06:26.909499",
     "old_total": 1229,
