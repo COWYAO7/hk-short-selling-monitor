@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-30",
   "total": 1232,
   "stocks": [
     {
@@ -7281,7 +7281,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "810",
@@ -10310,11 +10310,11 @@
     {
       "number": "1146",
       "code": "9999",
-      "name": "網易－Ｓ",
+      "name": "網易",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "1147",
@@ -11091,5 +11091,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-06-29T01:50:05.283655"
+  "fetched_at": "2026-06-29T10:43:44.945056"
 }
