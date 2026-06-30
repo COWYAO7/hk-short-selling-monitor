@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-06-30",
+    "timestamp": "2026-06-30T13:39:30.062534",
+    "old_total": 1232,
+    "new_total": 1232,
+    "net_change": 0,
+    "added": [
+      {
+        "number": "850",
+        "code": "3774",
+        "name": "亮晴控股",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "由GEM轉往主板上市"
+      }
+    ],
+    "removed": [
+      {
+        "number": "989",
+        "code": "8603",
+        "name": "亮晴控股",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "timestamp": "2026-06-25T10:08:15.488928",
     "old_total": 1231,
