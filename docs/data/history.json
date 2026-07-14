@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-15",
+    "timestamp": "2026-07-14T09:40:40.054729",
+    "old_total": 1233,
+    "new_total": 1232,
+    "net_change": -1,
+    "added": [],
+    "removed": [
+      {
+        "number": "1036",
+        "code": "9347",
+        "name": "ＸＩ二南三星－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "timestamp": "2026-07-07T12:03:03.693782",
     "old_total": 1232,
