@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-27",
   "total": 1232,
   "stocks": [
     {
@@ -356,11 +356,11 @@
     {
       "number": "40",
       "code": "108",
-      "name": "國銳生活",
+      "name": "春雨醫療",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "41",
@@ -4617,7 +4617,7 @@
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": "更改證券簡稱"
+      "remarks": ""
     },
     {
       "number": "514",
@@ -7286,7 +7286,7 @@
     {
       "number": "810",
       "code": "3456",
-      "name": "易 方 達 港 交 所 科 技",
+      "name": "易方達港交所科技",
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
@@ -11091,5 +11091,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-07-24T01:38:23.455894"
+  "fetched_at": "2026-07-24T09:51:57.130751"
 }
