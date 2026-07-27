@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-30",
+    "timestamp": "2026-07-27T10:24:14.175576",
+    "old_total": 1232,
+    "new_total": 1233,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "749",
+        "code": "3308",
+        "name": "中際旭創",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-07-15",
     "timestamp": "2026-07-14T09:40:40.054729",
     "old_total": 1233,
