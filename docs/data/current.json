@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-05",
   "total": 1234,
   "stocks": [
     {
@@ -2813,11 +2813,11 @@
     {
       "number": "313",
       "code": "1432",
-      "name": "中國聖牧",
+      "name": "中國聖牧－ＰＦ",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "314",
@@ -7497,7 +7497,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "834",
@@ -11109,5 +11109,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-08-04T01:38:21.896374"
+  "fetched_at": "2026-08-04T09:57:18.311134"
 }
