@@ -1,6 +1,43 @@
 [
   {
     "date": "2026-08-21",
+    "timestamp": "2026-08-19T09:41:43.950301",
+    "old_total": 1235,
+    "new_total": 1238,
+    "net_change": 3,
+    "added": [
+      {
+        "number": "834",
+        "code": "3555",
+        "name": "ＡＧＸ恒息增",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "1152",
+        "code": "41555",
+        "name": "ＡＧＸ恒息增－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "1232",
+        "code": "83555",
+        "name": "ＡＧＸ恒息增－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "",
+        "remarks": ""
+      }
+    ],
+    "removed": []
+  },
+  {
+    "date": "2026-08-21",
     "timestamp": "2026-08-14T10:10:54.735074",
     "old_total": 1234,
     "new_total": 1235,
