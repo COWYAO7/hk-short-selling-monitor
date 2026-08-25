@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-26",
+    "timestamp": "2026-08-25T09:42:10.172693",
+    "old_total": 1238,
+    "new_total": 1240,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "634",
+        "code": "3002",
+        "name": "ＡＭＢＣ比金",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "997",
+        "code": "9002",
+        "name": "ＡＭＢＣ比金－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-08-21",
     "timestamp": "2026-08-19T09:41:43.950301",
     "old_total": 1235,
