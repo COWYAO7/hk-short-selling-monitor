@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-01",
+    "timestamp": "2026-08-28T12:34:47.274569",
+    "old_total": 1240,
+    "new_total": 1241,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "143",
+        "code": "625",
+        "name": "希音－Ｗ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-08-26",
     "timestamp": "2026-08-25T09:42:10.172693",
     "old_total": 1238,
