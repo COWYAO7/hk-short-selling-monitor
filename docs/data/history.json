@@ -1,5 +1,799 @@
 [
   {
+    "date": "2026-09-11",
+    "timestamp": "2026-09-04T13:23:27.441818",
+    "old_total": 1241,
+    "new_total": 1232,
+    "net_change": -9,
+    "added": [
+      {
+        "number": "223",
+        "code": "1009",
+        "name": "國際娛樂",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "224",
+        "code": "1021",
+        "name": "華沿機器人",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "265",
+        "code": "1205",
+        "name": "中信資源",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "54",
+        "code": "167",
+        "name": "IDT INT'L",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "335",
+        "code": "1688",
+        "name": "領益智造",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "341",
+        "code": "1757",
+        "name": "環球華商俱樂部",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "59",
+        "code": "178",
+        "name": "莎莎國際",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "369",
+        "code": "1875",
+        "name": "東曜藥業－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "391",
+        "code": "1956",
+        "name": "中科聞歌",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "431",
+        "code": "2179",
+        "name": "瑞科生物－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "488",
+        "code": "2465",
+        "name": "龍蟠科技",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "503",
+        "code": "2526",
+        "name": "德適－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "510",
+        "code": "2570",
+        "name": "重塑能源",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "517",
+        "code": "2586",
+        "name": "多點數智",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "544",
+        "code": "2650",
+        "name": "摯達科技",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "549",
+        "code": "2665",
+        "name": "圖達通",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "553",
+        "code": "2675",
+        "name": "精鋒醫療－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "562",
+        "code": "2706",
+        "name": "海致科技集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "566",
+        "code": "2723",
+        "name": "深演智能",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "567",
+        "code": "2726",
+        "name": "瀚天天成",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "738",
+        "code": "3296",
+        "name": "華勤技術",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "741",
+        "code": "3310",
+        "name": "雲英谷科技",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "754",
+        "code": "3355",
+        "name": "飛速創新",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "836",
+        "code": "3680",
+        "name": "瑞和數智",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "852",
+        "code": "3881",
+        "name": "希迪智駕",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "853",
+        "code": "3887",
+        "name": "HASHKEY HLDGS",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "910",
+        "code": "6636",
+        "name": "極視角",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "914",
+        "code": "6658",
+        "name": "溜溜梅",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "30",
+        "code": "68",
+        "name": "MANYCORE TECH",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "927",
+        "code": "6810",
+        "name": "商米科技－Ｗ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "941",
+        "code": "6938",
+        "name": "瑞博生物－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "942",
+        "code": "6960",
+        "name": "雙登股份",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "966",
+        "code": "7489",
+        "name": "嵐圖汽車",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "974",
+        "code": "7666",
+        "name": "劑泰科技－Ｐ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "983",
+        "code": "8148",
+        "name": "悟喜生活",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "200",
+        "code": "901",
+        "name": "華曦達",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "1110",
+        "code": "9878",
+        "name": "匯通達網絡",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "1117",
+        "code": "9893",
+        "name": "比優集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "1129",
+        "code": "9936",
+        "name": "稀美資源",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": "加入"
+      }
+    ],
+    "removed": [
+      {
+        "number": "235",
+        "code": "1045",
+        "name": "亞太衛星",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "240",
+        "code": "1057",
+        "name": "浙江世寶",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "257",
+        "code": "1121",
+        "name": "金陽新能源",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "262",
+        "code": "1142",
+        "name": "能源及能量環球",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "283",
+        "code": "1280",
+        "name": "奇點國峰",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "312",
+        "code": "1426",
+        "name": "春泉產業信託",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "339",
+        "code": "1660",
+        "name": "七元投資",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "356",
+        "code": "1782",
+        "name": "國際商業數字技術",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "375",
+        "code": "1858",
+        "name": "春立醫療",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "444",
+        "code": "2197",
+        "name": "三葉草生物－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "475",
+        "code": "2339",
+        "name": "京西國際",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "490",
+        "code": "2410",
+        "name": "同源康醫藥－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "495",
+        "code": "2431",
+        "name": "佑駕創新",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "497",
+        "code": "2443",
+        "name": "汽車街",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "500",
+        "code": "2469",
+        "name": "粉筆",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "501",
+        "code": "2473",
+        "name": "喜相逢集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "504",
+        "code": "2477",
+        "name": "經緯天地",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "505",
+        "code": "2480",
+        "name": "綠竹生物－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "519",
+        "code": "2535",
+        "name": "泓基集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "523",
+        "code": "2558",
+        "name": "晉商銀行",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "530",
+        "code": "2582",
+        "name": "國富氫能",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "533",
+        "code": "2587",
+        "name": "健康之路",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "563",
+        "code": "2657",
+        "name": "林清軒",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "574",
+        "code": "2691",
+        "name": "南華期貨股份",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "765",
+        "code": "3369",
+        "name": "秦港股份",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "767",
+        "code": "3382",
+        "name": "天津港發展",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "95",
+        "code": "357",
+        "name": "美蘭空港",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "846",
+        "code": "3669",
+        "name": "永達汽車",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "856",
+        "code": "3774",
+        "name": "亮晴控股",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "860",
+        "code": "3833",
+        "name": "新疆新鑫礦業",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "110",
+        "code": "434",
+        "name": "博雅互動",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "129",
+        "code": "558",
+        "name": "力勁科技",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "140",
+        "code": "600",
+        "name": "愛芯元智",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "896",
+        "code": "6051",
+        "name": "有贊",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "904",
+        "code": "6090",
+        "name": "不同集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "912",
+        "code": "6169",
+        "name": "宇華教育",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "921",
+        "code": "6608",
+        "name": "百融智能－Ｗ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "928",
+        "code": "6657",
+        "name": "百望股份",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "929",
+        "code": "6660",
+        "name": "艾美疫苗",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "932",
+        "code": "6681",
+        "name": "腦動極光－Ｂ",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "956",
+        "code": "6955",
+        "name": "博安生物",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "163",
+        "code": "719",
+        "name": "山東新華製藥股份",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "166",
+        "code": "746",
+        "name": "理文化工",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "170",
+        "code": "754",
+        "name": "合生創展集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "185",
+        "code": "815",
+        "name": "中國白銀集團",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "206",
+        "code": "909",
+        "name": "明源雲",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "212",
+        "code": "933",
+        "name": "非凡領越",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      },
+      {
+        "number": "1134",
+        "code": "9922",
+        "name": "九毛九",
+        "currency": "HKD",
+        "type": "股本證券",
+        "exempt": "",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "timestamp": "2026-08-28T12:34:47.274569",
     "old_total": 1240,
