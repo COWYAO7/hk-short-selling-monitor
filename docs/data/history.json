@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-09-15",
+    "timestamp": "2026-09-14T15:51:01.661961",
+    "old_total": 1232,
+    "new_total": 1236,
+    "net_change": 4,
+    "added": [
+      {
+        "number": "634",
+        "code": "3014",
+        "name": "ＧＸ銅礦產業",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "765",
+        "code": "3408",
+        "name": "GX KOSPI 200",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "994",
+        "code": "9014",
+        "name": "ＧＸ銅礦產業－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1041",
+        "code": "9408",
+        "name": "GX KOSPI 200-U",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-09-11",
     "timestamp": "2026-09-04T13:23:27.441818",
     "old_total": 1241,
