@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-17",
+    "timestamp": "2026-09-16T14:08:41.644763",
+    "old_total": 1236,
+    "new_total": 1237,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "822",
+        "code": "3499",
+        "name": "南方ＡＩ瓶頸",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-09-15",
     "timestamp": "2026-09-14T15:51:01.661961",
     "old_total": 1232,
