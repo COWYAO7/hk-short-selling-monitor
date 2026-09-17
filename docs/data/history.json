@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-09-18",
+    "timestamp": "2026-09-17T14:14:01.465877",
+    "old_total": 1237,
+    "new_total": 1227,
+    "net_change": -10,
+    "added": [],
+    "removed": [
+      {
+        "number": "1035",
+        "code": "9311",
+        "name": "ＸＩ二南ＣＯ－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1036",
+        "code": "9366",
+        "name": "ＸＩ二南特斯－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1037",
+        "code": "9388",
+        "name": "ＸＩ二南英偉－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1038",
+        "code": "9399",
+        "name": "ＸＩ二南策略－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1082",
+        "code": "9711",
+        "name": "ＸＬ二南ＣＯ－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1083",
+        "code": "9747",
+        "name": "ＸＬ二南三星－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1084",
+        "code": "9766",
+        "name": "ＸＬ二南特斯－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1085",
+        "code": "9777",
+        "name": "ＸＬ二南巴郡－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1086",
+        "code": "9788",
+        "name": "ＸＬ二南英偉－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1087",
+        "code": "9799",
+        "name": "ＸＬ二南策略－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "timestamp": "2026-09-16T14:08:41.644763",
     "old_total": 1236,
