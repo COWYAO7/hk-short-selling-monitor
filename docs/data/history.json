@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-21",
+    "timestamp": "2026-09-18T13:32:16.062302",
+    "old_total": 1227,
+    "new_total": 1226,
+    "net_change": -1,
+    "added": [],
+    "removed": [
+      {
+        "number": "1202",
+        "code": "83168",
+        "name": "恒生人幣金ＥＴＦ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "timestamp": "2026-09-17T14:14:01.465877",
     "old_total": 1237,

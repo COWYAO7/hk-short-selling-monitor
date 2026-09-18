@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "total": 1227,
+  "date": "2026-09-21",
+  "total": 1226,
   "stocks": [
     {
       "number": "1",
@@ -7313,11 +7313,11 @@
     {
       "number": "813",
       "code": "3473",
-      "name": "南方亞洲科技",
+      "name": "南方亞洲科技股息",
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "814",
@@ -10813,15 +10813,6 @@
     },
     {
       "number": "1202",
-      "code": "83168",
-      "name": "恒生人幣金ＥＴＦ",
-      "currency": "CNY",
-      "type": "基金",
-      "exempt": "是",
-      "remarks": ""
-    },
-    {
-      "number": "1203",
       "code": "83188",
       "name": "華夏滬深三百－Ｒ",
       "currency": "CNY",
@@ -10830,7 +10821,7 @@
       "remarks": ""
     },
     {
-      "number": "1204",
+      "number": "1203",
       "code": "83189",
       "name": "易方達白酒－Ｒ",
       "currency": "CNY",
@@ -10839,7 +10830,7 @@
       "remarks": ""
     },
     {
-      "number": "1205",
+      "number": "1204",
       "code": "83192",
       "name": "Ａ博時人民幣－Ｒ",
       "currency": "CNY",
@@ -10848,7 +10839,7 @@
       "remarks": ""
     },
     {
-      "number": "1206",
+      "number": "1205",
       "code": "83196",
       "name": "Ａ博時美元－Ｒ",
       "currency": "CNY",
@@ -10857,7 +10848,7 @@
       "remarks": ""
     },
     {
-      "number": "1207",
+      "number": "1206",
       "code": "83199",
       "name": "工銀南方國債－Ｒ",
       "currency": "CNY",
@@ -10866,7 +10857,7 @@
       "remarks": ""
     },
     {
-      "number": "1208",
+      "number": "1207",
       "code": "83403",
       "name": "華夏恒ＥＳＧ－Ｒ",
       "currency": "CNY",
@@ -10875,7 +10866,7 @@
       "remarks": ""
     },
     {
-      "number": "1209",
+      "number": "1208",
       "code": "83404",
       "name": "華夏印度－Ｒ",
       "currency": "CNY",
@@ -10884,7 +10875,7 @@
       "remarks": ""
     },
     {
-      "number": "1210",
+      "number": "1209",
       "code": "83416",
       "name": "ＡＧＸ國指兌－Ｒ",
       "currency": "CNY",
@@ -10893,7 +10884,7 @@
       "remarks": ""
     },
     {
-      "number": "1211",
+      "number": "1210",
       "code": "83418",
       "name": "華夏數字黃金－Ｒ",
       "currency": "CNY",
@@ -10902,7 +10893,7 @@
       "remarks": ""
     },
     {
-      "number": "1212",
+      "number": "1211",
       "code": "83420",
       "name": "Ａ惠理人民幣－Ｒ",
       "currency": "CNY",
@@ -10911,7 +10902,7 @@
       "remarks": ""
     },
     {
-      "number": "1213",
+      "number": "1212",
       "code": "83428",
       "name": "ＧＸ國壽港美－Ｒ",
       "currency": "CNY",
@@ -10920,7 +10911,7 @@
       "remarks": ""
     },
     {
-      "number": "1214",
+      "number": "1213",
       "code": "83434",
       "name": "易方達數科－Ｒ",
       "currency": "CNY",
@@ -10929,7 +10920,7 @@
       "remarks": ""
     },
     {
-      "number": "1215",
+      "number": "1214",
       "code": "83437",
       "name": "博時央企紅利－Ｒ",
       "currency": "CNY",
@@ -10938,7 +10929,7 @@
       "remarks": ""
     },
     {
-      "number": "1216",
+      "number": "1215",
       "code": "83455",
       "name": "景順ＱＱＱ－Ｒ",
       "currency": "CNY",
@@ -10947,7 +10938,7 @@
       "remarks": ""
     },
     {
-      "number": "1217",
+      "number": "1216",
       "code": "83460",
       "name": "華夏ＳＯＬ－Ｒ",
       "currency": "CNY",
@@ -10956,7 +10947,7 @@
       "remarks": ""
     },
     {
-      "number": "1218",
+      "number": "1217",
       "code": "83461",
       "name": "Ａ華夏人幣數－Ｒ",
       "currency": "CNY",
@@ -10965,7 +10956,7 @@
       "remarks": ""
     },
     {
-      "number": "1219",
+      "number": "1218",
       "code": "83483",
       "name": "易方達高股息－Ｒ",
       "currency": "CNY",
@@ -10974,7 +10965,7 @@
       "remarks": ""
     },
     {
-      "number": "1220",
+      "number": "1219",
       "code": "83489",
       "name": "易方達ＡＩ－Ｒ",
       "currency": "CNY",
@@ -10983,7 +10974,7 @@
       "remarks": ""
     },
     {
-      "number": "1221",
+      "number": "1220",
       "code": "83555",
       "name": "ＡＧＸ恒息增－Ｒ",
       "currency": "CNY",
@@ -10992,7 +10983,7 @@
       "remarks": ""
     },
     {
-      "number": "1222",
+      "number": "1221",
       "code": "83690",
       "name": "美團－ＷＲ",
       "currency": "CNY",
@@ -11001,7 +10992,7 @@
       "remarks": ""
     },
     {
-      "number": "1223",
+      "number": "1222",
       "code": "86618",
       "name": "京東健康－Ｒ",
       "currency": "CNY",
@@ -11010,7 +11001,7 @@
       "remarks": ""
     },
     {
-      "number": "1224",
+      "number": "1223",
       "code": "87001",
       "name": "匯賢產業信託",
       "currency": "CNY",
@@ -11019,7 +11010,7 @@
       "remarks": ""
     },
     {
-      "number": "1225",
+      "number": "1224",
       "code": "89618",
       "name": "京東集團－ＳＷＲ",
       "currency": "CNY",
@@ -11028,7 +11019,7 @@
       "remarks": ""
     },
     {
-      "number": "1226",
+      "number": "1225",
       "code": "89888",
       "name": "百度集團－ＷＲ",
       "currency": "CNY",
@@ -11037,7 +11028,7 @@
       "remarks": ""
     },
     {
-      "number": "1227",
+      "number": "1226",
       "code": "89988",
       "name": "阿里巴巴－ＷＲ",
       "currency": "CNY",
@@ -11046,5 +11037,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-09-18T05:38:11.015932"
+  "fetched_at": "2026-09-18T13:32:16.060837"
 }
