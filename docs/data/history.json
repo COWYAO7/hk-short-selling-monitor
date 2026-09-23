@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-24",
+    "timestamp": "2026-09-23T14:10:51.770583",
+    "old_total": 1226,
+    "new_total": 1227,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "824",
+        "code": "3516",
+        "name": "博時港韓半導體",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-09-21",
     "timestamp": "2026-09-18T13:32:16.062302",
     "old_total": 1227,
