@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-25",
+    "timestamp": "2026-09-24T14:09:04.087155",
+    "old_total": 1227,
+    "new_total": 1229,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "583",
+        "code": "2811",
+        "name": "Ａ惠理光通訊",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "705",
+        "code": "3149",
+        "name": "南方先鋒科技",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-09-24",
     "timestamp": "2026-09-23T14:10:51.770583",
     "old_total": 1226,
