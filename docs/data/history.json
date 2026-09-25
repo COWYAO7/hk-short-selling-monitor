@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-09-28",
+    "timestamp": "2026-09-25T14:32:44.975260",
+    "old_total": 1229,
+    "new_total": 1245,
+    "net_change": 16,
+    "added": [
+      {
+        "number": "675",
+        "code": "3093",
+        "name": "ＦＧ機器人",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "703",
+        "code": "3143",
+        "name": "大成銀河港馬大型",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "740",
+        "code": "3197",
+        "name": "國泰海通資源",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "796",
+        "code": "3438",
+        "name": "恒生ＡＩ　ＥＴＦ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "836",
+        "code": "3566",
+        "name": "廣發全球金屬",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "837",
+        "code": "3569",
+        "name": "華泰盈科港韓半導",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "839",
+        "code": "3585",
+        "name": "國泰海通科技",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "841",
+        "code": "3599",
+        "name": "廣發港美科技",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1154",
+        "code": "41566",
+        "name": "廣發全球金屬－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1155",
+        "code": "41585",
+        "name": "國泰海通科技－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1156",
+        "code": "41599",
+        "name": "廣發港美科技－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1221",
+        "code": "83197",
+        "name": "國泰海通資源－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1237",
+        "code": "83566",
+        "name": "廣發全球金屬－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1238",
+        "code": "83585",
+        "name": "國泰海通科技－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1239",
+        "code": "83599",
+        "name": "廣發港美科技－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1046",
+        "code": "9197",
+        "name": "國泰海通資源－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-09-25",
     "timestamp": "2026-09-24T14:09:04.087155",
     "old_total": 1227,
