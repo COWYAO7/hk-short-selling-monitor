@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-09-29",
+    "timestamp": "2026-09-28T17:34:23.188083",
+    "old_total": 1245,
+    "new_total": 1251,
+    "net_change": 6,
+    "added": [
+      {
+        "number": "832",
+        "code": "3520",
+        "name": "華夏港美現金",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "833",
+        "code": "3525",
+        "name": "華夏創新藥",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1154",
+        "code": "41520",
+        "name": "華夏港美現金－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1155",
+        "code": "41525",
+        "name": "華夏創新藥－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1240",
+        "code": "83520",
+        "name": "華夏港美現金－Ｒ",
+        "currency": "RMB",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1241",
+        "code": "83525",
+        "name": "華夏創新藥－Ｒ",
+        "currency": "RMB",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-09-28",
     "timestamp": "2026-09-25T14:32:44.975260",
     "old_total": 1229,
