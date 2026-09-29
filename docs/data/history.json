@@ -1,5 +1,214 @@
 [
   {
+    "date": "2026-09-30",
+    "timestamp": "2026-09-29T15:37:49.180871",
+    "old_total": 1251,
+    "new_total": 1267,
+    "net_change": 16,
+    "added": [
+      {
+        "number": "810",
+        "code": "3459",
+        "name": "華夏香港成長",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "822",
+        "code": "3479",
+        "name": "華夏ＨＡＬＯ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "829",
+        "code": "3500",
+        "name": "平安醫療保健",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "831",
+        "code": "3510",
+        "name": "平安人工智能",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "844",
+        "code": "3587",
+        "name": "工銀全球ＡＩ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "846",
+        "code": "3590",
+        "name": "華夏港高息",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "847",
+        "code": "3592",
+        "name": "華夏港高息Ａ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1161",
+        "code": "41500",
+        "name": "平安醫療保健－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1162",
+        "code": "41510",
+        "name": "平安人工智能－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1169",
+        "code": "41587",
+        "name": "工銀全球ＡＩ－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1170",
+        "code": "41590",
+        "name": "華夏港高息－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1171",
+        "code": "41592",
+        "name": "華夏港高息Ａ－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1247",
+        "code": "83459",
+        "name": "華夏香港成長－Ｒ",
+        "currency": "RMB",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1250",
+        "code": "83479",
+        "name": "華夏ＨＡＬＯ－Ｒ",
+        "currency": "RMB",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1258",
+        "code": "83587",
+        "name": "工銀全球ＡＩ－Ｒ",
+        "currency": "RMB",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1259",
+        "code": "83590",
+        "name": "華夏港高息－Ｒ",
+        "currency": "RMB",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1260",
+        "code": "83592",
+        "name": "華夏港高息Ａ－Ｒ",
+        "currency": "RMB",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1073",
+        "code": "9459",
+        "name": "華夏香港成長－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1078",
+        "code": "9479",
+        "name": "華夏ＨＡＬＯ－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": [
+      {
+        "number": "633",
+        "code": "3011",
+        "name": "Ａ中金美元",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "647",
+        "code": "3038",
+        "name": "恒生Ａ股低碳",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1198",
+        "code": "83038",
+        "name": "恒生Ａ股低碳－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "timestamp": "2026-09-28T17:34:23.188083",
     "old_total": 1245,
