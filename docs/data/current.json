@@ -11220,7 +11220,7 @@
       "number": "1247",
       "code": "83459",
       "name": "華夏香港成長－Ｒ",
-      "currency": "RMB",
+      "currency": "CNY",
       "type": "基金",
       "exempt": "是",
       "remarks": "加入"
@@ -11247,7 +11247,7 @@
       "number": "1250",
       "code": "83479",
       "name": "華夏ＨＡＬＯ－Ｒ",
-      "currency": "RMB",
+      "currency": "CNY",
       "type": "基金",
       "exempt": "是",
       "remarks": "加入"
@@ -11274,7 +11274,7 @@
       "number": "1253",
       "code": "83520",
       "name": "華夏港美現金－Ｒ",
-      "currency": "RMB",
+      "currency": "CNY",
       "type": "基金",
       "exempt": "是",
       "remarks": ""
@@ -11283,7 +11283,7 @@
       "number": "1254",
       "code": "83525",
       "name": "華夏創新藥－Ｒ",
-      "currency": "RMB",
+      "currency": "CNY",
       "type": "基金",
       "exempt": "是",
       "remarks": ""
@@ -11319,7 +11319,7 @@
       "number": "1258",
       "code": "83587",
       "name": "工銀全球ＡＩ－Ｒ",
-      "currency": "RMB",
+      "currency": "CNY",
       "type": "基金",
       "exempt": "是",
       "remarks": "加入"
@@ -11328,7 +11328,7 @@
       "number": "1259",
       "code": "83590",
       "name": "華夏港高息－Ｒ",
-      "currency": "RMB",
+      "currency": "CNY",
       "type": "基金",
       "exempt": "是",
       "remarks": "加入"
@@ -11337,7 +11337,7 @@
       "number": "1260",
       "code": "83592",
       "name": "華夏港高息Ａ－Ｒ",
-      "currency": "RMB",
+      "currency": "CNY",
       "type": "基金",
       "exempt": "是",
       "remarks": "加入"
@@ -11406,5 +11406,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-10-08T07:07:10.204030"
+  "fetched_at": "2026-10-08T16:20:12.949306"
 }
