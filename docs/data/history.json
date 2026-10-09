@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-10-12",
+    "timestamp": "2026-10-09T16:03:43.326754",
+    "old_total": 1267,
+    "new_total": 1263,
+    "net_change": -4,
+    "added": [],
+    "removed": [
+      {
+        "number": "1251",
+        "code": "83483",
+        "name": "易方達高股息－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1252",
+        "code": "83489",
+        "name": "易方達ＡＩ－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1080",
+        "code": "9483",
+        "name": "易方達高股息－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      },
+      {
+        "number": "1081",
+        "code": "9489",
+        "name": "易方達ＡＩ－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "timestamp": "2026-09-29T15:37:49.180871",
     "old_total": 1251,
