@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-13",
+    "timestamp": "2026-10-12T18:52:07.238561",
+    "old_total": 1263,
+    "new_total": 1264,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "601",
+        "code": "2831",
+        "name": "潘渡ＳＯＬ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-10-12",
     "timestamp": "2026-10-09T16:03:43.326754",
     "old_total": 1267,
