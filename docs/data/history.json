@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-20",
+    "timestamp": "2026-10-16T13:52:46.530586",
+    "old_total": 1264,
+    "new_total": 1263,
+    "net_change": -1,
+    "added": [],
+    "removed": [
+      {
+        "number": "785",
+        "code": "3427",
+        "name": "富邦多元資產",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": ""
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "timestamp": "2026-10-12T18:52:07.238561",
     "old_total": 1263,
