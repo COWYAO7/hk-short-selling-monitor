@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-23",
+    "timestamp": "2026-10-22T14:27:19.647544",
+    "old_total": 1263,
+    "new_total": 1265,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "585",
+        "code": "2813",
+        "name": "Ａ惠理ＰＣＢ",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "",
+        "remarks": "加入"
+      },
+      {
+        "number": "839",
+        "code": "3536",
+        "name": "添富中國全球半導",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-10-20",
     "timestamp": "2026-10-16T13:52:46.530586",
     "old_total": 1264,
