@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-06",
+    "timestamp": "2026-11-05T17:16:16.782419",
+    "old_total": 1265,
+    "new_total": 1267,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "842",
+        "code": "3559",
+        "name": "嘉實科創芯片",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1168",
+        "code": "41559",
+        "name": "嘉實科創芯片－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-10-23",
     "timestamp": "2026-10-22T14:27:19.647544",
     "old_total": 1263,
