@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-10",
+    "timestamp": "2026-11-09T19:41:49.918354",
+    "old_total": 1266,
+    "new_total": 1267,
+    "net_change": 1,
+    "added": [
+      {
+        "number": "1002",
+        "code": "7772",
+        "name": "ＸＬＱ南鎧俠",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-11-09",
     "timestamp": "2026-11-06T16:40:56.070136",
     "old_total": 1267,
