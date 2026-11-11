@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-12",
   "total": 1267,
   "stocks": [
     {
@@ -6944,20 +6944,20 @@
     {
       "number": "772",
       "code": "3412",
-      "name": "Ａ都會電子支付",
+      "name": "Ａ滙升電子支付",
       "currency": "HKD",
       "type": "基金",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "773",
       "code": "3413",
-      "name": "Ａ都會人工智能",
+      "name": "Ａ滙升人工智能",
       "currency": "HKD",
       "type": "基金",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "774",
@@ -7052,11 +7052,11 @@
     {
       "number": "784",
       "code": "3426",
-      "name": "Ａ都會ＷＥＢ３",
+      "name": "Ａ滙升ＷＥＢ３",
       "currency": "HKD",
       "type": "基金",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "785",
@@ -9018,7 +9018,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "1003",
@@ -11406,5 +11406,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-11-11T07:34:58.900335"
+  "fetched_at": "2026-11-11T17:00:12.029866"
 }
