@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-20",
+    "timestamp": "2026-11-19T18:07:38.249676",
+    "old_total": 1267,
+    "new_total": 1269,
+    "net_change": 2,
+    "added": [
+      {
+        "number": "841",
+        "code": "3556",
+        "name": "高騰比特幣",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1169",
+        "code": "41556",
+        "name": "高騰比特幣－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-11-10",
     "timestamp": "2026-11-09T19:41:49.918354",
     "old_total": 1266,
