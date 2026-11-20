@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-11-23",
+    "timestamp": "2026-11-20T17:41:03.522628",
+    "old_total": 1269,
+    "new_total": 1272,
+    "net_change": 3,
+    "added": [
+      {
+        "number": "840",
+        "code": "3551",
+        "name": "華夏人民幣債",
+        "currency": "HKD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1169",
+        "code": "41551",
+        "name": "華夏人民幣債－Ｕ",
+        "currency": "USD",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      },
+      {
+        "number": "1259",
+        "code": "83551",
+        "name": "華夏人民幣債－Ｒ",
+        "currency": "CNY",
+        "type": "基金",
+        "exempt": "是",
+        "remarks": "加入"
+      }
+    ],
+    "removed": []
+  },
+  {
     "date": "2026-11-20",
     "timestamp": "2026-11-19T18:07:38.249676",
     "old_total": 1267,
