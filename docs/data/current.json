@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-26",
   "total": 1272,
   "stocks": [
     {
@@ -3047,11 +3047,11 @@
     {
       "number": "339",
       "code": "1735",
-      "name": "中環新能源",
+      "name": "中環智算",
       "currency": "HKD",
       "type": "股本證券",
       "exempt": "",
-      "remarks": ""
+      "remarks": "更改證券簡稱"
     },
     {
       "number": "340",
@@ -7560,7 +7560,7 @@
       "currency": "HKD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "841",
@@ -10521,7 +10521,7 @@
       "currency": "USD",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "1170",
@@ -11331,7 +11331,7 @@
       "currency": "CNY",
       "type": "基金",
       "exempt": "是",
-      "remarks": "加入"
+      "remarks": ""
     },
     {
       "number": "1260",
@@ -11451,5 +11451,5 @@
       "remarks": ""
     }
   ],
-  "fetched_at": "2026-11-26T04:35:07.662410"
+  "fetched_at": "2026-11-26T09:15:18.059049"
 }
